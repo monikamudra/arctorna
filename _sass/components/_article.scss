@@ -1,0 +1,164 @@
+@include token(
+  "c-Article", (
+    "indent": font-size-em($steps: 1)
+  )
+);
+
+@mixin blockquote-line() {
+  margin: 1em 0;  // -> This comes from the typographical and spacing proportions, and might be adjusted to the style of the article component.
+  padding-left: token("c-Article", "indent");
+  border-left: token("border-width", "thick") solid token("color-for", "text-highlight");  // -> This comes from the theme. The line style is probably related to the type face.
+
+  @include break($from: "medium") {
+    margin-left: token("c-Article", "indent") * -1;
+  }
+};
+
+.c-Article {
+  @include body-copy;
+
+  width: 100%;
+
+  h1, h2, h3, h4, h5, h6 {
+    & + p,
+    & + ul,
+    & + ol {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    margin-top: token("line-height", "body") * 1em;
+    margin-bottom: token("line-height", "body") * 1em;
+  }
+
+  ::selection {
+    background-color: token("color-for", "text-selection");
+    color: token("color-for", "text-strong");
+  }
+
+  ::-moz-selection {
+    background-color: token("color-for", "text-selection");
+    color: token("color-for", "text-strong");
+  }
+
+  @for $n from 1 through 6 {
+    h#{$n} {
+      @include heading-for-article("h#{$n}");
+    }
+  }
+
+  ul, ol {
+    padding-left: token("c-Article", "indent");
+
+    li {
+      position: relative;
+      list-style-type: none;
+
+      &::before {
+        position: absolute;
+        left: token("c-Article", "indent") * -1;
+        color: token("color-for", "text-highlight");
+      }
+    }
+
+    p, pre {
+      margin-top: 1em;
+      margin-bottom: 1em;
+    }
+
+    @include break($from: "medium") {
+      padding-left: 0;
+    }
+  }
+
+  ul {
+    li {
+      &::before {
+        content: "•";
+      }
+    }
+  }
+
+  ol {
+    counter-reset: article-ol;
+    li {
+      counter-increment: article-ol;
+
+      &::before {
+        content: counter(article-ol);
+      }
+    }
+  }
+
+  // dl {}
+
+  dt {
+    font-weight: bold;
+  }
+
+  dd {
+    margin-left: token("c-Article", "indent");
+  }
+
+  blockquote {
+    @include blockquote-line;
+    color: token("color-for", "text-secondary");  // -> This comes from the theme of the system.
+  }
+
+  code {
+    font-size: font-size-em(-1);  // This should be an adjustment on brand level, sice it’s about adjusting the alternative font to the main font.
+    color: token("color-for", "text-code");
+  }
+
+  pre {
+    padding: space-em(1);
+    background-color: token("color-for", "background-alt");
+    overflow-x: scroll;
+
+  }
+
+  a {
+    &,
+    &:visited {
+      color: token("color-for", "link");
+
+      &:hover {
+        color: token("color-for", "link");
+      }
+    }
+  }
+
+  table {
+    width: 100%;
+    font-size: font-size-em(-2);
+  }
+
+  td, th {
+    padding: .4em 1em;
+    border-bottom: token("border", "subtle");
+    border-right: token("border", "subtle");
+    font-family: token("font-family", "default");
+    line-height: token("line-height", "heading");
+    text-align: left;
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+      border-right: 0;
+    }
+  }
+
+  th {
+    border-right: none;
+    border-bottom: token("border", "strong");
+  }
+
+  td {
+    color: token("color-for", "text-secondary");
+  }
+
+}

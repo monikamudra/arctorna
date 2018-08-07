@@ -16,9 +16,17 @@ body {
 html {
   font-family: token("font-family", "default");
   font-size: font-size-px("uno");
-  line-height: 1;
+  line-height: token("line-height", "body");
   background-color: token("color-for", "background");
   color: token("color-for", "text");
+
+  @include break($from: 'medium') {
+    font-size: font-size-px('kilo');
+  }
+
+  @include break($from: 'large') {
+    font-size: font-size-px('mega');
+  }
 }
 
 h1,
@@ -27,10 +35,25 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 0;
-  color: currentColor;
-  font-size: 1em;
-  line-height: font-size-relative(2);  // Should be related to the font and content width.
+  @include heading-core;
+}
+
+h1 {
+  @include heading-for-block("large");
+}
+
+h2 {
+  @include heading-for-block("normal");
+}
+
+h3 {
+  @include heading-for-block("small");
+}
+
+h4,
+h5,
+h6 {
+  @include heading-for-block("exsmall");
 }
 
 button {

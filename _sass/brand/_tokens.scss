@@ -23,6 +23,7 @@
     "text-secondary": color("grey", 75%),
     "text-highlight": color("pink"),
     "text-strong": color("grey"),
+    "text-code": color("grey"),
     "text-selection": color("yellow"),
     "text-on-dark": color("grey", 10%),
     "heading": color("grey"),
@@ -76,17 +77,17 @@
 
 @include token(
   "font-family", (
-    "default": ("Roboto", Arial, Helvetica, sans-serif),
+    "default": ("Nunito", sans-serif),
     "monospace": ("Roboto Mono", Consolas, Monaco, "Andale Mono", monospace),
-    "slab": ("Roboto Slab", Rockwell, Georgia, serif)
+    "slab": ("Roboto Slab", Rockwell, Georgia, serif),
   )
 );
 
 @include token(
   "type-scale", (
-    "base-font-size": 16,
-    "ratio": 1.125,  // [1]
-    "base-label-index": 9,  // [2]
+    "base-font-size": 18,
+    "ratio": 1.125,
+    "base-label-index": 9,
     "labels": yocto zepto atto femto pico nano micro milli uno kilo mega giga tera peta exa zetta yotta bronto gego,
   )
 );
@@ -132,6 +133,6 @@
 @include token(
   "breakpoint", (
     'medium': font-size-px("mega") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
-    'large':  font-size-px("gego") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
+    'large':  font-size-px("exa") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
   )
 );
