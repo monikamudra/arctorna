@@ -1,0 +1,7 @@
+@function color($name, $tint: 100%) {
+  $color: token("color", $name);
+  $mix-color: if($tint > 100%, black, white);
+  $tint-amount: if($tint > 100%, 100% - ($tint - 100%), $tint);
+
+  @return mix($color, $mix-color, $tint-amount);
+}

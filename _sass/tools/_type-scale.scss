@@ -1,0 +1,62 @@
+// Type scale mixin
+// ================
+//
+// [1] Font sizes are based on 'major second' ratio, which is 1.125 (8:9)
+//     http://www.modularscale.com/?16&&1.125&web&text
+// [2] Position of the base font size in the type scale
+
+
+@import "./pow";
+
+
+// Check if a given scale label is valid. Retuns true or false.
+//
+@function is-valid-scale-label($scale-label) {
+  @return index(map-get($type-scale, 'labels'), $scale-label) != null;
+}
+
+// Returns with the scale label at the specified position
+//
+@function scale-label-at($position) {
+  @return nth(token("type-scale", "labels"), token("type-scale", "base-label-index") + $position);
+}
+
+// Returns the position of the provided label on the type scale, relative to
+// the base position
+//
+@function scale-label-position($scale-label) {
+  @return index(token("type-scale", "labels"), $scale-label) - token("type-scale", "base-label-index");
+}
+
+// Returns the proportion between two sizes in $steps distance on the scale.
+// This can be used for em font size values.
+//
+@function font-size-relative($steps) {
+  @return pow(token("type-scale", "ratio"), $steps);
+}
+
+// Returns with the named font size from the type scale.
+// The return value is unitless so it is ideal for calculations.
+//
+@function font-size($scale-label) {
+  @return token("type-scale", "base-font-size") * font-size-relative(scale-label-position($scale-label));
+}
+
+// Returns with the named font size from the type scale, in pixels.
+// This function can be used in CSS rules for non-responsive typography.
+//
+@function font-size-px($scale-label) {
+  @return font-size($scale-label) * 1px;
+}
+
+// Font size in rem units
+//
+@function font-size-rem($scale-label) {
+  @return font-size($scale-label) / token("type-scale", "base-font-size") * 1rem;
+}
+
+// Font size in em
+//
+@function font-size-em($steps) {
+  @return font-size-relative($steps) * 1em;
+}

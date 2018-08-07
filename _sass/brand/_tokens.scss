@@ -1,0 +1,137 @@
+// Tokens (brand variables)
+// ========================
+
+// Colors
+// ------
+
+@include token(
+  "color", (
+    "black": #000000,
+    "white": #ffffff,
+    "grey": #333232,
+    "pink": #f2778e,
+    "yellow": #fff7c1,
+    "purple": #efe2ff,
+  )
+);
+
+@include token(
+  "color-for", (
+    "background": color("white"),
+    "background-alt": color("grey", 10%),
+    "text": color("grey"),
+    "text-secondary": color("grey", 75%),
+    "text-highlight": color("pink"),
+    "text-strong": color("grey"),
+    "text-selection": color("yellow"),
+    "text-on-dark": color("grey", 10%),
+    "heading": color("grey"),
+    "link": color("pink"),
+    "friendly": color("grey", 50%),
+    "dangerous": color("grey", 50%),
+    "strong": color("grey", 75%),
+    "border": color("grey", 25%),
+    "border-strong": color("grey", 75%),
+    "border-subtle": color("grey", 10%)
+  )
+);
+
+
+// Border
+// ------
+
+@include token(
+  "border-width", (
+    "default": 1px,
+    "thick": 2px
+  )
+);
+
+@include token(
+  "border", (
+    "default": token("border-width", "default") solid token("color-for", "border"),
+    "strong": token("border-width", "default") solid token("color-for", "border-strong"),
+    "subtle": token("border-width", "default") solid token("color-for", "border-subtle")
+  )
+);
+
+@include token(
+  "shape", (
+    "radius": 0px
+  )
+);
+
+// Box shadow
+// ------
+
+@include token(
+  "box-shadow", (
+    "default": 0 0 0px rgba(0, 0, 0, .2),
+  )
+);
+
+
+// Typography
+// ----------
+
+@include token(
+  "font-family", (
+    "default": ("Roboto", Arial, Helvetica, sans-serif),
+    "monospace": ("Roboto Mono", Consolas, Monaco, "Andale Mono", monospace),
+    "slab": ("Roboto Slab", Rockwell, Georgia, serif)
+  )
+);
+
+@include token(
+  "type-scale", (
+    "base-font-size": 16,
+    "ratio": 1.125,  // [1]
+    "base-label-index": 9,  // [2]
+    "labels": yocto zepto atto femto pico nano micro milli uno kilo mega giga tera peta exa zetta yotta bronto gego,
+  )
+);
+
+@include token(
+  "line-height", (
+    "body": 1.6,
+    "heading": 1.2
+  )
+);
+
+@include token(
+  "line-length", (
+    "default": 34
+  )
+);
+
+
+// Space
+// -----
+
+@include token(
+  "space-unit", (
+    "relative": font-size-relative(2),
+    "static": font-size-px(scale-label-at(2))
+  )
+);
+
+
+// Screen
+// ------
+
+@include token(
+  "screen", (
+    "padding": 16px
+  )
+);
+
+
+// Breakpoints
+// -----------
+
+@include token(
+  "breakpoint", (
+    'medium': font-size-px("mega") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
+    'large':  font-size-px("gego") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
+  )
+);

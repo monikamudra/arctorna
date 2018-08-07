@@ -1,0 +1,12 @@
+// Power
+// =====
+
+@function pow($base, $exponent) {
+  @if $exponent > 1 {
+    @return pow($base, $exponent - 1) * $base;
+  }
+  @if $exponent < 1 {
+    @return pow($base, $exponent + 1) / $base;
+  }
+  @return $base;
+}

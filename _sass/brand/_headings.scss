@@ -1,0 +1,87 @@
+// Heading patterns
+// ================
+
+@mixin heading-core($scale-label, $unit: "em") {
+  @if is-scale-label-valid($scale-label) {
+
+    @if ($unit == "rem") {
+      font-size: font-size-rem($scale-label);
+    }
+    @else if ($unit == "em") {
+      font-size: (font-size-rem($scale-label) / 1rem) * 1em;
+    }
+    @else {
+      font-size: font-size-px($scale-label);
+    }
+
+    text-rendering: optimizelegibility;
+    font-weight: bold;
+    line-height: token("line-height", "heading");
+    color: token("color-for", "heading");
+
+  } @else {
+    @error "Invalid $scale-label: #{$scale-label}";
+  }
+}
+
+
+// Article heading
+// ---------------
+
+$heading-for-article-scale: (
+  'h1': 'zetta',
+  'h2': 'tera',
+  'h3': 'mega',
+  'h4': 'uno',
+  'h5': 'micro',
+  'h6': 'nano'
+);
+
+@mixin heading-for-article($size-label, $em: false) {
+  $scale-label: map-get($heading-for-article-scale, $size-label);
+
+  @if $scale-label {
+    @include heading-core($scale-label);
+    margin-top: 1.6em;
+    margin-bottom: .3em;
+
+  } @else {
+    @error "$size-label should be a key of $heading-for-article-scale. Was: #{$size-label}";
+  }
+}
+
+
+// Block heading
+// -------------
+
+$heading-for-block-scale: (
+  'exlarge': 'bronto',
+  'large':   'yotta',
+  'normal':  'exa',
+  'small':   'tera',
+  'exsmall': 'mega',
+  'mini': 'uno'
+);
+
+$heading-spacing: (
+  top: .5em,
+  bottom: .7em,
+  bottom-block: 1.3em
+);
+
+@function heading-spacing($type) {
+  @return map-get($heading-spacing, $type);
+}
+
+@mixin heading-for-block($size-label, $unit: "em") {
+  $scale-label: map-get($heading-for-block-scale, $size-label);
+
+  @if $scale-label {
+    @include heading-core($scale-label, $unit: $unit);
+    margin-top: heading-spacing('top');
+    margin-bottom: heading-spacing('bottom');
+
+  } @else {
+    @error "$size-label should be a key of $heading-for-block-scale. Was: #{$size-label}";
+  }
+}

@@ -1,0 +1,11 @@
+@function space-rem($units: 1) {
+  @return token("space-unit", "relative") * $units * 1rem;
+}
+
+@function space-em($units: 1) {
+  @return token("space-unit", "relative") * $units * 1em;
+}
+
+@function space-px($units: 1) {
+  @return token("space-unit", "static") * $units;
+}

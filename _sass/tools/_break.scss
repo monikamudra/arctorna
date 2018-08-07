@@ -1,0 +1,38 @@
+// Break – A simple breakpoint mixin
+// =================================
+//
+// Examples:
+//
+// @include break($to: 'medium') { ... }
+// @include break($from: 'medium') { ... }
+// @include break($from: 1376) { ... }
+// @include break($from: 'small', $to: 'medium') { ... }
+
+
+@mixin break($from: false, $to: false) {
+  $media: 'screen';
+
+  @if $from {
+    @if type-of($from) != number {
+      $from: token("breakpoint", $from);
+    }
+    @if unitless($from) {
+      $from: $from * 1px;
+    }
+    $media: $media + ' and (min-width: #{$from})';
+  }
+
+  @if $to {
+    @if type-of($to) != number {
+      $to: token("breakpoint", $to) - 1px;
+    }
+    @if unitless($to) {
+      $to: $to * 1px;
+    }
+    $media: $media + ' and (max-width: #{$to})';
+  }
+
+  @media #{$media} {
+    @content;
+  }
+}

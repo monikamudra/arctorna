@@ -1,0 +1,14 @@
+// Strict map-get
+// ==============
+//
+// Throws error if the requested key doesn't exist.
+
+@function map-get-strict($map, $key, $error-message: null) {
+  @if map-has-key($map, $key) {
+    @return map-get($map, $key);
+
+  } @else {
+    $default-error-message: 'Key "#{$key}" does not exist in the map.';
+    @error $error-message or $default-error-message;
+  }
+}

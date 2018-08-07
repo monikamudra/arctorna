@@ -1,0 +1,12 @@
+@mixin circle($font-size, $box-size-ratio, $bg-color, $fg-color) {
+  display: inline-block;
+  width: $box-size-ratio * 1em;
+  height: $box-size-ratio * 1em;
+  border: none;
+  border-radius: 51%;
+  background-color: $bg-color;
+  color: $fg-color;
+  line-height: $box-size-ratio;
+  font-size: $font-size;
+  text-align: center;
+}

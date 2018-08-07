@@ -1,0 +1,13 @@
+// Does keys of $map contain any from $key-list?
+// =============================================
+
+@function map-has-any-keys($map, $key-list) {
+  $map-keys: map-keys($map);
+  $result: false;
+  @each $el in $key-list {
+    @if index($map-keys, $el) {
+      $result: true;
+    }
+  }
+  @return $result;
+}

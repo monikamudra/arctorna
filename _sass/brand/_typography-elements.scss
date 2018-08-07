@@ -1,0 +1,14 @@
+@mixin body-copy {
+  font-size: font-size-rem("kilo");
+  line-height: token("line-height", "body");
+  max-width: token("line-length", "default") * 1em;
+
+  @include break($from: "medium") {
+    font-size: font-size-rem("mega");
+  }
+}
+
+@mixin all-caps {
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}

@@ -1,0 +1,3 @@
+@mixin debug($color: red) {
+  outline: 1px solid transparentize($color, .5);
+}

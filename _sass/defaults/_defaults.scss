@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  font-family: token("font-family", "default");
+  font-size: font-size-px("uno");
+  line-height: 1;
+  background-color: token("color-for", "background");
+  color: token("color-for", "text");
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  color: currentColor;
+  font-size: 1em;
+  line-height: font-size-relative(2);  // Should be related to the font and content width.
+}
+
+button {
+  font-family: inherit;
+}
+
+ul,
+ol {
+  padding: 0;
+
+  li {
+    list-style-type: none;
+  }
+}
+
+table {
+  border-collapse: collapse;
+}
+
+code {
+  font-family: token("font-family", "monospace");
+}

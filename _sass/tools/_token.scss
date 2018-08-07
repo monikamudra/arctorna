@@ -1,0 +1,15 @@
+// Brand token tools
+// =================
+
+$tokens: () !default;
+
+// Get token
+@function token($category, $key) {
+  $cat: map-get-strict($tokens, $category, 'There is no "#{$category}" category defined in tokens!');
+  @return map-get-strict($cat, $key, 'There is no "#{$key}" key defined for "#{$category}" in tokens!');
+}
+
+// Set tokens
+@mixin token($category, $tokenMap) {
+  $tokens: map-extend($tokens, ($category: $tokenMap), true) !global;
+}
