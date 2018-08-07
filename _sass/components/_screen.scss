@@ -1,0 +1,25 @@
+// .c-Screen {}
+
+.c-Screen__Section {
+  overflow: hidden;
+  padding-left: token("screen", "padding");
+  padding-right: token("screen", "padding");
+  padding-top: space-rem(1);
+  padding-bottom: space-rem(1);
+}
+
+.c-Screen__Section--Separated {
+  border-bottom: token("border", "subtle");
+}
+
+.c-Screen__Section--Alt {
+  background-color: token("color-for", "background-alt");
+}
+
+.c-Screen__Section--Workshop {
+  background-color: token("color", "yellow");
+}
+
+.c-Screen__Section--Training {
+  background-color: token("color", "purple");
+}

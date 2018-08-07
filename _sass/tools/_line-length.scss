@@ -1,4 +1,4 @@
-// Returns the maximum content width for the specified 
+// Returns the maximum content width for the specified size on the scale
 @function line-length($scale-label) {
   @return (font-size-px(scale-label-at(0)) * token("line-length", "default") * font-size-relative(scale-label-position($scale-label)));
 }
