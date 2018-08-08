@@ -1,0 +1,27 @@
+.c-Button {
+  -webkit-appearance: none;
+  display: inline-block;
+  min-width: 18em;
+  padding: 1.4em;
+  border: none;
+  border-radius: 100em;
+  background-color: color("pink");
+  color: token("color-for", "text-on-dark");
+  text-align: center;
+  font-size: font-size-rem("uno");
+  line-height: 1;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+
+  &:hover {
+    background-color: color("pink-active");
+  }
+
+  &:active {
+    background-color: color("pink");
+  }
+}
