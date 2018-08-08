@@ -60,13 +60,13 @@ $heading-for-block-scale: (
   'exlarge': 'gego',
   'large':   'yotta',
   'normal':  'exa',
-  'small':   'tera',
-  'exsmall': 'mega',
+  'small':   'mega',
+  'exsmall': 'uno',
   'mini': 'uno'
 );
 
 $heading-spacing: (
-  top: .5em,
+  top: 0,
   bottom: .3em,
   bottom-block: 1.3em
 );

@@ -9,6 +9,10 @@
   font-size: font-size-em(1);
 }
 
+.c-ContentBlock--Wide {
+  max-width: token("line-length", "default") * font-size-em(3);
+}
+
 .c-ContentBlock--Stretched {
   max-width: none;
   margin-left: token("screen", "padding") * -1;

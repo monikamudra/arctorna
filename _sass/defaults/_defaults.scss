@@ -36,10 +36,6 @@ h4,
 h5,
 h6 {
   @include heading-core;
-
-  & + p {
-    margin-top: 0;
-  }
 }
 
 h1 {
@@ -61,8 +57,7 @@ h6 {
 }
 
 p {
-  margin-top: token("line-height", "body") * 1em;
-  margin-bottom: token("line-height", "body") * 1em;
+  margin: 0;
 }
 
 ::selection {
