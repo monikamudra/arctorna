@@ -11,7 +11,7 @@
     "grey": #333232,
     "pink": #f2778e,
     "yellow": #fff7c1,
-    "purple": #efe2ff,
+    "purple": #eadbfa,
   )
 );
 
@@ -101,7 +101,7 @@
 
 @include token(
   "line-length", (
-    "default": 34
+    "default": 40
   )
 );
 
@@ -122,7 +122,7 @@
 
 @include token(
   "screen", (
-    "padding": 16px
+    "padding": space-px(1),
   )
 );
 
@@ -133,6 +133,6 @@
 @include token(
   "breakpoint", (
     'medium': font-size-px("mega") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
-    'large':  font-size-px("exa") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
+    'large':  font-size-px("yotta") * token("line-length", "default") + token("screen", "padding") / 1px * 2,
   )
 );

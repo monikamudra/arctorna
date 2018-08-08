@@ -15,8 +15,6 @@
 };
 
 .c-Article {
-  @include body-copy;
-
   width: 100%;
 
   h1, h2, h3, h4, h5, h6 {
@@ -25,21 +23,6 @@
     & + ol {
       margin-top: 0;
     }
-  }
-
-  p {
-    margin-top: token("line-height", "body") * 1em;
-    margin-bottom: token("line-height", "body") * 1em;
-  }
-
-  ::selection {
-    background-color: token("color-for", "text-selection");
-    color: token("color-for", "text-strong");
-  }
-
-  ::-moz-selection {
-    background-color: token("color-for", "text-selection");
-    color: token("color-for", "text-strong");
   }
 
   @for $n from 1 through 6 {

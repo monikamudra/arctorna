@@ -36,6 +36,10 @@ h4,
 h5,
 h6 {
   @include heading-core;
+
+  & + p {
+    margin-top: 0;
+  }
 }
 
 h1 {
@@ -54,6 +58,21 @@ h4,
 h5,
 h6 {
   @include heading-for-block("exsmall", $unit: "rem");
+}
+
+p {
+  margin-top: token("line-height", "body") * 1em;
+  margin-bottom: token("line-height", "body") * 1em;
+}
+
+::selection {
+  background-color: token("color-for", "text-selection");
+  color: token("color-for", "text-strong");
+}
+
+::-moz-selection {
+  background-color: token("color-for", "text-selection");
+  color: token("color-for", "text-strong");
 }
 
 button {
