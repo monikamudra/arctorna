@@ -9,6 +9,12 @@
   font-size: font-size-em(1);
 }
 
+.c-ContentBlock--Stretched {
+  max-width: none;
+  margin-left: token("screen", "padding") * -1;
+  margin-right: token("screen", "padding") * -1;
+}
+
 .c-ContentBlock--Centered {
   text-align: center;
 }
