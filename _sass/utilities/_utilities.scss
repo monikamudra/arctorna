@@ -16,6 +16,10 @@
 }
 
 .u-MarginTopLarge {
+  margin-top: space-rem(1.5);
+}
+
+.u-MarginTopXLarge {
   margin-top: space-rem(2);
 }
 
@@ -25,6 +29,10 @@
 
 .u-MarginBottom {
   margin-bottom: space-rem(1);
+}
+
+.u-MarginBottomLarge {
+  margin-bottom: space-rem(1.5);
 }
 
 .u-MarginBottomLarge {
@@ -39,12 +47,28 @@
   padding-top: space-rem(1);
 }
 
+.u-PaddingTopLarge {
+  padding-top: space-rem(1.5);
+}
+
+.u-PaddingTopXLarge {
+  padding-top: space-rem(2);
+}
+
 .u-PaddingBottomZero {
   padding-bottom: 0;
 }
 
 .u-PaddingBottom {
   padding-bottom: space-rem(1);
+}
+
+.u-PaddingBottomLarge {
+  padding-bottom: space-rem(1.5);
+}
+
+.u-PaddingBottomXLarge {
+  padding-bottom: space-rem(2);
 }
 
 .u-AllCaps {
