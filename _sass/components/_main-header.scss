@@ -1,0 +1,59 @@
+.c-MainHeader {
+  padding: token("screen", "padding");
+  padding-bottom: 0;
+  font-family: token("font-family", "handwriting");
+  font-weight: bold;
+
+  @include break($from: 450px) {
+    font-size: font-size-em(2);
+  }
+
+  @include break($from: 768px) {
+    font-size: font-size-em(3);
+  }
+
+  a,
+  a:visited {
+    text-decoration: none;
+    color: token("color-for", "text");
+  }
+
+  a:hover,
+  a:active {
+    color: token("color-for", "link");
+  }
+}
+
+.c-MainHeader__ContentBlock {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: token("line-length", "default") * font-size-em(-2);
+}
+
+.c-MainHeader__Title {
+  flex: 1 1 auto;
+}
+
+.c-MainHeader__Nav {
+  flex: 0 1 auto;
+  display: flex;
+
+  a {
+    &:not(:last-child) {
+      position: relative;
+      padding-right: .5em;
+      margin-right: .5em;
+
+      &:after {
+        content: "•";
+        display: block;
+        position: absolute;
+        right: -.5em;
+        top: .6em;
+        color: color("grey", 25%);
+        font-size: font-size-em(-5);
+      }
+    }
+  }
+}
