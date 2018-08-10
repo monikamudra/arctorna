@@ -46,3 +46,8 @@
 .u-PaddingBottom {
   padding-bottom: space-rem(1);
 }
+
+.u-AllCaps {
+  @include all-caps;
+  font-size: font-size-em(-1);
+}

@@ -90,3 +90,13 @@ table {
 code {
   font-family: token("font-family", "monospace");
 }
+
+small {
+  font-size: font-size-em(-2);
+
+  h1 &,
+  h2 &,
+  h3 & {
+    font-size: font-size-em(-5);
+  }
+}

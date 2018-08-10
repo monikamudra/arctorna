@@ -112,8 +112,8 @@
 
 @include token(
   "space-unit", (
-    "relative": font-size-relative(2),
-    "static": font-size-px(scale-label-at(2))
+    "relative": font-size-relative(0),
+    "static": font-size-px(scale-label-at(0))
   )
 );
 
