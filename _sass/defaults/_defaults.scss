@@ -39,21 +39,21 @@ h6 {
 }
 
 h1 {
-  @include heading-for-block("exlarge", $unit: "rem");
+  @include heading-for-block("large", $unit: "em");
 }
 
 h2 {
-  @include heading-for-block("normal", $unit: "rem");
+  @include heading-for-block("normal", $unit: "em");
 }
 
 h3 {
-  @include heading-for-block("small", $unit: "rem");
+  @include heading-for-block("small", $unit: "em");
 }
 
 h4,
 h5,
 h6 {
-  @include heading-for-block("exsmall", $unit: "rem");
+  @include heading-for-block("exsmall", $unit: "em");
 }
 
 p {

@@ -6,9 +6,12 @@
 }
 
 .c-Collection__Item {
-  width: 50%;
   padding: space-rem(.5);
   font-size: font-size-px("milli");
+
+  @include break($from: 600px) {
+    width: 50%;
+  }
 
   @include break($from: "medium") {
     width: 33.333333333%;
