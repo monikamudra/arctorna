@@ -51,3 +51,15 @@
   @include all-caps;
   font-size: font-size-em(-1);
 }
+
+.u-TextAlignLeft {
+  text-align: left;
+}
+
+.u-TextAlignRight {
+  text-align: right;
+}
+
+.u-TextAlignCenter {
+  text-align: center;
+}
