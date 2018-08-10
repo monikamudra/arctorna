@@ -7,7 +7,7 @@
   max-width: 100%;
 }
 
-.u-NoTopMargin {
+.u-MarginTopZero {
   margin-top: 0;
 }
 
@@ -17,4 +17,32 @@
 
 .u-MarginTopLarge {
   margin-top: space-rem(2);
+}
+
+.u-MarginBottomZero {
+  margin-bottom: 0;
+}
+
+.u-MarginBottom {
+  margin-bottom: space-rem(1);
+}
+
+.u-MarginBottomLarge {
+  margin-bottom: space-rem(2);
+}
+
+.u-PaddingTopZero {
+  padding-top: 0;
+}
+
+.u-PaddingTop {
+  padding-top: space-rem(1);
+}
+
+.u-PaddingBottomZero {
+  padding-bottom: 0;
+}
+
+.u-PaddingBottom {
+  padding-bottom: space-rem(1);
 }
