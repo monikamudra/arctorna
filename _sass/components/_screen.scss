@@ -17,9 +17,11 @@
 }
 
 .c-Screen__Section--Workshop {
+  padding-top: space-rem(5);
   background-color: token("color", "yellow");
 }
 
 .c-Screen__Section--Training {
+  padding-top: space-rem(5);
   background-color: token("color", "purple");
 }
