@@ -1,12 +1,14 @@
+$c-Collection-Space: space-rem(.5);
+
 .c-Collection {
   display: flex;
   flex-wrap: wrap;
-  margin-left: space-rem(.5) * -1;
-  margin-right: space-rem(.5) * -1;
+  margin-left: $c-Collection-Space * -1;
+  margin-right: $c-Collection-Space * -1;
 }
 
 .c-Collection__Item {
-  padding: space-rem(.5);
+  padding: $c-Collection-Space;
   font-size: font-size-px("milli");
 
   @include break($from: 600px) {
@@ -15,5 +17,25 @@
 
   @include break($from: "medium") {
     width: 33.333333333%;
+  }
+}
+
+.c-Collection--Contoured {
+  $box-padding: space-rem(1);
+  $box-margin: space-rem(.5);
+
+  margin-left: $box-padding * -1;
+  margin-right: $box-padding * -1;
+
+  .c-Collection__Item {
+    @include break($from: 600px) {
+      width: calc(50% - #{$box-margin * 2});
+      margin: $box-margin;
+      padding: $box-padding;
+      background-color: color("grey", 5%);
+    }
+    @include break($from: "medium") {
+      width: calc(33.333333333% - #{$box-margin * 2});
+    }
   }
 }

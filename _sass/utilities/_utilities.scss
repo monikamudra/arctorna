@@ -87,3 +87,7 @@
 .u-TextAlignCenter {
   text-align: center;
 }
+
+.u-OptimalLineLength {
+  max-width: token("line-length", "default") * 1em;
+}

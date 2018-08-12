@@ -17,6 +17,11 @@
 .c-Article {
   width: 100%;
 
+  p, pre {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
   h1, h2, h3, h4, h5, h6 {
     & + p,
     & + ul,
@@ -43,11 +48,6 @@
         left: token("c-Article", "indent") * -1;
         color: token("color-for", "text-highlight");
       }
-    }
-
-    p, pre {
-      margin-top: 1em;
-      margin-bottom: 1em;
     }
 
     @include break($from: "medium") {

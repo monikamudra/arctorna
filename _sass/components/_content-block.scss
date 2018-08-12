@@ -5,12 +5,8 @@
   margin-right: auto;
 }
 
-.c-ContentBlock--Prominent {
-  font-size: font-size-em(1);
-}
-
 .c-ContentBlock--Wide {
-  max-width: token("line-length", "default") * font-size-em(1);
+  max-width: token("line-length", "default") * font-size-em(2);
 }
 
 .c-ContentBlock--Stretched {
@@ -21,42 +17,4 @@
 
 .c-ContentBlock--Centered {
   text-align: center;
-}
-
-.c-ContentBlock--Illustrated {
-  @include break($from: 650px) {
-    display: flex;
-  }
-}
-
-.c-ContentBlock__Content {
-    max-width: token("line-length", "default") * 1em;
-}
-
-.c-ContentBlock__Illustration {
-  position: relative;
-  width: 300px;
-  margin-top: 40px;
-  margin-left: auto;
-  margin-right: auto;
-
-  @include break($from: 650px) {
-    flex: 0 0 auto;
-    width: 250px;
-    margin-top: 0;
-    margin-left: 20px;
-    margin-right: 0;
-
-    img {
-      position: absolute;
-      left: 0;
-      bottom: -15px;
-    }
-  }
-
-  @include break($from: 800px) {
-    width: 300px;
-  }
-
-
 }

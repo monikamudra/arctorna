@@ -6,7 +6,7 @@
   text-rendering: optimizelegibility;
   font-weight: bold;
   line-height: token("line-height", "heading");
-  color: token("color-for", "heading");
+  // color: token("color-for", "heading");
 }
 
 @mixin heading-size($scale-label, $unit: "em") {

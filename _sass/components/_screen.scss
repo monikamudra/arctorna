@@ -16,6 +16,11 @@
   background-color: token("color-for", "background-alt");
 }
 
+.c-Screen__Section--Inverse {
+  background-color: token("color-for", "background-dark");
+  color: token("color-for", "text-on-dark");
+}
+
 .c-Screen__Section--Workshop {
   padding-top: space-rem(5);
   background-color: token("color", "yellow");
