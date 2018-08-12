@@ -29,6 +29,7 @@ url: "https://arctornamonival.hu" # the base hostname & protocol for your site, 
 twitter_username: jekyllrb
 github_username:  jekyll
 lang: hu
+timezone: Europe/Budapest
 
 # Build settings
 markdown: kramdown
@@ -36,6 +37,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+  - jekyll-money
 
 relative_links:
   enabled:     true

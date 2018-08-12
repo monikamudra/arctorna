@@ -1,0 +1,24 @@
+events:
+  workshop:
+    -
+      date: 2018-09-01
+      start: "10:00"
+      title: Arctorna Workshop
+      address: 1132 Budapest, Visegrádi utca 6.
+    -
+      date: 2018-09-02 10:00
+      start: "10:00"
+      end: "14:00"
+      title: Arctorna Workshop
+      address: 1132 Budapest, Visegrádi utca 6.
+    -
+      date: 2018-10-06 15:00
+      start: "10:00"
+      end: "17:00"
+      price: 15000
+      title: Arctorna + Jóga Workshop
+      address: Dunakeszi, Iskola utca 18.
+      description:
+        Különleges arctorna workshop és jóga kombinációja
+        Mónival és Virággal. Gyere el, ismerd meg az arctornát,
+        és frissülj fel egy jó kis jógával.

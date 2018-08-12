@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% assign data = site.data.info %}
+
 <main class="c-Screen">
   <section class="c-Screen__Section c-Screen__Section--Workshop">
     <div class="c-ContentBlock c-ContentBlock--Centered">
@@ -11,7 +13,7 @@ layout: default
         Workshop
       </h1>
       <p class="u-TextAlignLeft">
-        Egy gyors és könnyed bevezetés az arc fiatalon tartásának természetes
+        Gyors és könnyed bevezetés az arc fiatalon tartásának természetes
         módszerébe. Gyakorlati megoldást kapsz arra, hogyan tüntesd el a tokát,
         a szem alatti karikákat, hogyan feszesítheted a szemhéjakat, hogyan
         töltheted fel az orr melletti barázdákat és az apró mimikai ráncokat.
@@ -29,7 +31,6 @@ layout: default
       <div style="padding:56.25% 0 0 0;position:relative;">
         <iframe src="https://player.vimeo.com/video/124077529?color=f2778e&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
-      <script src="https://player.vimeo.com/api/player.js"></script>
     </div>
   </section>
   <section class="c-Screen__Section">
@@ -71,11 +72,8 @@ layout: default
   </section>
   <section class="c-Screen__Section c-Screen__Section--Alt">
     <div class="c-ContentBlock">
-      <h2>Mennyibe kerül?</h2>
+      <h2>Regisztráció</h2>
       <div class="c-Article">
-        <p>
-          A workshop részvételi díja <strong>12&nbsp;000&nbsp;Ft</strong>.
-        </p>
         <p>
           A helyfoglaláshoz szükséges 4&nbsp;000&nbsp;Ft előleg, melyet kérek
           szépen előre átutalni. Az átutaláshoz szükséges adatokat a jelentkezés
@@ -83,6 +81,63 @@ layout: default
           összeget a workshopon kell fizetni.
         </p>
       </div>
+    </div>
+    <div class="c-ContentBlock u-MarginTopXLarge">
+      <h3>Következő időpontok</h3>
+      <ul class="c-List">
+        {% for event in data.events.workshop %}
+          <li class="c-List__Item">
+            <div class="c-Event">
+              <time class="c-Event__Date" datetime="2018-09-01">
+                <span class="c-Event__Month">
+                  {% assign m = event.date | date: "%-m" %}
+                  {% case m %}
+                    {% when '1' %}január
+                    {% when '2' %}február
+                    {% when '3' %}március
+                    {% when '4' %}április
+                    {% when '5' %}május
+                    {% when '6' %}június
+                    {% when '7' %}július
+                    {% when '8' %}augusztus
+                    {% when '9' %}szeptember
+                    {% when '10' %}október
+                    {% when '11' %}november
+                    {% when '12' %}december
+                  {% endcase %}
+                </span>
+                <span class="c-Event__Day">{{ event.date | date: "%e" }}</span>
+                <span class="c-Event__DayOfWeek">
+                  {% assign d = event.date | date: "%w" %}
+                  {% case d %}
+                    {% when '0' %}hétfő
+                    {% when '1' %}kedd
+                    {% when '2' %}szerda
+                    {% when '3' %}csütörtök
+                    {% when '4' %}péntek
+                    {% when '5' %}szombat
+                    {% when '6' %}vasárnap
+                  {% endcase %}
+                </span>
+                <span class="c-Event__Time">{{ event.start }}{% if event.end %}–{{ event.end }}{% endif %}</span>
+              </time>
+              <div class="c-Event__Details">
+                <div class="c-Event__Title">{{ event.title }}</div>
+                <address class="c-Event__Address">{{ event.address }}</address>
+                <div class="c-Event__Price">
+                  A workshop ára <strong>{{ event.price | default: 12000 | money: "HUF" }}</strong>
+                </div>
+                {% if event.description %}
+                <p class="c-Event__Description">{{ event.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
+      <a class="c-Button" href="#">Regisztrálok</a>
     </div>
   </section>
 </main>

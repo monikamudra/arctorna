@@ -1,0 +1,54 @@
+.c-Event {
+  display: flex;
+}
+
+.c-Event__Date {
+  display: flex;
+  flex-direction: column;
+  min-width: 8em;
+  padding: space-rem(1);
+  padding-top: space-rem(1.35);
+  background-color: color("white");
+  text-align: center;
+  line-height: 1.2;
+}
+
+.c-Event__Details {
+  flex: 1 1 auto;
+  margin-left: 2px;
+  padding: space-rem(1);
+  background-color: color("white");
+}
+
+.c-Event__Month {
+  font-weight: bold;
+}
+
+.c-Event__Day {
+  font-weight: bold;
+  font-size: font-size-em(5);
+}
+
+.c-Event__DayOfWeek {
+  margin-bottom: .5em;
+  padding-top: .1em;
+  padding-bottom: .1em;
+  background-color: color("pink");
+  color: color("white");
+}
+
+.c-Event__Time {
+  font-size: font-size-em(-2);
+}
+
+.c-Event__Title {
+  // font-family: token("font-family", "slab");
+  font-weight: bold;
+  font-size: font-size-em(1);
+}
+
+.c-Event__Description {
+  margin-top: 1em;
+  font-size: font-size-em(-1);
+  color: token("color-for", "text-secondary");
+}
