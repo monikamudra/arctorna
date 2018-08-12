@@ -1,0 +1,7 @@
+.c-MainFooter {
+  flex: 1 0 auto;
+  height: 300px;
+  padding: token("screen", "padding");
+  background-color: token("color-for", "background-dark");
+  color: token("color-for", "text-on-dark");
+}
