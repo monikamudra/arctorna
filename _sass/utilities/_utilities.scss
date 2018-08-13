@@ -91,3 +91,7 @@
 .u-OptimalLineLength {
   max-width: token("line-length", "default") * 1em;
 }
+
+.u-NoWrap {
+  white-space: nowrap;
+}
