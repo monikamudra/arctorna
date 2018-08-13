@@ -1,3 +1,9 @@
+workshop:
+  price: 12000
+  price_desc: Résztvételi díj
+training:
+  price: 35000
+  price_desc: A 10 alkalmas blokk ára
 events:
   workshop:
     -
@@ -22,3 +28,14 @@ events:
         Különleges arctorna workshop és jóga kombinációja
         Mónival és Virággal. Gyere el, ismerd meg az arctornát,
         és frissülj fel egy jó kis jógával.
+  training:
+    -
+      date: 2018-09-11
+      start: "18:30"
+      title: Tréning kezdő csoport
+      address: Budapest
+    -
+      date: 2018-10-8
+      start: "18:30"
+      title: Tréning kezdő csoport
+      address: Budapest

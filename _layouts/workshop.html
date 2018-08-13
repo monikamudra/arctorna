@@ -89,7 +89,7 @@ layout: default
     </div>
     <div class="c-ContentBlock u-MarginTopXLarge">
       <h3>Következő időpontok</h3>
-      {% include events.html data = data.events.workshop %}
+      {% include events.html data = data.events.workshop price = data.workshop.price price_desc = data.workshop.price_desc %}
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
       <a class="c-Button" href="#">Regisztrálok</a>

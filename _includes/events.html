@@ -19,8 +19,11 @@
         <div class="c-Event__Title">{{ event.title }}</div>
         <address class="c-Event__Address">{{ event.address }}</address>
         <div class="c-Event__Price">
-          A workshop ára
-          <strong>{{ event.price | default: 12000 | money: "HUF" }}</strong>
+          {% assign price_desc = event.price_desc | default: include.price_desc %}
+          {% if price_desc %}
+            <span class="c-Event__PriceDesc">{{ price_desc }}</span>
+          {% endif %}
+          <strong>{{ event.price | default: include.price | money: "HUF" }}</strong>
         </div>
         {% if event.description %}
         <p class="c-Event__Description">{{ event.description }}</p>
