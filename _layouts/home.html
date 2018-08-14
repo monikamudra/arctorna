@@ -3,7 +3,7 @@ layout: default
 ---
 
 <main class="c-Screen">
-  <section class="c-Screen__Section u-PaddingTopXLarge">
+  <section class="c-Screen__Section c-Screen__Section--Separated u-PaddingTopXLarge">
     <div class="c-ContentBlock--Stretched c-ContentBlock--Centered">
       <img class="u-FlexImage" src="assets/images/hypergroup.png" srcset="assets/images/hypergroup.jpg 1x, assets/images/hypergroup@2x.jpg 2x" alt="Vidám arctornás lányok csoportja" style="max-width: 500px; margin-top: 40px;" />
     </div>
@@ -23,7 +23,9 @@ layout: default
     </div>
   </section>
 
+  {% comment %}
   {% include newsletter.html %}
+  {% endcomment %}
 
   <section class="c-Screen__Section u-PaddingBottom">
     <div class="c-ContentBlock">

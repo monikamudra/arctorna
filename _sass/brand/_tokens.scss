@@ -34,7 +34,7 @@
     "dangerous": color("grey", 50%),
     "strong": color("grey", 75%),
     "border": color("grey", 25%),
-    "border-strong": color("grey", 75%),
+    "border-strong": color("grey", 10%),
     "border-subtle": color("grey", 10%)
   )
 );
@@ -46,14 +46,14 @@
 @include token(
   "border-width", (
     "default": 1px,
-    "thick": 2px
+    "thick": 10px
   )
 );
 
 @include token(
   "border", (
     "default": token("border-width", "default") solid token("color-for", "border"),
-    "strong": token("border-width", "default") solid token("color-for", "border-strong"),
+    "strong": token("border-width", "thick") solid token("color-for", "border-strong"),
     "subtle": token("border-width", "default") solid token("color-for", "border-subtle")
   )
 );
