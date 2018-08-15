@@ -1,3 +1,9 @@
 <script>
-  'use strict';(function(){'use strict';var a=document.querySelectorAll('a[href^="#"]');a.forEach(function(b){b.addEventListener('click',function(c){var d=b.getAttribute('href'),f=document.querySelector(d);f.scrollIntoView({behavior:'smooth',block:'start'}),history.pushState(null,null,d),c.preventDefault()})})})();
+  'use strict';
+
+  // Scroll to anchor
+  (function() {'use strict';var a=document.querySelectorAll('a[href^="#"]');a.forEach(function(b){b.addEventListener('click',function(c){var d=b.getAttribute('href'),f=document.querySelector(d);f.scrollIntoView({behavior:'smooth',block:'start'}),history.pushState(null,null,d),c.preventDefault()})})})();
+
+  // Registration typeform
+  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })();
 </script>
