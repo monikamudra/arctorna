@@ -16,18 +16,9 @@
 title: Arctorna Mónival
 email: moni@arctornamonival.hu
 description: >- # this means to ignore newlines until "baseurl:"
-  Az arc megereszkedése és ráncosodása megelőzhető, vagy visszafordítható az arc
-  izmainak rendszeres edzésével. Épp úgy, mint a testen! Amikor az arc izmai
-  elkezdenek gyengülni, az arc egyre petyhüdtebbé válik, fáradtabbnak,
-  öregebbnek néz ki. Ezt a lassú sorvadási folyamatot azonban képesek vagyunk
-  megállítani az arcizmok rendszeres edzésével, ugyanúgy mint a test bármely
-  részén. Gondosan összeállított gyakorlatokkal hatékonyan megemelhetjük,
-  feszesíthetjük arcunkat, kisimíthatjuk a ráncokat, vagy eltüntethetjük a
-  tokát.
+  Arcfiatalítás természetesen
 baseurl: "/arctorna" # the subpath of your site, e.g. /blog
 url: "https://arctornamonival.hu" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 lang: hu
 timezone: Europe/Budapest
 
