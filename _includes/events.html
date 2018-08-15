@@ -10,8 +10,16 @@
         </span>
         <span class="c-Event__Day">{{ event.date | date: "%e" }}</span>
         <span class="c-Event__DayOfWeek">
-          {% assign d = event.date | date: "%w" %} {% case d %} {% when '0' %}hétfő {% when '1' %}kedd {% when '2' %}szerda {% when
-          '3' %}csütörtök {% when '4' %}péntek {% when '5' %}szombat {% when '6' %}vasárnap {% endcase %}
+          {% assign d = event.date | date: "%w" %}
+          {% case d %}
+            {% when '1' %}hétfő
+            {% when '2' %}kedd
+            {% when '3' %}szerda
+            {% when '4' %}csütörtök
+            {% when '5' %}péntek
+            {% when '6' %}szombat
+            {% when '0' %}vasárnap
+          {% endcase %}
         </span>
         <span class="c-Event__Time">{{ event.start }}{% if event.end %}–{{ event.end }}{% endif %}</span>
       </time>
