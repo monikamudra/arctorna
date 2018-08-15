@@ -27,11 +27,9 @@ events:
   training:
     -
       date: 2018-09-11
-      start: "18:30"
       title: Tréning kezdő csoport
       address: Budapest
     -
-      date: 2018-10-8
-      start: "18:30"
+      date: 2018-09-17
       title: Tréning kezdő csoport
       address: Budapest
