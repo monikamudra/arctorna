@@ -33,21 +33,8 @@ layout: default
     <div class="c-ContentBlock">
       <h2>A tréning részletei</h2>
       <div class="c-Article">
-        <p>
-          A Komplett Arctorna Tréning a folyamatos edzés és tanfolyam
-          kombinációja.
-
-          A program három blokkból áll, melyek a kezdőtől a haladó
-          szintig vezetnek. Minden blokk 10&nbsp;egymásra
-          épülő edzést tartalmaz. Az edzések 60 percesek, és hetente kétszer
-          vannak.
-        </p>
-
-
-        - Mi is ez a tréning (mit ad a tréning)
-        - Hogyan épül fel a tréning
-        - Lehet a blokkokat külön végezni?
-        - Mi van ha megszakítom a "blokkot" (nem jövök)
+        {% capture training_details %}{% include training-details.md %}{% endcapture %}
+        {{ training_details | markdownify }}
       </div>
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopXLarge">
@@ -57,18 +44,9 @@ layout: default
   </section>
   <section class="c-Screen__Section c-Screen__Section--Alt">
     <div class="c-ContentBlock">
-      <h2>Regisztráció</h2>
-      <div class="c-Article">
-        <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam
-          assumenda sint aut odit blanditiis inventore vero nam itaque
-          voluptatum iusto? Fugiat aspernatur obcaecati cupiditate, perferendis
-          nobis eaque velit deleniti ducimus.
-        </p>
-      </div>
+      <h2>Indulási időpontok</h2>
     </div>
     <div class="c-ContentBlock u-MarginTopXLarge">
-      <h3>Következő indulási időpontok</h3>
       {% include events.html data = data.events.training price = data.training.price price_desc = data.training.price_desc %}
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
@@ -82,8 +60,10 @@ layout: default
         <br /> Workshop
       </h2>
       <p class="u-TextAlignLeft">
-        Ha még nem ismered az arctornát, gyere el a következő workshopra, ahol négy órában egy szuper hasznos bevezetést kapsz az
-        arc izmainak módszeres edzésébe. A tanultak segítségével képes leszel feszesen tartani a teljes arcod és nyakad.
+        Ha még nem ismered az arctornát, gyere el a következő workshopra, ahol
+        négy órában egy szuper hasznos bevezetést kapsz az arc izmainak
+        módszeres edzésébe. A tanultak segítségével képes leszel feszesen
+        tartani a teljes arcod és nyakad.
       </p>
       <div class="u-MarginTopLarge">
         <a href="{{ site.baseurl }}{% link workshop.md %}" class="c-Button">Workshop</a>
