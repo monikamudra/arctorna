@@ -1,17 +1,24 @@
 $c-Collection-Space: space-rem(.5);
 
 .c-Collection {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: $c-Collection-Space * -1;
-  margin-right: $c-Collection-Space * -1;
+  @include break($from: 600px) {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: $c-Collection-Space * -1;
+    margin-right: $c-Collection-Space * -1;
+  }
 }
 
 .c-Collection__Item {
-  padding: $c-Collection-Space;
   font-size: font-size-px("milli");
 
+  &:not(:last-child) {
+    margin-bottom: 1em;
+  }
+
   @include break($from: 600px) {
+    margin-bottom: 0;
+    padding: $c-Collection-Space;
     width: 50%;
   }
 
@@ -24,8 +31,10 @@ $c-Collection-Space: space-rem(.5);
   $box-padding: space-rem(1);
   $box-margin: space-rem(.5);
 
-  margin-left: $box-padding * -1;
-  margin-right: $box-padding * -1;
+  @include break($from: 600px) {
+    margin-left: $box-padding * -1;
+    margin-right: $box-padding * -1;
+  }
 
   .c-Collection__Item {
     @include break($from: 600px) {

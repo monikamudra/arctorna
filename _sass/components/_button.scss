@@ -1,7 +1,8 @@
 .c-Button {
   -webkit-appearance: none;
   display: inline-block;
-  min-width: 18em;
+  width: 18em;
+  max-width: 100%;
   padding: 1.4em;
   border: none;
   border-radius: 100em;
