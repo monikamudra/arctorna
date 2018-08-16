@@ -17,7 +17,6 @@ title: Arctorna Mónival
 email: moni@arctornamonival.hu
 description: >- # this means to ignore newlines until "baseurl:"
   Arcfiatalítás természetesen
-baseurl: "/arctorna" # the subpath of your site, e.g. /blog
 url: "https://arctornamonival.hu" # the base hostname & protocol for your site, e.g. http://example.com
 lang: hu
 timezone: Europe/Budapest
