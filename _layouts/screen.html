@@ -3,11 +3,14 @@ layout: default
 ---
 
 <main class="c-Screen">
-  <section class="c-Screen__Section">
+  <section class="c-Screen__Section c-Screen__Section--Plain">
     <div class="c-ContentBlock">
       <article class="c-Article">
         {{ content }}
       </article>
     </div>
   </section>
+  {% if page.sections.contact %}
+  {% include contact.html %}
+  {% endif %}
 </main>

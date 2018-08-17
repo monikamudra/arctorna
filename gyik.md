@@ -1,5 +1,7 @@
 ---
 layout: screen
+sections:
+  contact: true
 ---
 
 # Gyakran ismételt kérdések
