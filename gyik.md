@@ -6,9 +6,7 @@ sections:
 
 # Gyakran ismételt kérdések
 
-## Mikor nem ajánlott arctornázni?
-
-Van néhány kizáró ok, melyekkel nem ajánlott arctornázni, ezek a következők:
+## Milyen problémákkal nem ajánlott arctornázni?
 
 *   kezeletlen magas vérnyomás
 *   kezeletlen cukorbetegség
@@ -17,9 +15,35 @@ Van néhány kizáró ok, melyekkel nem ajánlott arctornázni, ezek a következ
 *   erős érelmeszesedés
 *   a nyirokkeringés bármilyen zavara
 *   súlyos állapotban lévő rosacea
-*   a fej bármely részén lévő akut vagy idült erős gyulladás
+*   a fej bármely részén lévő erős gyulladás
 
-Továbbá az arcon végzett plasztikai vagy bármilyen műtét után legalább 4 hónapig
-kerülni kell az arctornázást, azután pedig a kezelőorvossal kell konzultálni a
-kezdésről. Botox kezelés után sem szabad arctornázni, csak miután annak hatása
-teljesen elmúlt és az izmok jól mozgathatók.
+## Plasztikai műtét után arctornázhatok?
+
+Az arcon végzett plasztikai vagy bármilyen műtét után legalább 4 hónapig nem
+végezhető arctorna, azután pedig a kezelőorvossal kell konzultálni a kezdésről.
+
+## Lehet botox kezelés után arctronázni?
+
+Botox kezelés után nem lehet arctornázni, csak miután annak hatása teljesen
+elmúlt és az izmok jól mozgathatóak.
+
+## Mennyi idő múlva látszik az eredmény?
+
+Rendszeres arctornával már néhány hét múlva tapasztalhatsz változást.
+
+## Mennyit ajánlott arctornázni?
+
+Heti két alkalom szükséges a folyamatos fejlődéshez.
+
+## Mi történik, ha hosszabb ideig nem arctornázol?
+
+3-4 hónapig megmarad az addig elért eredmény, azután fokozatosan elkezd
+visszagyengülni az izom.
+
+## Fiúk is arctornázhatnak?
+
+Igen, a lányok azt imádják :)
+
+## A tréning után is van lehetőség csoportban arctornázni?
+
+Igen, bármikor jöhetsz tovább, teljesen kötetlenül.
