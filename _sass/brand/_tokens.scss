@@ -13,6 +13,8 @@
     "pink-active": #f54e6e,
     "yellow": #fff7c1,
     "purple": #eadbfa,
+    // "blue": #dbecfa,
+    "blue": #92bdc7,
   )
 );
 
@@ -34,7 +36,7 @@
     "dangerous": color("grey", 50%),
     "strong": color("grey", 75%),
     "border": color("grey", 25%),
-    "border-strong": color("grey", 10%),
+    "border-strong": color("grey"),
     "border-subtle": color("grey", 10%)
   )
 );
@@ -53,8 +55,10 @@
 @include token(
   "border", (
     "default": token("border-width", "default") solid token("color-for", "border"),
-    "strong": token("border-width", "thick") solid token("color-for", "border-strong"),
-    "subtle": token("border-width", "default") solid token("color-for", "border-subtle")
+    "subtle": token("border-width", "default") solid token("color-for", "border-subtle"),
+    "strong": token("border-width", "default") solid token("color-for", "border-strong"),
+    "thick-subtle": token("border-width", "thick") solid token("color-for", "border-subtle"),
+    "thick-strong": token("border-width", "thick") solid token("color-for", "border-strong"),
   )
 );
 

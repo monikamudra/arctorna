@@ -4,11 +4,10 @@ title: Kérdések és válaszok
 description: Gyakran ismételt kérdések az arctornáról, workshopról és tréningről
 sections:
   contact: true
+  header: true
 ---
 
-# Kérdések és válaszok
-
-## Milyen problémákkal nem ajánlott arctornázni?
+<h2 class="u-MarginTopZero">Milyen problémákkal nem ajánlott arctornázni?</h2>
 
 *   kezeletlen magas vérnyomás
 *   kezeletlen cukorbetegség

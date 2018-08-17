@@ -8,9 +8,14 @@
   padding-bottom: space-rem(3);
 }
 
+.c-Screen__Section--Header {
+  padding-top: space-rem(8);
+  background-color: color("blue", 50%);
+}
+
 .c-Screen__Section--Plain {
   & + & {
-    border-top: token("border", "strong");
+    border-top: token("border", "thick-subtle");
   }
 }
 

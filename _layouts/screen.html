@@ -3,6 +3,13 @@ layout: default
 ---
 
 <main class="c-Screen">
+  {% if page.sections.contact %}
+    <section class="c-Screen__Section c-Screen__Section--Header">
+      <div class="c-ContentBlock c-ContentBlock--Centered">
+        <h1 class="u-MarginBottomZero">{{ page.title }}</h1>
+      </div>
+    </section>
+  {% endif %}
   <section class="c-Screen__Section c-Screen__Section--Plain">
     <div class="c-ContentBlock">
       <article class="c-Article">
@@ -11,6 +18,6 @@ layout: default
     </div>
   </section>
   {% if page.sections.contact %}
-  {% include contact.html %}
+    {% include contact.html %}
   {% endif %}
 </main>
