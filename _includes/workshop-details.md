@@ -21,15 +21,15 @@ Az Arctorna Workshop résztvételi díja 12000&nbsp;Ft. Időnként tartunk izgal
 speciális workshopokat is, melyek ára egyedi. A regisztrációnál láthatod az
 egyes események pontos árát.
 
-A helyfoglaláshoz szükséges 4000&nbsp;Ft előleg, melyet kérek
-szépen előre átutalni. Az átutaláshoz szükséges adatokat a jelentkezés
-során fogod látni, de emailben is elküldöm. A fennmaradó összeget a
-workshopon kell fizetni.
+A helyfoglaláshoz szükséges 4000&nbsp;Ft előleg, melyet kérek szépen előre
+átutalni. A fennmaradó összeget a workshopon kell fizetni. (Az átutaláshoz
+szükséges adatokat a jelentkezés után, emailben fogom elküldeni.)
 
 ### Van lehetőség magán workshopra?
 
-Igen, személyesen és online is. Kérlek írj, és
-megbeszéljük&nbsp;a&nbsp;részleteket!
+Igen, személyesen és online is.
+Kérlek írj a <a href="mailto:moni@arctornamonival.hu">moni@arctornamonival.hu</a>
+email címre, és megbeszéljük&nbsp;a&nbsp;részleteket!
 
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
 
