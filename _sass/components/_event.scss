@@ -1,5 +1,9 @@
 .c-Event {
   display: flex;
+
+  @include break($to: 599px) {
+    font-size: font-size-em(-1);
+  }
 }
 
 .c-Event__Date {
