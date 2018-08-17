@@ -1,0 +1,22 @@
+.c-Menu {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.c-Menu__Item {
+  &:not(:last-child) {
+    position: relative;
+    padding-right: .5em;
+    margin-right: .5em;
+
+    &::after {
+      content: "•";
+      display: block;
+      position: absolute;
+      right: -.5em;
+      top: .6em;
+      color: color("grey", 25%);
+      font-size: font-size-em(-5);
+    }
+  }
+}

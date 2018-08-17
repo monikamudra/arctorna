@@ -2,5 +2,40 @@
   flex: 1 0 auto;
   padding: space-rem(2) token("screen", "padding");
   background-color: token("color-for", "background-dark");
-  color: token("color-for", "text-on-dark");
+  color: color("grey", 25%);
+  font-family: token("font-family", "handwriting");
+  font-size: font-size-em(2);
+
+  a:hover,
+  a:active {
+    color: token("color-for", "link");
+  }
+
+  @include break($from: 500px) {
+    padding-top: space-rem(3);
+    padding-bottom: space-rem(3);
+  }
+}
+
+
+// Controlled components
+
+.c-MainFooter {
+
+  .c-Menu {
+    @include break($from: 500px) {
+      justify-content: center;
+    }
+  }
+
+  .c-Menu__Item {
+    &:not(:last-child) {
+      padding-right: .8em;
+      margin-right: .8em;
+
+      &::after {
+        color: color("grey", 75%);
+      }
+    }
+  }
 }

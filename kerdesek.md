@@ -1,12 +1,12 @@
 ---
 layout: screen
-title: Gyakran ismételt kérdések
-description: Kérdések és válaszok az arctornáról, workshopról és tréningről
+title: Kérdések és válaszok
+description: Gyakran ismételt kérdések az arctornáról, workshopról és tréningről
 sections:
   contact: true
 ---
 
-# Gyakran ismételt kérdések
+# Kérdések és válaszok
 
 ## Milyen problémákkal nem ajánlott arctornázni?
 

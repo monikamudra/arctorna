@@ -32,7 +32,7 @@ mindenkire kellő figyelem jusson.
 
 A tréninget 65 éves korig bárki elkezdheti, akinek egészséges az arca. Van
 néhány kizáró ok amivel nem lehet arctornázni, erről
-<a href="{{ site.baseurl }}{% link gyik.md %}">itt találsz tájékoztatót</a>.
+<a href="{{ site.baseurl }}{% link kerdesek.md %}">itt találsz tájékoztatót</a>.
 
 ### Mennyibe kerül és hogyan kell fizetni?
 

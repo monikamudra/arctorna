@@ -114,6 +114,8 @@ address {
   font-style: normal;
 }
 
-a {
+a,
+a:visited {
   text-decoration: none;
+  color: currentcolor;
 }
