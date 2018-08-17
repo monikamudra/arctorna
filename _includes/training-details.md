@@ -36,14 +36,14 @@ néhány kizáró ok amivel nem lehet arctornázni, erről
 
 ### Mennyibe kerül és hogyan kell fizetni?
 
-Egy 10 alkalmas blokk <span class="u-NoWrap">ára {{ 35000 | money: "HUF"}}.
-</span> A jelentkezést követően kérek szépen átutalni
-<span class="u-NoWrap">{{ 10000 | money: "HUF" }}</span> előleget, ezzel
+Egy 10 alkalmas blokk <span class="u-NoWrap">ára 35000 Ft.</span>
+A jelentkezést követően kérek szépen átutalni
+10000&nbsp;Ft előleget, ezzel
 biztosítva a helyedet a tréningen. A maradék összeget
 az első órán kell fizetni. (Az átutaláshoz szükséges adatokat a jelentkezés
 során fogod látni, de emailben is elküldöm.)
 
 ### Van lehetőség magán tréningre?
 
-Igen, személyesen és online is. 10 alkalom <span class="u-NoWrap">ára {{ 59000 | money: "HUF" }}.</span>
+Igen, személyesen és online is. 10 alkalom <span class="u-NoWrap">ára 59000&nbsp;Ft.</span>
 Kérlek írj, és megbeszéljük&nbsp;a&nbsp;részleteket!

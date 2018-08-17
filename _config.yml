@@ -25,13 +25,14 @@ timezone: Europe/Budapest
 markdown: kramdown
 theme: minima
 plugins:
-  # - jekyll-feed
   - jekyll-relative-links
-  - jekyll-money
 
 relative_links:
   enabled:     true
   collections: false
+
+# Social media
+facebook_username: arctornamonival
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
