@@ -35,51 +35,8 @@ layout: default
     <div class="c-ContentBlock">
       <h2>A workshop részletei</h2>
       <div class="c-Article">
-        <p>
-          A workshop intenzív négy órából áll, egy-két rövid szünettel. Egy
-          rövid bevezető után teljes mértékben a gyakorlatra fókuszálunk. A
-          workshop leghosszabb részében számos gyakorlatot tanulunk meg, melyek
-          lefedik a teljes arcot és a nyakat. Ezután egy mini arctorna órában
-          minden arcátjon végigmegyünk úgy, ahogy otthon kell majd gyakorolni. A
-          workshopot egy kellemes arcmasszázzsal&nbsp;zárjuk.
-        </p>
-        <h3>
-          Hányan vagyunk a&nbsp;workshopon?
-        </h3>
-        <p>
-          A csapat maximális létszáma 9 fő, mivel nagyobb létszám esetén nem
-          tudnék mindenkire kellően&nbsp;odafigyelni.
-        </p>
-        <h3>Kinek ajánlom a&nbsp;workshopot?</h3>
-        <p>
-          Bárkinek, aki szeretné természetes módszerrel fiatalon tartani az
-          arcát, 20 évestől <span class="u-NoWrap">95 éves korig :)</span>
-        </p>
-        <h3>
-          Mennyibe kerül, és hogyan kell fizetni?
-        </h3>
-        <p>
-          Az Arctorna Workshop résztvételi díja
-          12000&nbsp;Ft. Időnként tartunk izgalmas,
-          speciális workshopokat is, melyek ára egyedi. A regisztrációnál
-          láthatod az egyes események pontos árát.
-        </p>
-        <p>
-          A helyfoglaláshoz szükséges 4000&nbsp;Ft előleg, melyet kérek
-          szépen előre átutalni. Az átutaláshoz szükséges adatokat a jelentkezés
-          során fogod látni, de emailben is elküldöm. A fennmaradó összeget a
-          workshopon kell fizetni.
-        </p>
-        <h3>Van lehetőség magán workshopra?</h3>
-        <p>Igen, személyesen és online is. Kérlek írj, és megbeszéljük&nbsp;a&nbsp;részleteket!</p>
-        <h3>Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?</h3>
-        <p>
-          Igen, a
-          <a href="{{ site.baseurl }}{% link trening.md %}">
-            <strong>Komplett Arctorna Tréninggel</strong>
-          </a> gyorsabban érhetsz el eredményeket. De a workshop kiváló bevezető a tréninghez.
-        </p>
-
+        {% capture workshop_details %}{% include workshop-details.md %}{% endcapture %}
+        {{ workshop_details | markdownify }}
       </div>
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopXLarge">
