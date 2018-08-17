@@ -20,6 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://arctornamonival.hu" # the base hostname & protocol for your site, e.g. http://example.com
 lang: hu
 timezone: Europe/Budapest
+google_analytics: UA-124177462-1
+
 
 # Build settings
 markdown: kramdown
