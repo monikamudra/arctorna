@@ -1,74 +1,74 @@
 .u-debug {
-  outline: 1px solid red;
+  outline: 1px solid red !important;
 }
 
 .u-FlexImage {
-  width: 100%;
-  max-width: 100%;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 .u-MarginTopZero {
-  margin-top: 0;
+  margin-top: 0 !important;
 }
 
 .u-MarginTop {
-  margin-top: space-rem(1);
+  margin-top: space-rem(1) !important;
 }
 
 .u-MarginTopLarge {
-  margin-top: space-rem(1.5);
+  margin-top: space-rem(1.5) !important;
 }
 
 .u-MarginTopXLarge {
-  margin-top: space-rem(2);
+  margin-top: space-rem(2) !important;
 }
 
 .u-MarginBottomZero {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 .u-MarginBottom {
-  margin-bottom: space-rem(1);
+  margin-bottom: space-rem(1) !important;
 }
 
 .u-MarginBottomLarge {
-  margin-bottom: space-rem(1.5);
+  margin-bottom: space-rem(1.5) !important;
 }
 
 .u-MarginBottomLarge {
-  margin-bottom: space-rem(2);
+  margin-bottom: space-rem(2) !important;
 }
 
 .u-PaddingTopZero {
-  padding-top: 0;
+  padding-top: 0 !important;
 }
 
 .u-PaddingTop {
-  padding-top: space-rem(1);
+  padding-top: space-rem(1) !important;
 }
 
 .u-PaddingTopLarge {
-  padding-top: space-rem(1.5);
+  padding-top: space-rem(1.5) !important;
 }
 
 .u-PaddingTopXLarge {
-  padding-top: space-rem(2);
+  padding-top: space-rem(2) !important;
 }
 
 .u-PaddingBottomZero {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 
 .u-PaddingBottom {
-  padding-bottom: space-rem(1);
+  padding-bottom: space-rem(1) !important;
 }
 
 .u-PaddingBottomLarge {
-  padding-bottom: space-rem(1.5);
+  padding-bottom: space-rem(1.5) !important;
 }
 
 .u-PaddingBottomXLarge {
-  padding-bottom: space-rem(2);
+  padding-bottom: space-rem(2) !important;
 }
 
 .u-AllCaps {
@@ -77,21 +77,21 @@
 }
 
 .u-TextAlignLeft {
-  text-align: left;
+  text-align: left !important;
 }
 
 .u-TextAlignRight {
-  text-align: right;
+  text-align: right !important;
 }
 
 .u-TextAlignCenter {
-  text-align: center;
+  text-align: center !important;
 }
 
 .u-OptimalLineLength {
-  max-width: token("line-length", "default") * 1em;
+  max-width: token("line-length", "default") * 1em !important;
 }
 
 .u-NoWrap {
-  white-space: nowrap;
+  white-space: nowrap !important;
 }
