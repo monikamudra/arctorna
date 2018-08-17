@@ -22,6 +22,12 @@ lang: hu
 timezone: Europe/Budapest
 google_analytics: UA-124177462-1
 
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/supergroup-square.jpg
 
 # Build settings
 markdown: kramdown

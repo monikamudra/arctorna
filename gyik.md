@@ -1,5 +1,7 @@
 ---
 layout: screen
+title: Gyakran ismételt kérdések
+description: Kérdések és válaszok az arctornáról, workshopról és tréningről
 sections:
   contact: true
 ---
