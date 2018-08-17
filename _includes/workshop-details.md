@@ -35,6 +35,6 @@ megbeszéljük&nbsp;a&nbsp;részleteket!
 
 Igen, a
 <a href="{{ site.baseurl }}{% link trening.md %}">
-  <strong>Komplett Arctorna Tréninggel</strong>
+  Komplett Arctorna Tréninggel
 </a> gyorsabban érhetsz el eredményeket. De a workshop kiváló bevezető
 a tréninghez.
