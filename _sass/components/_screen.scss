@@ -8,8 +8,10 @@
   padding-bottom: space-rem(3);
 }
 
-.c-Screen__Section--Separated {
-  border-bottom: token("border", "strong");
+.c-Screen__Section--Plain {
+  & + & {
+    border-top: token("border", "strong");
+  }
 }
 
 .c-Screen__Section--Alt {
