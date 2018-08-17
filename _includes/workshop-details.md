@@ -1,5 +1,5 @@
 A workshop intenzív négy órából áll, egy-két rövid szünettel. Egy
-rövid bevezető után teljes mértékben a gyakorlatra fókuszálunk. A
+gyors bevezető után teljes mértékben a gyakorlatra fókuszálunk. A
 workshop leghosszabb részében számos gyakorlatot tanulunk meg, melyek
 lefedik a teljes arcot és a nyakat. Ezután egy mini arctorna órában
 minden arcátjon végigmegyünk úgy, ahogy otthon kell majd gyakorolni. A
@@ -7,7 +7,7 @@ workshopot egy kellemes arcmasszázzsal&nbsp;zárjuk.
 
 ### Hányan vagyunk a&nbsp;workshopon?
 
-A csapat maximális létszáma 9 fő, mivel nagyobb létszám esetén nem
+A csapat maximális létszáma 8–9 fő, mivel nagyobb létszám esetén nem
 tudnék mindenkire kellően&nbsp;odafigyelni.
 
 ### Kinek ajánlom a&nbsp;workshopot?
