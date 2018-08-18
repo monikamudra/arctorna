@@ -1,4 +1,5 @@
 ---
+permalink: monirol
 layout: screen
 title: Móniról
 description: Bemutatkozó az Arctorna Mónival alapítójától

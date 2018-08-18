@@ -1,4 +1,5 @@
 ---
+permalink: kerdesek
 layout: screen
 title: Kérdések és válaszok
 description: Gyakran ismételt kérdések az arctornáról, workshopról és tréningről

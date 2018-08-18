@@ -1,4 +1,5 @@
 ---
+permalink: trening
 layout: trening
 title: Komplett Arctorna Tréning
 description: >-
