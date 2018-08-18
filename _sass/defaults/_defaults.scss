@@ -23,10 +23,6 @@ html {
   @include break($from: 'medium') {
     font-size: font-size-px('kilo');
   }
-
-  @include break($from: 'large') {
-    font-size: font-size-px('mega');
-  }
 }
 
 body {
