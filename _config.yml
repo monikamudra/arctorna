@@ -1,28 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# -------------
 title: Arctorna Mónival
 email: moni@arctornamonival.hu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Arcfiatalítás természetesen
-url: "https://arctornamonival.hu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arctornamonival.hu"
 lang: hu
 timezone: Europe/Budapest
 google_analytics: UA-124177462-1
 
+relative_links:
+  enabled:     true
+  collections: false
+
+facebook_username: arctornamonival
+
 # Default front matter
+# --------------------
 defaults:
   - scope:
       path: ""
@@ -30,17 +24,12 @@ defaults:
       image: /assets/images/supergroup-square.jpg
 
 # Build settings
+# --------------
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-relative-links
-
-relative_links:
-  enabled:     true
-  collections: false
-
-# Social media
-facebook_username: arctornamonival
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

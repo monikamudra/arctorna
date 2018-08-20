@@ -1,6 +1,7 @@
 ---
 permalink: kerdesek
 layout: screen
+redirect_from: gyik
 title: Kérdések és válaszok
 description: Gyakran ismételt kérdések az arctornáról, workshopról és tréningről
 sections:
