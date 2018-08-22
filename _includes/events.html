@@ -34,7 +34,14 @@
           <strong class="u-NoWrap">{{ event.price | default: include.price }} Ft</strong>
         </div>
         {% if event.description %}
-        <p class="c-Event__Description">{{ event.description }}</p>
+          <div class="c-Event__Description">
+            {{ event.description | markdownify }}
+          </div>
+        {% endif %}
+        {% if event.link %}
+          <div class="c-Event__Link">
+            <a class="c-Link" href="{{ event.link }}">További infók</a>
+          </div>
         {% endif %}
       </div>
     </div>
