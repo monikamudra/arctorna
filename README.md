@@ -1,4 +1,3 @@
-# arctorna
-Arctorna Mónival website
+# Arctorna Mónival website
 
 https://arctornamonival.hu
