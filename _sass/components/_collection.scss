@@ -23,7 +23,7 @@ $c-Collection-Space: space-rem(.5);
   }
 
   @include break($from: "medium") {
-    width: 33.333333333%;
+    width: 33.3333%;
   }
 }
 
@@ -44,7 +44,7 @@ $c-Collection-Space: space-rem(.5);
       background-color: color("grey", 5%);
     }
     @include break($from: "medium") {
-      width: calc(33.333333333% - #{$box-margin * 2});
+      width: calc(33.3333% - #{$box-margin * 2});
     }
   }
 }
