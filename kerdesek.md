@@ -9,7 +9,24 @@ sections:
   header: true
 ---
 
-<h2 class="u-MarginTopZero">Milyen problémákkal nem ajánlott arctornázni?</h2>
+<h2 class="u-MarginTopZero">Mennyit ajánlott arctornázni?</h2>
+
+Heti két alkalom szükséges a folyamatos fejlődéshez.
+
+## Mennyi idő múlva látszik az eredmény?
+
+Rendszeres arctornával már néhány hét múlva tapasztalhatsz változást.
+
+## Mi történik, ha hosszabb ideig nem arctornázol?
+
+3-4 hónapig megmarad az addig elért eredmény, azután fokozatosan elkezd
+visszagyengülni az izom.
+
+## A tréning után is van lehetőség csoportban arctornázni?
+
+Igen, bármikor jöhetsz tovább, teljesen kötetlenül.
+
+## Milyen problémákkal nem ajánlott arctornázni?
 
 *   kezeletlen magas vérnyomás
 *   kezeletlen cukorbetegség
@@ -30,23 +47,6 @@ végezhető arctorna, azután pedig a kezelőorvossal kell konzultálni a kezdé
 Botox kezelés után nem lehet arctornázni, csak miután annak hatása teljesen
 elmúlt és az izmok jól mozgathatóak.
 
-## Mennyi idő múlva látszik az eredmény?
-
-Rendszeres arctornával már néhány hét múlva tapasztalhatsz változást.
-
-## Mennyit ajánlott arctornázni?
-
-Heti két alkalom szükséges a folyamatos fejlődéshez.
-
-## Mi történik, ha hosszabb ideig nem arctornázol?
-
-3-4 hónapig megmarad az addig elért eredmény, azután fokozatosan elkezd
-visszagyengülni az izom.
-
 ## Fiúk is arctornázhatnak?
 
 Igen, a lányok azt imádják :)
-
-## A tréning után is van lehetőség csoportban arctornázni?
-
-Igen, bármikor jöhetsz tovább, teljesen kötetlenül.
