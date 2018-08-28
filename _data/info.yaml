@@ -1,7 +1,9 @@
 workshop:
+  registration_link: https://arctornaworkshop.typeform.com/to/QomnAM
   price: 12000
   price_desc: Résztvételi díj
 training:
+  registration_link: https://arctornaworkshop.typeform.com/to/N9N1Sb
   price: 35000
   price_desc: A 10 alkalmas blokk ára
 events:
