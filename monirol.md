@@ -9,9 +9,9 @@ sections:
 ---
 
 <p class="u-MarginTopZero">
-  2010-ben találtam rá az arctronára, és abban a pillanatban el is dőlt, hogy
+  2010-ben találtam rá az arctornára, és abban a pillanatban el is dőlt, hogy
   ezzel szeretnék foglalkozni. Számomra az igazi szépség a természetességből
-  fakad, és az arctrona egy tökéletes eszköz a természetes szépséghez. Csinálom,
+  fakad, és az arctorna egy tökéletes eszköz a természetes szépséghez. Csinálom,
   tanítom, működik :)
 </p>
 

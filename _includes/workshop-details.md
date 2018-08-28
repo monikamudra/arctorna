@@ -2,7 +2,7 @@ A workshop intenzív négy órából áll, egy-két rövid szünettel. Egy
 gyors bevezető után teljes mértékben a gyakorlatra fókuszálunk. A
 workshop leghosszabb részében számos gyakorlatot tanulunk meg, melyek
 lefedik a teljes arcot és a nyakat. Ezután egy mini arctorna órában
-minden arcátjon végigmegyünk úgy, ahogy otthon kell majd gyakorolni. A
+minden arctájon végigmegyünk úgy, ahogy otthon kell majd gyakorolni. A
 workshopot egy kellemes arcmasszázzsal&nbsp;zárjuk.
 
 ### Hányan vagyunk a&nbsp;workshopon?
@@ -17,7 +17,7 @@ arcát, 20 évestől <span class="u-NoWrap">95 éves korig :)</span>
 
 ### Mennyibe kerül, és hogyan kell fizetni?
 
-Az Arctorna Workshop résztvételi díja 12000&nbsp;Ft. Időnként tartunk izgalmas,
+Az Arctorna Workshop részvételi díja 12000&nbsp;Ft. Időnként tartunk izgalmas,
 speciális workshopokat is, melyek ára egyedi. A regisztrációnál láthatod az
 egyes események pontos árát.
 

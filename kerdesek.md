@@ -31,7 +31,7 @@ Igen, bármikor jöhetsz tovább, teljesen kötetlenül.
 *   kezeletlen magas vérnyomás
 *   kezeletlen cukorbetegség
 *   a nyaki nyirokcsomók hiánya
-*   zöldhályog
+*   zöld hályog
 *   erős érelmeszesedés
 *   a nyirokkeringés bármilyen zavara
 *   súlyos állapotban lévő rosacea
