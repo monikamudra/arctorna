@@ -11,7 +11,9 @@ sections:
 
 <h2 class="u-MarginTopZero">Mennyit ajánlott arctornázni?</h2>
 
-Heti két alkalom szükséges a folyamatos fejlődéshez.
+A **tréningen** tanultakkal két hatvan perces alkalom már elegendő a
+fejlődéshez. A **workshopon** tanult gyakorlatokkal pedig heti háromszor-
+négyszer fél órát ajánlott tornázni
 
 ## Mennyi idő múlva látszik az eredmény?
 
@@ -27,6 +29,9 @@ visszagyengülni az izom.
 Igen, bármikor jöhetsz tovább, teljesen kötetlenül.
 
 ## Milyen problémákkal nem ajánlott arctornázni?
+
+A következő problémák megléte esetén a Komplett Arctorna Tréninget nem javaslom,
+mivel itt az arcizmok nagyobb terhelésnek vannak kitéve:
 
 *   kezeletlen magas vérnyomás
 *   kezeletlen cukorbetegség
