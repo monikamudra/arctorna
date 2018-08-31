@@ -26,12 +26,3 @@ events:
       end: "14:00"
       title: Arctorna Workshop
       address: 1132 Budapest, Visegrádi utca 6.
-  training:
-    -
-      date: 2018-09-11
-      title: Tréning kezdő csoport
-      address: Budapest
-    -
-      date: 2018-09-17
-      title: Tréning kezdő csoport
-      address: Budapest

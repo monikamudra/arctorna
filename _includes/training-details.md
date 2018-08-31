@@ -1,6 +1,7 @@
 A Komplett Arctorna Tréning a folyamatos edzés és tanfolyam kombinációja, mely
 három blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab egymásra
-épülő, 60 perces, vidám hangulatú, de kemény edzést tartalmaz:
+épülő, 60 perces, vidám hangulatú, de kemény edzést tartalmaz, heti két
+alkalommal.
 
 A **kezdő blokkban** megtanuljuk az arctornához használt speciális technikákat,
 és ezek alkalmazásával felkészítjük az arcot a későbbi arcformázáshoz.
