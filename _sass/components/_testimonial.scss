@@ -1,0 +1,60 @@
+.c-Testimonial {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100%;
+  color: token("color-for", "text-secondary");
+  margin-bottom: space-em(2);
+
+  @include break($from: 600px) {
+    margin-bottom: 0;
+  }
+}
+
+.c-Testimonial__Quote {
+  flex: 1 0 auto;
+  padding-left: 1em;
+  margin-bottom: space-em(1);
+
+  // Quote symbol
+  &::before {
+    content: "“";
+    display: block;
+    position: absolute;
+    left: 0;
+    top: -.25em;
+    color: token("color-for", "text-highlight");
+    font-size: font-size-em(5);
+    font-weight: bold;
+  }
+
+  @include break($from: 600px) {
+    padding-top: 3.5em;
+    padding-left: 0;
+    margin-bottom: space-em(2);
+
+    &::before {
+      width: 100%;
+      top: -.4em;
+      left: auto;
+      z-index: -1;
+      font-size: 120px;
+      text-align: center;
+    }
+  }
+}
+
+.c-Testimonial__Rating {
+  flex: 0 1 auto;
+  text-align: center;
+}
+
+
+.c-Testimonial__Author {
+  @include all-caps;
+  flex: 0 1 auto;
+  font-size: font-size-em(-1);
+  font-weight: bold;
+  text-align: center;
+  color: token("color-for", "text");
+}

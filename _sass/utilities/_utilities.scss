@@ -88,6 +88,10 @@
   text-align: center !important;
 }
 
+.u-ColorTextSecondary {
+  color: token("color-for", "text-secondary");
+}
+
 .u-OptimalLineLength {
   max-width: token("line-length", "default") * 1em !important;
 }

@@ -41,7 +41,7 @@ $c-Collection-Space: space-rem(.5);
       width: calc(50% - #{$box-margin * 2});
       margin: $box-margin;
       padding: $box-padding;
-      background-color: color("grey", 5%);
+      border: token("border", "thick-subtle");
     }
     @include break($from: "medium") {
       width: calc(33.33% - #{$box-margin * 2});

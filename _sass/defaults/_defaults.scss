@@ -63,8 +63,12 @@ h6 {
   @include heading-for-block("exsmall", $unit: "em");
 }
 
-p {
+p,
+blockquote,
+ul,
+ol {
   margin: 0;
+  padding: 0;
 }
 
 ::selection {
@@ -83,8 +87,6 @@ button {
 
 ul,
 ol {
-  padding: 0;
-
   li {
     list-style-type: none;
   }
