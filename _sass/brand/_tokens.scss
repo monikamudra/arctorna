@@ -20,7 +20,7 @@
 @include token(
   "color-for", (
     "background": color("white"),
-    "background-alt": color("grey", 10%),
+    "background-alt": color("grey", 7%),
     "background-dark": color("grey"),
     "text": color("grey"),
     "text-secondary": color("grey", 75%),
@@ -36,7 +36,7 @@
     "strong": color("grey", 75%),
     "border": color("grey", 25%),
     "border-strong": color("grey"),
-    "border-subtle": color("grey", 10%)
+    "border-subtle": color("grey", 7%)
   )
 );
 

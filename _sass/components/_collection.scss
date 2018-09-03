@@ -48,3 +48,12 @@ $c-Collection-Space: space-rem(.5);
     }
   }
 }
+
+.c-Collection--Boxed {
+  .c-Collection__Item {
+    @include break($from: 600px) {
+      border: none;
+      background-color: token("color-for", "background-alt");
+    }
+  }
+}
