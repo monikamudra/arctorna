@@ -30,6 +30,10 @@
   color: token("color-for", "text-on-dark");
 }
 
+.c-Screen__Section--InverseSeparated {
+  border-bottom: 2px solid color("grey", 90%);
+}
+
 .c-Screen__Section--Workshop {
   padding-top: space-rem(5);
   background-color: token("color", "yellow");

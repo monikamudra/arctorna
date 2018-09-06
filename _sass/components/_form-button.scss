@@ -1,0 +1,25 @@
+.c-FormButton {
+  -webkit-appearance: none;
+  display: inline-block;
+  max-width: 100%;
+  padding: .5em;
+  border: none;
+  background-color: color("pink");
+  color: color("white");
+  font-size: font-size-em(-1);
+  line-height: 1.25;
+  text-decoration: none;
+  font-weight: bold;
+  letter-spacing: .05em;
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+
+  &:hover {
+    background-color: color("pink-active");
+  }
+
+  &:active {
+    background-color: color("pink");
+  }
+}

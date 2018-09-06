@@ -119,3 +119,28 @@ a:visited {
   text-decoration: none;
   color: currentcolor;
 }
+
+label,
+input {
+  display: block;
+}
+
+mark {
+  @include all-caps;
+
+  font-weight: bold;
+  background-color: transparent;
+  color: color("purple-active");
+}
+
+::placeholder {
+  color: color("grey", 50%);
+}
+
+::--webkit-input-placeholder {
+  color: color("grey", 50%);
+}
+
+::--moz-placeholder {
+  color: color("grey", 50%);
+}

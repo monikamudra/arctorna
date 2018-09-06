@@ -1,0 +1,9 @@
+.c-FormInput {
+  width: 100%;
+  padding: .5em;
+  border: none;
+  color: token("color-for", "text");
+  font-family: token("font-family", "monospace");
+  font-size: font-size-em(-1);
+  line-height: 1.25;
+}

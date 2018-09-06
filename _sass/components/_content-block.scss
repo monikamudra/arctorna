@@ -15,6 +15,10 @@
   margin-right: token("screen", "padding") * -1;
 }
 
+.c-ContentBlock--Form {
+  max-width: token("line-length", "default") * font-size-em(-5);
+}
+
 .c-ContentBlock--Centered {
   text-align: center;
 }

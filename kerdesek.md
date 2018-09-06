@@ -6,6 +6,7 @@ title: Kérdések és válaszok
 description: Gyakran ismételt kérdések az arctornáról, workshopról és tréningről
 sections:
   contact: true
+  newsletter: true
   header: true
 ---
 

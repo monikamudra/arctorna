@@ -5,6 +5,7 @@ title: Móniról
 description: Bemutatkozó az Arctorna Mónival alapítójától
 sections:
   contact: true
+  newsletter: true
   header: true
 ---
 

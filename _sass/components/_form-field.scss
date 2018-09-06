@@ -1,0 +1,17 @@
+.c-FormField {
+  & + & {
+    margin-top: space-rem(1);
+  }
+}
+
+.c-FormField--Inline {
+  display: flex;
+  justify-content: stretch;
+  align-items: flex-end;
+
+  & > * {
+    &:not(:last-child) {
+      margin-right: 2px;
+    }
+  }
+}
