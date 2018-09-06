@@ -1,5 +1,7 @@
 .c-Event {
   display: flex;
+  overflow: hidden;
+  border-radius: token("radius", "default");
 
   @include break($to: 599px) {
     font-size: font-size-em(-1);

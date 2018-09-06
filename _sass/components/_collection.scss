@@ -42,6 +42,7 @@ $c-Collection-Space: space-rem(.5);
       margin: $box-margin;
       padding: $box-padding;
       border: token("border", "thick-subtle");
+      border-radius: token("radius", "default");
     }
     @include break($from: "medium") {
       width: calc(33.33% - #{$box-margin * 2});

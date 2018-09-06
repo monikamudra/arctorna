@@ -4,6 +4,7 @@
   max-width: 100%;
   padding: .5em;
   border: none;
+  border-radius: token("radius", "default");
   background-color: color("pink");
   color: color("white");
   font-size: font-size-em(-1);

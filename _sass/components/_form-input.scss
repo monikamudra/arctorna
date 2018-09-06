@@ -2,6 +2,7 @@
   width: 100%;
   padding: .5em;
   border: none;
+  border-radius: token("radius", "default");
   color: token("color-for", "text");
   font-family: token("font-family", "monospace");
   font-size: font-size-em(-1);

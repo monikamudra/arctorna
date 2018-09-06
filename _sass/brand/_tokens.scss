@@ -63,8 +63,8 @@
 );
 
 @include token(
-  "shape", (
-    "radius": 0px
+  "radius", (
+    "default": 2px
   )
 );
 
