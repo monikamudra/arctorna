@@ -6,7 +6,7 @@ layout: default
   {% if page.sections.contact %}
     <section class="c-Screen__Section c-Screen__Section--Header">
       <div class="c-ContentBlock c-ContentBlock--Centered">
-        <h1 class="u-MarginBottomZero">{{ page.title }}</h1>
+        <h1 class="u-MarginBottomZero">{{ page.screen_title | default: page.title }}</h1>
       </div>
     </section>
   {% endif %}

@@ -2,7 +2,8 @@
 permalink: sikeres-feliratkozas
 sitemap: false
 layout: screen
-title: Köszönöm, hogy&nbsp;feliratkoztál
+title: Sikeres hírlevél feliratkozás
+screen_title: Köszönöm, hogy&nbsp;feliratkoztál
 sections:
   contact: true
   header: true
