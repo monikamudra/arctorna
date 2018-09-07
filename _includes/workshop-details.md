@@ -13,17 +13,18 @@ tudnék mindenkire kellően&nbsp;odafigyelni.
 ### Kinek ajánlom a&nbsp;workshopot?
 
 Bárkinek, aki szeretné természetes módszerrel fiatalon tartani az
-arcát, 20 évestől <span class="u-NoWrap">95 éves korig :)</span>
+arcát, 20&nbsp;évestől <span class="u-NoWrap">95&nbsp;éves korig :)</span>
 
 ### Mennyibe kerül, és hogyan kell fizetni?
 
-Az Arctorna Workshop részvételi díja 12000&nbsp;Ft. Időnként tartunk izgalmas,
-speciális workshopokat is, melyek ára egyedi. A regisztrációnál láthatod az
-egyes események pontos árát.
+Az Arctorna Workshop részvételi díja {{ site.data.workshop.price }}&nbsp;Ft.
+Időnként tartunk izgalmas, speciális workshopokat is, melyek ára egyedi. A
+regisztrációnál láthatod az egyes események pontos árát.
 
-A helyfoglaláshoz szükséges 4000&nbsp;Ft előleg, melyet kérek szépen előre
-átutalni. A fennmaradó összeget a workshopon kell fizetni. (Az átutaláshoz
-szükséges adatokat a jelentkezés után, emailben fogom elküldeni.)
+A helyfoglaláshoz szükséges {{ site.data.workshop.deposit }}&nbsp;Ft előleg,
+melyet kérek szépen előre átutalni. A fennmaradó összeget a workshopon kell
+fizetni. (Az átutaláshoz szükséges adatokat a jelentkezés után, emailben fogom
+elküldeni.)
 
 ### Van lehetőség magán workshopra?
 
