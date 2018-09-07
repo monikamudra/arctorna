@@ -3,7 +3,7 @@
     <li class="c-List__Item">
       <div class="c-Event">
 
-        <time class="c-Event__Date" datetime="2018-09-01">
+        <time class="c-Event__Date" datetime="{{ event.date | date_to_xmlschema }}">
           <span class="c-Event__Month">{%- include month.html date = event.date -%}</span>
           <span class="c-Event__Day">{{- event.date | date: "%e" -}}</span>
           <span class="c-Event__DayOfWeek">{%-  include weekday.html date = event.date -%}</span>
