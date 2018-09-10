@@ -17,6 +17,10 @@
 .c-Article {
   width: 100%;
 
+  > *:first-child {
+    margin-top: 0;
+  }
+
   p, pre {
     margin-top: space-em(1);
     margin-bottom: space-em(1);
