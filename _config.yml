@@ -8,11 +8,17 @@ url: "https://arctornamonival.hu"
 lang: hu
 timezone: Europe/Budapest
 google_analytics: UA-124177462-1
-
 relative_links:
   enabled:     true
   collections: false
+permalink: none
 
+collections:
+  posts:
+    permalink: /blog/:title:output_ext
+
+# Social
+# ------
 facebook_username: arctornamonival
 
 # Default front matter
@@ -22,6 +28,11 @@ defaults:
       path: ""
     values:
       image: /assets/images/supergroup-square.jpg
+      author: "Mudra Mónika"
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
 
 # Build settings
 # --------------
@@ -31,6 +42,7 @@ plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
