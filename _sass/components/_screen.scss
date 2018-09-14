@@ -14,6 +14,10 @@
   padding-top: space-rem(8);
 }
 
+.c-Screen__Section--HeaderWithIncipit {
+  padding-top: space-rem(5);
+}
+
 .c-Screen__Section--Plain {
   & + & {
     border-top: token("border", "thick-subtle");
@@ -25,7 +29,7 @@
 }
 
 .c-Screen__Section--Misc {
-  background-color: color("blue", 50%);
+  background-color: color("peach");
 }
 
 .c-Screen__Section--Inverse {
@@ -38,11 +42,9 @@
 }
 
 .c-Screen__Section--Workshop {
-  padding-top: space-rem(5);
   background-color: token("color", "yellow");
 }
 
 .c-Screen__Section--Training {
-  padding-top: space-rem(5);
   background-color: token("color", "purple");
 }
