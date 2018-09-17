@@ -1,10 +1,10 @@
 ---
-title: Készíts saját izzadásgátlót!
+title: Készíts saját&nbsp;izzadásgátlót!
 main_image: keszits-sajat-izzadasgatlot.jpg
-summary: >-
+description: >-
   Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan
   ártalmas anyagokkal találkozhatunk, amelyek hosszútávon  akár számos komoly betegség
-  kialakulásához is vezethetnek. 
+  kialakulásához is vezethetnek.
 ---
 
 Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan

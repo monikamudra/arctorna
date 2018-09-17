@@ -1,9 +1,9 @@
 ---
-title: Tökéletes lazulás saját készítésű testvajjal
+title: Tökéletes lazulás saját készítésű&nbsp;testvajjal
 main_image: tokeletes-lazulas-sajat-keszitesu-testvajjal.jpg
-summary: >-
+description: >-
   Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem
-  vágyom jobban, mint egy kellemes, lazító masszázsra és csendre. 
+  vágyom jobban, mint egy kellemes, lazító masszázsra és csendre.
 ---
 
 Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem

@@ -1,9 +1,9 @@
 ---
-title: Így készíts szuperhatékony öregedésgátló szérumot házilag
+title: Így készíts szuperhatékony öregedésgátló szérumot&nbsp;házilag
 main_image: igy-keszits-szuperhatekony-oregedesgatlo-szerumot-hazilag.jpg
-summary: >-
-  Egy jó szérum mindig nagyon hasznos a bőrnek, mivel koncentráltan 
-  tartalmaz olyan antioxidáns összetevőket, amiket a hidratáló krémekben csak 
+description: >-
+  Egy jó szérum mindig nagyon hasznos a bőrnek, mivel koncentráltan
+  tartalmaz olyan antioxidáns összetevőket, amiket a hidratáló krémekben csak
   kis mennyiségben találunk meg. Ezek az antioxidánok rendkívül hasznosak a bőr
   számára, hogy minél hosszabb ideig képes legyen megőrizni fiatalságát.
 ---

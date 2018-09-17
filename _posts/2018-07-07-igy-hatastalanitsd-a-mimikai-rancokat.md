@@ -1,7 +1,7 @@
 ---
-title: Így hatástalanítsd a mimikai ráncokat!
+title: Így hatástalanítsd a mimikai&nbsp;ráncokat!
 main_image: igy-hatastalanitsd-a-mimikai-rancokat.jpg
-summary: >-
+description: >-
   Az arc izmai nemcsak feltölteni, kisimítani tudják az arcot, hanem a
   rendszeres mimikához használt izmok ráncosíthatják is a bőrt.
 

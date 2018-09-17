@@ -1,14 +1,14 @@
 ---
-title: Ránctalan és feszes bőr aloe verával? Igeen!
+title: Ránctalan és feszes bőr aloe&nbsp;verával? Igeen!
 main_image: ranctalan-es-feszes-bor-aloe-veraval-igeen-188.jpg
-summary: >-
-  Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is 
-  van a polcodon és rendszeresen használod is azt. 
+description: >-
+  Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is
+  van a polcodon és rendszeresen használod is azt.
 ---
 
-Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is van a 
-polcodon és használod is azt. Ha mégsem ismernéd, vagy még sohasem próbáltad, 
-megosztok egy szuper egyszerű trükköt, amivel bőröd szebb és hidratáltabb lesz 
+Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is van a
+polcodon és használod is azt. Ha mégsem ismernéd, vagy még sohasem próbáltad,
+megosztok egy szuper egyszerű trükköt, amivel bőröd szebb és hidratáltabb lesz
 ennek a csoda gélnek a használatával.
 
 ## Mire jó az aloe vera

@@ -1,18 +1,18 @@
 ---
-title: 10 tuti tipp a smink nélküli szépséghez
+title: 10 tuti tipp a smink nélküli&nbsp;szépséghez
 main_image: 10-tipp-hogyan-lehetsz-szep-akar-smink-nelkul-is.jpg
-summary: >-
-  Egy alkalomra készített minőségi smink, csak akkor fog igazán 
-  szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően 
-  hidratált, ápolt és egészséges. 
+description: >-
+  Egy alkalomra készített minőségi smink, csak akkor fog igazán
+  szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően
+  hidratált, ápolt és egészséges.
 ---
 
-Egy alkalomra készített minőségi smink, csak akkor fog igazán 
-szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően 
-hidratált, ápolt és egészséges. Egy tudatosan ápolt szép bőrt pedig nem is 
-szükséges sminkkel díszíteni, hiszen önmagában gyönyörű. Itt van néhány nagyszerű tipp, 
+Egy alkalomra készített minőségi smink, csak akkor fog igazán
+szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően
+hidratált, ápolt és egészséges. Egy tudatosan ápolt szép bőrt pedig nem is
+szükséges sminkkel díszíteni, hiszen önmagában gyönyörű. Itt van néhány nagyszerű tipp,
 ami tökéletes alap, a smink nélküli szépséghez.
- 
+
 1.  A napi 2-3 liter tiszta víz fogyasztása (nem szénsavas) elengedhetetlen a bőr
     és a szervezet megfelelő hidratáltságához - ez a szép bőr alapja.
 
@@ -40,9 +40,9 @@ ami tökéletes alap, a smink nélküli szépséghez.
     nemcsak az egészségnek tesz jót, hanem a bőrnek is.
 
 9.  Aludj legalább napi 7 órát! Tudom, hogy innen a legeszszerűbb időt
-    nyerni, de hidd el, hosszútávon a kevés alvás nem tesz jót sem a szépségnek, 
+    nyerni, de hidd el, hosszútávon a kevés alvás nem tesz jót sem a szépségnek,
     sem az egészségnek.
 
 10. Arctornázz rendszeresen! A bőr szépsége önmagában nem elég. A feszes, formás
-    arcért az izmok mérete, fittsége felelős. Ne várd meg míg az arcizmok meggyengülnek, 
+    arcért az izmok mérete, fittsége felelős. Ne várd meg míg az arcizmok meggyengülnek,
     megereszkednek, az arc elveszíti tónusát, és lógó petyhüdt, ráncossá válik!

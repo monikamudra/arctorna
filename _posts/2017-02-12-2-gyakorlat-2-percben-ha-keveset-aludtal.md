@@ -1,9 +1,9 @@
 ---
-title: 2 gyakorlat 2 percben, ha keveset aludtál
+title: 2 gyakorlat 2 percben, ha keveset&nbsp;aludtál
 main_image: 2-gyakorlat-2-percben-ha-keveset-aludtal.jpg
-summary: >-
+description: >-
   Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
-  alvásra.   
+  alvásra.
 ---
 
 Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő

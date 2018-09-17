@@ -1,9 +1,9 @@
 ---
-title: Szimmetrikus arc vs szép arc
+title: Szimmetrikus arc vs szép&nbsp;arc
 main_image: szimmetrikus-arc-vs-szep-arc.jpg
-summary: >-
+description: >-
   Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
-  komolyan törődni vele.  
+  komolyan törődni vele.
 ---
 
 Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes

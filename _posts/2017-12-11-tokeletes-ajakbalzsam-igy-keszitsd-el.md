@@ -1,10 +1,10 @@
 ---
-title: Tökéletes ajakbalzsam – így készítsd el!
+title: Tökéletes ajakbalzsam – így&nbsp;készítsd&nbsp;el!
 main_image: tokeletes-ajakbalzsam-igy-keszitsd-el.jpg
-summary: >-
+description: >-
   Már évek óta saját készítésű ajakápolót használok és büszkén mondhatom, hogy
   nagyon elégedett vagyok az eredménnyel.
-  
+
 ---
 
 Már évek óta saját készítésű ajakápolót használok és büszkén mondhatom, hogy

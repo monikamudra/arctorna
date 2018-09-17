@@ -1,9 +1,9 @@
 ---
-title: Száműzd a ráncokat saját készítésű szérummal!
+title: Száműzd a ráncokat saját készítésű&nbsp;szérummal!
 main_image: szamuzd-a-rancokat-sajat-keszitesu-szerummal.jpg
-summary: >-
+description: >-
   A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
-  mennyiségben főleg a csúcsminőségű szépségápolókban van jelen. 
+  mennyiségben főleg a csúcsminőségű szépségápolókban van jelen.
 ---
 
 A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális

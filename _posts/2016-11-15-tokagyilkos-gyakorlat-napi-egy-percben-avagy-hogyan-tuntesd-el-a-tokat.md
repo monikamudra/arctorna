@@ -1,10 +1,10 @@
 ---
-title: Így olvaszd le a tokát egyszerűen!
+title: Így olvaszd le a tokát&nbsp;egyszerűen!
 main_image: tokagyilkos-gyakorlat-napi-egy-percben-avagy-hogyan-tuntesd-el-a-tokat.jpg
-summary: >-
+description: >-
   Néha a genetika, néha csak felszedett pár kiló miatt, de legtöbbször a kor
   előrehaladtával jelenik meg a toka, ami valljuk be őszintén sokat ront az arc
-  összképén. 
+  összképén.
 ---
 
 Néha a genetika, néha csak felszedett pár kiló miatt, de legtöbbször a kor

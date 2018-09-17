@@ -1,7 +1,7 @@
 ---
-title: Fiatalító arcmasszázs, napi 4 percben
+title: Fiatalító arcmasszázs, napi 4&nbsp;percben
 main_image: fiatalito-arcmasszazs-napi-4-percben.jpg
-summary: >-
+description: >-
   Az arcmasszázs egy remek kiegészítője az arc fiatalon tartásának, ezért érdemes
   beépíteni egy párperces alap masszázst a napi rutinunkba.
 ---

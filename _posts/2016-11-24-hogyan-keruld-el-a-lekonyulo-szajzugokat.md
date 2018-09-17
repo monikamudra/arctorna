@@ -1,9 +1,9 @@
 ---
-title: Hogyan kerüld el a lekonyuló szájzugokat
+title: Hogyan kerüld el a lekonyuló&nbsp;szájzugokat
 main_image: hogyan-keruld-el-a-lekonyulo-szajzugokat.jpg
-summary: >-
+description: >-
   A lekonyuló szájzugok nem túl szexi látvány. A "lebiggyedés" lehet genetikai
-  eredetű, de a fő ok a szájzugemelő izmok fokozatos gyengülése. 
+  eredetű, de a fő ok a szájzugemelő izmok fokozatos gyengülése.
 ---
 
 A lekonyuló szájzugok nem túl szexi látvány. A “lebiggyedés” lehet genetikai

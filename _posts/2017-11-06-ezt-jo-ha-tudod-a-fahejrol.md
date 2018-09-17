@@ -1,7 +1,7 @@
 ---
-title: Ezt jó, ha tudod a fahéjról!
+title: Ezt jó, ha tudod a&nbsp;fahéjról!
 main_image: ezt-jo-ha-tudod-a-fahejrol.jpg
-summary: >-
+description: >-
   A fahéj szinte mindenki fűszeres fiókjában megtalálható, de talán nem mindenki
   ismeri ennek a népszerű fűszernövénynek az egészségügyi előnyeit és
   felhasználási lehetőségeit.

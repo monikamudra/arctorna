@@ -1,10 +1,10 @@
 ---
-title: Az 5 legfontosabb lépés álmaid megvalósításához
+title: Az 5 legfontosabb lépés álmaid&nbsp;megvalósításához
 main_image: az-5-legfontosabb-lepes-az-almok-megvalositasahoz.jpg
-summary: >-
+description: >-
   Minden sikeres embernek van egy mélyről jövő belső, titkos álma és egy erős hite, hogy az
-  az megvalósítható. Ők azok, akik apró lépésekben haladnak előre, és lépésről-lépésre.  
-  építik álmaik apró darabkáit, úgy mint egy puzzle. Íme az öt legfontosabb lépés, hogy   
+  az megvalósítható. Ők azok, akik apró lépésekben haladnak előre, és lépésről-lépésre.
+  építik álmaik apró darabkáit, úgy mint egy puzzle. Íme az öt legfontosabb lépés, hogy
   elindulj álmaid megvalósításában.
 
 ---

@@ -1,11 +1,11 @@
 ---
-title: 10 perces pakolás / gyönyörű bőr
+title: 10 perces pakolás / gyönyörű&nbsp;bőr
 main_image: 10-perces-pakolas-gyonyoru-bor.jpg
-summary: >-
+description: >-
   Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
   rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is
-  kényeztetni magam. 
-  
+  kényeztetni magam.
+
 ---
 
 Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
@@ -56,6 +56,6 @@ hidratáló krémedet!
 ne tárold, minden alkalommal friss pakolást készíts! Heti 1 alkalommal érdemes
 alkalmazni.
 
-Kellemes szépülést! 
+Kellemes szépülést!
 
 

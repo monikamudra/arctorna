@@ -1,9 +1,9 @@
 ---
-title: 7 szépség tipp amit érdemes megfogadni kánikulában
+title: 7 szépség tipp amit érdemes megfogadni&nbsp;kánikulában
 main_image:
-summary: >-
+description: >-
   Nyáron a nagy melegben fontos odafigyelni néhány alapvető dologra, hogy
-  ilyenkor is szépek mardhassunk. 
+  ilyenkor is szépek mardhassunk.
 ---
 
 ## 1. Hidratálás

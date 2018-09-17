@@ -1,9 +1,9 @@
 ---
-title: Így tüntesd el a tokát!
+title: Így tüntesd el a&nbsp;tokát!
 main_image: igy-tuntesd-el-a-tokat.jpg
-summary: >-
-  Egyik nagyon gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak 
-  az idősebb generáció problémája. 
+description: >-
+  Egyik nagyon gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak
+  az idősebb generáció problémája.
 ---
 
 Egyik gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak az

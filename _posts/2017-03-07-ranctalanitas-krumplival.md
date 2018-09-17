@@ -1,9 +1,9 @@
 ---
-title: Ránctalanítás krumplival
+title: Ránctalanítás&nbsp;krumplival
 main_image: ranctalanitas-krumplival.jpg
-summary: >-
+description: >-
   Az egyik legjobb dolog a természetben, hogy a benne megtalálható növényeket
-  nemcsak megehetjük, de a bennük lévő értékes vitaminokat és ásványi anyagokat 
+  nemcsak megehetjük, de a bennük lévő értékes vitaminokat és ásványi anyagokat
   külsőleg is hasznosíthatjuk.
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: Szem alatti karikák? Neeee!
+title: Szem alatti karikák?&nbsp;Neeee!
 main_image: szem-alatti-karikak-eltuntetese.jpg
-summary: >-
+description: >-
   Gondolom veled is előfordult már néhányszor, hogy nem kívánt karikák jelentek
   meg a szemed alatt, amikor keveset aludtál egy stresszesebb, vagy egy dolgosabb
-  időszak után. 
+  időszak után.
 ---
 
 Gondolom veled is előfordult már néhányszor, hogy nem kívánt karikák jelentek

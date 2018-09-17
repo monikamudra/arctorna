@@ -1,10 +1,10 @@
 ---
-title: Arctisztítás olajjal - kíméletes és természetes
+title: Arctisztítás olajjal - kíméletes és&nbsp;természetes
 main_image: arctisztitas-olajjal-kimeletes-es-termeszetes.jpg
-summary: >-
+description: >-
   Azt, hogy a napi arctisztítás mennyire fontos, talán nem is kell hangsúlyozni. A
   koszos bőrre kent bármilyen krém felszívódásával a szennyeződés is bekerül a bőr
-  mélyebb rétegeibe. 
+  mélyebb rétegeibe.
 ---
 
 Azt, hogy a napi arctisztítás mennyire fontos, talán nem is kell hangsúlyozni. A
@@ -18,7 +18,7 @@ bőrtípusunknak megfelelő, kíméletes terméket.
 
 A természetes olajok, amik szerencsére egyre népszerűbbek, nemcsak hatékony
 bőrápolók és ránctalanítók, de remekül oldják a bőr felületén lévő
-szennyeződéseket is anélkül, hogy kiszárítanák a bőrt. Ezért azok nagyon jól 
+szennyeződéseket is anélkül, hogy kiszárítanák a bőrt. Ezért azok nagyon jól
 alkalmazhatók a mindennapos arctisztításnál. Használhatsz bármilyen hidegen
 sajtolt tiszta olajat, például kókuszolajat, ligetszépe vagy argán olajat
 normál, száraz és/vagy érett bőrre. A jojoba olajat pedig a zsíros vagy kevert

@@ -1,7 +1,7 @@
 ---
-title: Smink előtti tuti tipp, a ragyogó arcért
+title: Smink előtti tuti tipp, a ragyogó&nbsp;arcért
 main_image: smink-elotti-tuti-tipp-a-ragyogo-arcert.jpg
-summary: >-
+description: >-
   Gondolom veled is előfordult már, hogy valamilyen, számodra fontos eseményen
   szerettél volna nagyon jól kinézni, de a sok teendő rendesen lestrapált és nem
   volt időd alaposan rápihenni az alkalomra.

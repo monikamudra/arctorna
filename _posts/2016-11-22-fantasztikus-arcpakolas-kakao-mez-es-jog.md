@@ -1,7 +1,7 @@
 ---
-title: Fantasztikus arcpakolás – kakaó, méz és joghurt
+title: Fantasztikus arcpakolás – kakaó, méz és&nbsp;joghurt
 main_image: fantasztikus-arcpakolas-kakao-mez-es-jog.jpg
-summary: >-
+description: >-
   Három, a konyhában szinte mindig fellelhető összetevő, és kész is egy remek
   arcpakolás.
 ---
