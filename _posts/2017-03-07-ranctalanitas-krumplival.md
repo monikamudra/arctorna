@@ -1,6 +1,10 @@
 ---
 title: Ránctalanítás krumplival
 main_image: ranctalanitas-krumplival.jpg
+summary: >-
+  Az egyik legjobb dolog a természetben, hogy a benne megtalálható növényeket
+  nemcsak megehetjük, de a bennük lévő értékes vitaminokat és ásványi anyagokat 
+  külsőleg is hasznosíthatjuk.
 ---
 
 Hogy a krumpli finom vagy nem, hizlal vagy sem ezt döntse el mindenki maga. Egy

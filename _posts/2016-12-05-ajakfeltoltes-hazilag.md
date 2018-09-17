@@ -1,6 +1,9 @@
 ---
 title: Ajakfeltöltés házilag
 main_image: ajakfeltoltes-hazilag.jpg
+summary: >-
+  Mindenki szeretne fiatalosan telt ajkakat, ami megfelelő arctorna gyakorlatokkal
+  és rendszeres gyakorlással természetesen is elérhető. 
 ---
 
 Ez az egyszerű gyakorlat csodásan izmosítja az ajkakat (főleg a felső ajakra

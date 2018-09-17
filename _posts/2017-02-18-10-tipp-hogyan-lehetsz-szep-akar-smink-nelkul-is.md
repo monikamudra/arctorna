@@ -1,38 +1,48 @@
 ---
-title: 10 tipp a smink nélküli szépséghez
+title: 10 tuti tipp a smink nélküli szépséghez
 main_image: 10-tipp-hogyan-lehetsz-szep-akar-smink-nelkul-is.jpg
+summary: >-
+  Egy alkalomra készített minőségi smink, csak akkor fog igazán 
+  szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően 
+  hidratált, ápolt és egészséges. 
 ---
 
-Hiába a profi smink, ha az alapanyag nem megfelelő minőségű. Ez nem csak a smink
-cuccokra értendő, mivel az arcbőr és az arcizmok állapota a legfontosabb
-kiindulópont, hogy a végeredmény tökéletes legyen. Ha ezek rendben vannak,
-minden más csak extra. Íme néhány tipp, hogyan tarthatod arcod ápoltan,
-egészségesen és fitten.
+Egy alkalomra készített minőségi smink, csak akkor fog igazán 
+szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően 
+hidratált, ápolt és egészséges. Egy tudatosan ápolt szép bőrt pedig nem is 
+szükséges sminkkel díszíteni, hiszen önmagában gyönyörű. Itt van néhány nagyszerű tipp, 
+ami tökéletes alap, a smink nélküli szépséghez.
+ 
+1.  A napi 2-3 liter tiszta víz fogyasztása (nem szénsavas) elengedhetetlen a bőr
+    és a szervezet megfelelő hidratáltságához - ez a szép bőr alapja.
 
-1.  A napi 2-3 liter víz fogyasztása (nem szénsavas) elengedhetetlen a bőr
-    megfelelő hidratáltságához - ez a szép bőr alapja.
-2.  A bőrápolás egyik legfontosabb lépése az arc megfelelő és alapos tisztítása
+2.  A bőrápolás egyik legfontosabb lépése az arcbőr megfelelő és alapos tisztítása
     reggel és este. Használj savas kémhatású, természetes arctisztító terméket!
+
 3.  A szép bőr szintén fontos lépése a bőrradírozás. Ezt végezheted természetes
     anyagokat tartalmazó bőrradírral vagy hámlasztó szivaccsal. (Vigyázz a
-    radírozással, havi egy-két alkalomnál többször ne alkalmazd.)
-4.  Használj kókusz olajat! Erről már sokszor írtam. Kiváló hidratáló,
-    bőrpuhító, gyulladáscsökkentő hatású. Nagyon jó kiegészítője a hidratáló
-    krémeknek, mindenképpen érdemes kipróbálni.
+    radírozással, havi egy-két alkalomnál többször ne alkalmazd és a bőrhöz gyengéd
+    anyagokat használj!)
+
+4.  Vess be egy jó arcmasszázst! A rendszeres masszázs jelentősen lassítja az öregedési                 folyamatokat, csökkenti a ráncok kialakulását, frissé, üdévé teszi a teljes arcot.
+
 5.  Válassz a bőrtípusodnak megfelelő, természetes alapanyagokat tartalmazó
     hidratáló és fényvédő krémet napi használatra!
+
 6.  Készíts természetes arcpakolást legalább hetente egyszer! A natúr, friss
     alapanyagokból készített házi pakolások csodákat tesznek a bőrrel. Használd
     őket!
+
 7.  Figyelj arra, hogy mit eszel! Nagyon fontos, hogy miből táplálod a
     szervezeted, hiszen abból él, amit adsz neki.
+
 8.  Sportolj rendszeresen, legalább heti két alkalommal! Szintén nagyon fontos,
-    nem lehet eleget hangsúlyozni.
-9.  Aludj legalább napi 7 órát! Tudom, hogy a legtöbben innen akarnak időt
-    nyerni, de hidd el, hogy hosszútávon a kevés alvás nem kifizetődő.
+    nemcsak az egészségnek tesz jót, hanem a bőrnek is.
+
+9.  Aludj legalább napi 7 órát! Tudom, hogy innen a legeszszerűbb időt
+    nyerni, de hidd el, hosszútávon a kevés alvás nem tesz jót sem a szépségnek, 
+    sem az egészségnek.
+
 10. Arctornázz rendszeresen! A bőr szépsége önmagában nem elég. A feszes, formás
-    arcért nemcsak a bőr, hanem az alatta lévő izmok fittsége is felelős. Ne várd
-    meg míg az izmok meggyengülnek, megereszkednek és az arc elveszti tónusát,
-    lógó petyhüdt és fáradt kinézetűvé válik!
-
-
+    arcért az izmok mérete, fittsége felelős. Ne várd meg míg az arcizmok meggyengülnek, 
+    megereszkednek, az arc elveszíti tónusát, és lógó petyhüdt, ráncossá válik!

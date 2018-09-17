@@ -1,6 +1,9 @@
 ---
 title: Tökéletes lazulás saját készítésű testvajjal
 main_image: tokeletes-lazulas-sajat-keszitesu-testvajjal.jpg
+summary: >-
+  Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem
+  vágyom jobban, mint egy kellemes, lazító masszázsra és csendre. 
 ---
 
 Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem
@@ -32,13 +35,10 @@ számára is, így akár testápolóként is jól működhet.
 
 ## Szavatossági idő
 
-Mivel ez a masszázs vaj nem tartalmaz tartósítószereket, ezért ez addig
-eltartható, amíg az összetevők legrövidebb eltarthatósága. Legalább 6 hónapig
+Mivel ez a masszázs vaj nem tartalmaz tartósítószereket, ezért a legrövidebb ideig eltartható összetevő dátumát kell figyelembe venni. A krém maximum 6 hónapig
 használható probléma nélkül, bár az illóolaj illata kissé elhalványul majd, ha
-sokáig tárolod. Én mindig kis mennyiséget készítek egyszerre, és szükség esetén
-újra elkészítem.
+sokáig tárolod. Én mindig kis mennyiséget készítek egyszerre, majd szükség esetén
+újra készítem.
 
-Készítettél már masszázsolajat? Milyen illóolajakat használtál? Osszd meg velünk
-a tapasztalataidat!
 
 

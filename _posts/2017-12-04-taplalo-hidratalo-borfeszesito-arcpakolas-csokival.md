@@ -1,9 +1,13 @@
 ---
 title: Tápláló, hidratáló, bőrfeszesítő arcpakolás csokival
 main_image: taplalo-hidratalo-borfeszesito-arcpakolas-csokival.jpg
+summary: >-
+  A csokoládé finom, és talán nem is létezik olyan ember, aki valamilyen formájában
+  ne szeretné azt. De a csoki nemcsak a hangulatot dobhatja fel, hanem bőrápoló
+  összetevőként is remekül funkcionál. 
 ---
 
-A csokoládé finom, talán nem is létezik olyan ember, aki valamilyen formájában
+A csokoládé finom, és talán nem is létezik olyan ember, aki valamilyen formájában
 ne szeretné azt. De a csoki nemcsak a hangulatot dobhatja fel, hanem bőrápoló
 összetevőként is remekül funkcionál. Itt egy szuper tápláló-hidratáló-feszesítő
 arcpakolás, amit tuti, hogy imádni fogsz!
@@ -53,6 +57,6 @@ közvetlenül termelőtől.
 3.  10-20 perc elteltével mosd le langyos vízzel
 4.  és élvezd az eredményt :)
 
-Próbáltál már bármilyen csokis arcpakolást? Oszd meg velünk a tapasztalataidat!
+
 
 

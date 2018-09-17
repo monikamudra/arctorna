@@ -1,11 +1,14 @@
 ---
 title: 6 tuti tipp a gyönyörű szempillákért
 main_image: 6-tuti-tipp-a-gyonyoru-szempillakert.jpg
+summary: >-
+  Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem
+  fontos szerepe van a "kiegészítőknek" is, mint például a hajnak, szemöldököknek,      
+  szempilláknak, vagy a sminknek.
 ---
 
 Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem
-fontos szerepe van például a hajnak, szemöldököknek, szempilláknak, sminknek
-stb.
+fontos szerepe van a "kiegészítőknek" is, mint például a hajnak, szemöldököknek, szempilláknak, sminknek stb.
 
 Manapság egyre divatosabbak a pótolt, hatalmas szempilla bokrok, pedig némi
 gondoskodással és megfelelő sminkkel magunk is csodás pillákat varázsolhatunk

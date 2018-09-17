@@ -1,6 +1,10 @@
 ---
 title: A kontúros arc csodaszere
 main_image: a-konturos-arc-csodaszere.jpg
+summary: >-
+  A mindennapos bőrápolás mellett nagyon fontos gondoskodnunk az arc izmairól is,
+  hiszen az ott lévő izmok gyengülésével a bőr megereszkedik és arcunk elveszíti
+  eredeti tónusát, feszességét. 
 ---
 
 A mindennapos bőrápolás mellett nagyon fontos gondoskodnunk az arc izmairól is,
@@ -23,8 +27,5 @@ engedd vissza. Ismételj kétszer, ezután lazításként lazán tátogj, majd k
 mozgasd az állkapcsodat jobbra és balra néhányszor. A gyakorlat közben és
 lazításkor vigyázz az állkapocsízületedre, nehogy túl feszítsd.
 
-Ha szeretnél további segítséget, vagy szeretnél megismerni még több arctorna
-gyakorlatot, akkor regisztrálj a Workshop menüben található email címen a
-legközelebbi workshopra.
 
 

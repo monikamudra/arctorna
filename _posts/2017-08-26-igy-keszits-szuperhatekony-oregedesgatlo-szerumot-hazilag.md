@@ -1,6 +1,11 @@
 ---
 title: Így készíts szuperhatékony öregedésgátló szérumot házilag
 main_image: igy-keszits-szuperhatekony-oregedesgatlo-szerumot-hazilag.jpg
+summary: >-
+  Egy jó szérum mindig nagyon hasznos a bőrnek, mivel koncentráltan 
+  tartalmaz olyan antioxidáns összetevőket, amiket a hidratáló krémekben csak 
+  kis mennyiségben találunk meg. Ezek az antioxidánok rendkívül hasznosak a bőr
+  számára, hogy minél hosszabb ideig képes legyen megőrizni fiatalságát.
 ---
 
 Lassan itt a nyár vége, és ilyenkor a több hónapos erős napsugárzás bizony
@@ -88,7 +93,7 @@ vékonyan felvittem a teljes arcra, nyakra és dekoltázsra, majd 10-15 perc
 elteltével felkentem a szokásos arckrémemet.
 
 Mivel a szérum semmilyen tartósítószert nem tartalmaz, én hűtőben tároltam és
-két héten belül felhasználtam. Használat előtt felrázandó! Minden bőrtípusra
+egy héten belül felhasználtam. Használat előtt felrázandó! Minden bőrtípusra
 alkalmazható, de kerülni kell a sebes, sérült bőrfelületet.
 
 ## Tapasztalataim
@@ -96,6 +101,5 @@ alkalmazható, de kerülni kell a sebes, sérült bőrfelületet.
 Egy hét használat után a bőröm tömörebb és hidratáltabb lett, nem feszült, nem
 húzódott, tiszta, világos és egységes lett a felszíne.
 
-Készíts te is saját szérumot, teszteld, és oszd meg velünk a tapasztalataidat!
 
 

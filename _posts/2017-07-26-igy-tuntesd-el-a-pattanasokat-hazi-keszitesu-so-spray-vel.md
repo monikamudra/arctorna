@@ -1,6 +1,10 @@
 ---
 title: Így tüntesd el a pattanásokat házi készítésű só spray-vel!
 main_image: igy-tuntesd-el-a-pattanasokat-hazi-keszitesu-so-spray-vel.jpg
+summary: >-
+  Nagyon sok, igazán olcsó és hatásos házi praktika van, amikkel jól
+  kiegészíthetünk (vagy helyettesíthetünk) szépészeti kezeléseket, vagy egyszerűen
+  beilleszthetjük azokat a bőrápolási rutinunkba. 
 ---
 
 Nagyon sok, igazán olcsó és hatásos házi praktika van, amikkel jól
@@ -44,6 +48,6 @@ Adj egy csésze epsom-sóhoz a kedvenc illóolajodból 20 cseppet, keverd egy k�
 meleg vízbe, majd legalább 20-30 percet lazulj benne :)
 
 Ha soha nem próbáltad még a sót a bőrödön, mindenképpen próbáld ki ezt az
-egyszerű és olcsó receptet, és kérlek oszd meg velünk a tapasztalataidat!
+egyszerű és olcsó receptet!
 
 
