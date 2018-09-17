@@ -1,11 +1,15 @@
 ---
 title: Készíts saját izzadásgátlót!
 main_image: keszits-sajat-izzadasgatlot.jpg
+summary: >-
+  Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan
+  ártalmas anyagokkal találkozhatunk, amelyek hosszútávon  akár számos komoly betegség
+  kialakulásához is vezethetnek. 
 ---
 
 Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan
-ártalmas anyagokkal találkozhatunk, amelyek hosszútávon számos komoly betegség
-kialakulásához vezethetnek. Ezek között vannak a dezodorok és az izzadásgátlók
+ártalmas anyagokkal találkozhatunk, amelyek hosszútávon  akár számos komoly betegség
+kialakulásához is vezethetnek. Ezek között vannak a dezodorok és az izzadásgátlók
 is, melyeket naponta használunk. Persze vannak alternatívák, de sokan vagy nem
 ismerik azokat, vagy drágának találják.
 

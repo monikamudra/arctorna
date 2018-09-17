@@ -1,9 +1,14 @@
 ---
 title: Így készíts tökéletes napvédőt néhány perc alatt!
 main_image: igy-keszits-tokeletes-napvedot-nehany-perc-alatt.jpg
+summary: >-
+  Most, hogy visszavonhatatlanul elstartolt a szünidő, és még több időt töltünk a
+  szabadban mint eddig, tényleg fontos figyelmet fordítani arra, hogy találjunk
+  valamilyen megoldást magunk és családunk védelmére a bőrt károsító erős
+  napsugarak ellen. 
 ---
 
-Most, hogy visszavonhatatlanul elstartolt a szünidő és még több időt töltünk a
+Most, hogy visszavonhatatlanul elstartolt a szünidő, és még több időt töltünk a
 szabadban mint eddig, tényleg fontos figyelmet fordítani arra, hogy találjunk
 valamilyen megoldást magunk és családunk védelmére a bőrt károsító erős
 napsugarak ellen. Sajnos számos napvédő tartalmaz mérgező összetevőket vagy az

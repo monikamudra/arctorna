@@ -1,6 +1,12 @@
 ---
 title: 3 szuper tipp a tökéletes szépségért
 main_image: 3-szuper-tipp-a-tokeletes-szepsegert.jpg
+summary: >-
+  Arcunk állandóan szem előtt van, ezért igyekszünk azt mindig a legjobb formában
+  tartani. Számtalan szépség tanácsról, arcfiatalító kezelésről vagy plasztikai
+  beavatkozásról hallottunk már életünk során, de vajon mennyit tudunk arról, hogy
+  az arc különböző rétegein, együttesen milyen változások okoznak problémát a kor
+  előrehaladtával. 
 ---
 
 Arcunk állandóan szem előtt van, ezért igyekszünk azt mindig a legjobb formában

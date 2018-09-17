@@ -1,6 +1,9 @@
 ---
 title: Fiatalító arcmasszázs, napi 4 percben
 main_image: fiatalito-arcmasszazs-napi-4-percben.jpg
+summary: >-
+  Az arcmasszázs egy remek kiegészítője az arc fiatalon tartásának, ezért érdemes
+  beépíteni egy párperces alap masszázst a napi rutinunkba.
 ---
 
 Az arcmasszázs egy remek kiegészítője az arc fiatalon tartásának, ezért érdemes
@@ -9,8 +12,8 @@ masszázs elősegíti az elhalt hámsejtek leválását, lassítja a bőr örege
 késlelteti a ráncok kialakulását, csökkenti a stresszt és lazítja az izmokat. A
 megélénkült keringés hatására több oxigén és tápanyag jut a sejtekhez, ami
 elősegíti azok megújulását, zavartalan működését és a gyógyulást. A vér gyorsabb
-áramlásával hamarabb eltávoznak a méreganyagok, valamint fokozódik az olajok
-vagy krémek értékes hatóanyagainak felszívódása a bőrön át.
+áramlásával hamarabb eltávoznak a méreganyagok, valamint fokozódik a krémek, vagy
+az olajok értékes hatóanyagainak felszívódása a bőrön át.
 
 Itt egy egyszerű masszázs tipp, amit könnyedén alkalmazhatsz bármikor.
 

@@ -1,12 +1,14 @@
 ---
 title: 2 gyakorlat 2 percben, ha keveset aludtál
 main_image: 2-gyakorlat-2-percben-ha-keveset-aludtal.jpg
+summary: >-
+  Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
+  alvásra.   
 ---
 
-Mindannyiunkkal megesett már (legalább egyszer :)), hogy nem jutott elég idő
+Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
 alvásra. Nincs mit szépíteni, ha az ember nem 20 éves akkor az látszik is reggel
-a tükörben. Ilyenkor az arc fáradt, nyúzott, és a karikás szemek is többnyire
-erről árulkodnak. Mutatok két egyszerű gyakorlatot, amivel néhány perc alatt
+a tükörben. Ilyenkor az arc fáradt, nyúzott, és huzamosabb alváshiány után a szem alatti karikák is megjelennek. Mutatok két egyszerű gyakorlatot, amivel néhány perc alatt
 felfrissítheted az arcod és enyhítheted a kialvatlanság tüneteit.
 
 ## Gyakorlatok

@@ -1,6 +1,10 @@
 ---
 title: Házi lábápoló 10 perc alatt
 main_image: hazi-labapolo-10-perc-alatt.jpg
+summary: >-
+  A kemény, száraz vagy fáradt lábak ápolására remek lábápolót készíthetünk 
+  otthon tartósítószer nélkül, teljesen természetes alapanyagokból.
+
 ---
 
 Most, hogy a meleg miatt sokat mászkálok mezítláb, iszonyú hamar kiszárad a

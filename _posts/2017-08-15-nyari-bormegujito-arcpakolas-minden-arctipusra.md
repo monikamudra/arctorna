@@ -1,6 +1,9 @@
 ---
 title: Nyári bőrmegújító arcpakolás, minden bőrtípusra
 main_image: nyari-bormegujito-arcpakolas-minden-arctipusra.jpg
+summary: >-
+  Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több
+  odafigyelést és gondoskodást igényel, mint az év más időszakában.
 ---
 
 Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több

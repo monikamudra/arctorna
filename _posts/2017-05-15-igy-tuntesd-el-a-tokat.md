@@ -1,10 +1,13 @@
 ---
 title: Így tüntesd el a tokát!
 main_image: igy-tuntesd-el-a-tokat.jpg
+summary: >-
+  Egyik nagyon gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak 
+  az idősebb generáció problémája. 
 ---
 
-Az egyik leggyakoribb probléma az arcon a toka megjelenése (és ez nem csak az
-idősebbek problémája). Jó hír azonban, hogy mint több más zavaró tényezőtől az
+Egyik gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak az
+idősebb generáció problémája. Jó hír azonban, hogy mint több más zavaró tényezőtől az
 arcunkon és a nyakunkon, a tokától is meg lehet szabadulni arctorna
 gyakorlatokkal. Itt egy jó gyakorlat a toka eltüntetéséhez:
 

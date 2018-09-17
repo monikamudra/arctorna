@@ -1,14 +1,18 @@
 ---
 title: Igy tüntesd el a szarkalábakat!
 main_image: igy-tuntesd-el-a-szarkalabakat.jpg
+summary: >-
+  Egy bizonyos kor után maradandóan nyomot hagy arcunkon a sok-sok nevetés és
+  mosolygás, amit a szem sarkában megjelenő szarkalábak (nevető ráncok) jól megis 
+  mutatnak. 
 ---
 
 Egy bizonyos kor után maradandóan nyomot hagy arcunkon a sok-sok nevetés és
-mosolygás, amit a szem sarkában megjelenő szarkalábak (nevető ráncok) mutatnak.
-Mások arcán ezek a ráncocskák szimpatikusak lehetnek, hiszen sokat mosolygó
-ember benyomását keltik. De mivel ráncokat senki sem szeret viselni, ezért most
+mosolygás, amit a szem sarkában megjelenő szarkalábak (nevető ráncok) jól megis 
+mutatnak. Mások arcán ezek a ráncocskák szimpatikusak lehetnek, hiszen sokat mosolygó,
+pozitív ember benyomását keltik. De mivel ráncokat senki sem szeret viselni, ezért most
 mutatok neked egy szuper hatékony gyakorlatot, ami rendszeres gyakorlással a már
-meglévő mély szarkalábakat szépen kisimítja, a halvány ráncokat pedig eltünteti.
+meglévő mély szarkalábakat kisimítja, a halvány ráncokat pedig eltünteti.
 
 ## Gyakorlat
 

@@ -1,6 +1,9 @@
 ---
 title: Száműzd a ráncokat saját készítésű szérummal!
 main_image: szamuzd-a-rancokat-sajat-keszitesu-szerummal.jpg
+summary: >-
+  A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
+  mennyiségben főleg a csúcsminőségű szépségápolókban van jelen. 
 ---
 
 A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
@@ -38,7 +41,7 @@ Keverd el a vízben a C-vitamin port, majd csepegtesd hozzá az E-vitamin olajat
 Ha csak vizzel és C-vitaminnal készíted, akkor meg is vagy. Ezt legfeljebb 2
 hétig tárold a hűtőszekrényben! Ha glicerint is használsz, akkor először keverd
 el a C-vitamin port a kisebb mennyiségű vízben, majd keverd hozzá a glicerint és
-az E-vitamint. Ez a verzió kb. egy hónapig tárolható, szintén a hűtőben.
+az E-vitamint. Ez a verzió kb. egy-két hétig tárolható, szintén a hűtőben.
 Használat előtt mindig rázd össze!
 
 A tiszta C-vitamin por és a víz tonerként is működik. Fontos, hogy mindig a
@@ -48,7 +51,6 @@ tiszta C-vitamin por hőre, fényre, levegőre könnyen bomlik, ezért odafigyel
 igényel a tárolása. Ne vegyél átlátszó csomagolásban lévő terméket és felbontás
 után érdemes azt mindig hűtőben tárolni!
 
-Használtál már C-vitamin szérumot? Neked hogyan működött? Oszd meg velünk is a
-tapasztalataidat!
+
 
 

@@ -1,6 +1,9 @@
 ---
 title: Szimmetrikus arc vs szép arc
 main_image: szimmetrikus-arc-vs-szep-arc.jpg
+summary: >-
+  Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
+  komolyan törődni vele.  
 ---
 
 Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
@@ -27,7 +30,7 @@ korrigálni, ami pozitívan befolyásolja az arc összképét.
 
 ## Így nézd meg, hogy mennyire szimmetrikus az arcod!
 
-Készíts magadról egy arcképet (de ne grimaszolj és ne mosolyogj), majd vagy
+Készíts magadról egy portrét (de ne grimaszolj és ne mosolyogj), majd vagy
 valamilyen számítógépes programban vágd ketté a képet és tükrözd mindkét felét
 vagy duplán kinyomtatva és ketté vágva tedd egymás mellé a két azonos oldalt!
 

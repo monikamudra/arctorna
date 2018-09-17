@@ -1,11 +1,16 @@
 ---
 title: 10 perces pakolás / gyönyörű bőr
 main_image: 10-perces-pakolas-gyonyoru-bor.jpg
+summary: >-
+  Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
+  rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is
+  kényeztetni magam. 
+  
 ---
 
 Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
 rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is
-kényeztetni magam.  Gyakran kutatok számomra érdekes receptek után, amiket aztán
+kényeztetni magam. Gyakran kutatok számomra érdekes receptek után, amiket aztán
 vagy a leírás alapján készítek el, vagy testreszabok. Szeretek kísérletezni,
 sokszor változtatom az összetevőket, próbálok mindig valami különlegeset
 készíteni magamnak. Kaolinból is készítettem már néhányszor arcpakolást, nekem
@@ -51,6 +56,6 @@ hidratáló krémedet!
 ne tárold, minden alkalommal friss pakolást készíts! Heti 1 alkalommal érdemes
 alkalmazni.
 
-Kellemes szépülést! Oszd meg a tapasztalataidat velünk is!
+Kellemes szépülést! 
 
 

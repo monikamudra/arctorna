@@ -1,6 +1,9 @@
 ---
 title: Gyorsan elkészíthető házi kézápoló masszázskrém
 main_image: gyorsan-elkeszitheto-hazi-kezapolo-masszazskrem.jpg
+summary: >-
+  A kéz ápoltsága szintén nagyon fontos, hiszen a teljes szépség része. Ráadásul, mindig
+  szem előtt van és rendkívül kiszolgáltatott a környezeti hatásokkal szemben.
 ---
 
 Én kimondottan a száraz, vízhiányos és érzékeny bőrűek táborába tartozom, ami
@@ -40,6 +43,6 @@ egy kis olaj a kezeden azt kend szét a karokon.
 
 Tartsd a krémet száraz, hűvös helyen és 3 hónapon belül használd fel!
 
-Készítsd el, próbáld ki, és oszd meg velünk a tapasztalataidat!
+Készítsd el, próbáld ki!
 
 
