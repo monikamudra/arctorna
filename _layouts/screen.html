@@ -4,7 +4,7 @@ layout: default
 
 <main class="c-Screen">
 
-  <section class="c-Screen__Section c-Screen__Section--Header c-Screen__Section--Misc">
+  <section class="c-Screen__Section c-Screen__Section--Header c-Screen__Section--{{ page.header_style | default: 'Misc' }}">
     <div class="c-ContentBlock c-ContentBlock--Centered">
       <h1 class="u-MarginBottomZero">{{ page.screen_title | default: page.title }}</h1>
     </div>
