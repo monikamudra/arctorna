@@ -1,11 +1,15 @@
-$c-Collection-Space: space-rem(.5);
+@include token(
+  "c-Collection", (
+    "space": space-rem(1)
+  )
+);
 
 .c-Collection {
   @include break($from: 600px) {
     display: flex;
     flex-wrap: wrap;
-    margin-left: $c-Collection-Space * -1;
-    margin-right: $c-Collection-Space * -1;
+    margin-left: token("c-Collection", "space") * -1;
+    margin-right: token("c-Collection", "space") * -1;
   }
 }
 
@@ -18,7 +22,7 @@ $c-Collection-Space: space-rem(.5);
 
   @include break($from: 600px) {
     margin-bottom: 0;
-    padding: $c-Collection-Space;
+    padding: token("c-Collection", "space");
     width: 50%;
   }
 

@@ -1,0 +1,42 @@
+@include token(
+  "c-PostCard", (
+    "image-height": 175px
+  )
+);
+
+
+.c-PostCard {
+  display: block;
+  margin-bottom: space-em(1);
+}
+
+.c-PostCard__Image {
+  display: inline-block;
+  width: 100%;
+  line-height: token("c-PostCard", "image-height");
+  margin-bottom: 1em;
+  text-align: center;
+
+  img {
+    max-height: token("c-PostCard", "image-height");
+    max-width: 100%;
+    vertical-align: bottom;
+  }
+}
+
+.c-PostCard__Title {}
+
+.c-PostCard__Summary {
+  color: token("color-for", "text-secondary");
+}
+
+
+// Hover state
+
+.c-PostCard {
+  &:hover {
+    .c-PostCard__Title {
+      color: token("color-for", "link");
+    }
+  }
+}

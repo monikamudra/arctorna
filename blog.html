@@ -20,12 +20,17 @@ screen_title: <small>Arctorna blog</small></br>Szépségtippek és&nbsp;gyakorla
   </section>
 
   <section class="c-Screen__Section c-Screen__Section--Plain">
-    <div class="c-ContentBlock">
-      <ul>
+    <div class="c-ContentBlock c-ContentBlock--Wide">
+      <ul class="c-Collection">
         {% for post in site.posts %}
-          <li>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt }}</p>
+          <li class="c-Collection__Item">
+            <a class="c-PostCard" href="{{ post.url }}">
+              <div class="c-PostCard__Image">
+                <img class="" src="/assets/images/posts/{{ post.slug }}-thumb.jpg" srcset="/assets/images/posts/{{ post.slug }}-thumb.jpg 1x, /assets/images/posts/{{ post.slug }}.jpg 2x" alt="">
+              </div>
+              <h3 class="c-PostCard__Title">{{ post.title }}</h2>
+              <div class="c-PostCard__Summary">{{ post.description }}</div>
+            </a>
           </li>
         {% endfor %}
       </ul>
