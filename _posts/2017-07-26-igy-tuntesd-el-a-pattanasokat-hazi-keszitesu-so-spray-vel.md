@@ -1,6 +1,6 @@
 ---
 title: Így tüntesd el a pattanásokat házi készítésű só&nbsp;spray-vel!
-main_image: igy-tuntesd-el-a-pattanasokat-hazi-keszitesu-so-spray-vel.jpg
+image: /assets/images/posts/igy-tuntesd-el-a-pattanasokat-hazi-keszitesu-so-spray-vel-social.jpg
 description: >-
   Nagyon sok, igazán olcsó és hatásos házi praktika van, amikkel jól
   kiegészíthetünk (vagy helyettesíthetünk) szépészeti kezeléseket, vagy egyszerűen

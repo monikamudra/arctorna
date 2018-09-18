@@ -1,6 +1,6 @@
 ---
 title: A legjobb arcmasszázs rutin napi pár&nbsp;percben
-main_image: a-legjobb-arcmasszazs-rutin-napi-par-percben.jpg
+image: /assets/images/posts/a-legjobb-arcmasszazs-rutin-napi-par-percben-social.jpg
 description: >-
   Míg az arc kontúrjának megtartására a rendszeres arctorna a legjobb természetes
   megoldás, addig a szép bőrért, valamint a ráncok kialakulásának megelőzéséért

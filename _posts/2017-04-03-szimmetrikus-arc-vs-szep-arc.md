@@ -1,6 +1,6 @@
 ---
 title: Szimmetrikus arc vs szép&nbsp;arc
-main_image: szimmetrikus-arc-vs-szep-arc.jpg
+image: /assets/images/posts/szimmetrikus-arc-vs-szep-arc-social.jpg
 description: >-
   Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
   komolyan törődni vele.

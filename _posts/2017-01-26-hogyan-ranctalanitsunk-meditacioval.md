@@ -1,6 +1,6 @@
 ---
 title: Hogyan ránctalanítsunk&nbsp;meditációval?
-main_image: hogyan-ranctalanitsunk-meditacioval.jpg
+image: /assets/images/posts/hogyan-ranctalanitsunk-meditacioval-social.jpg
 description: >-
   A meditáció a test és az elme tudatos ellazítása, figyelmünk belső énünkre
   fordítása. Célja az elme lecsendesítése, és a belső béke megtalálása.

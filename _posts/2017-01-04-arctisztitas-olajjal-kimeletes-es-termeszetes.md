@@ -1,6 +1,6 @@
 ---
 title: Arctisztítás olajjal - kíméletes és&nbsp;természetes
-main_image: arctisztitas-olajjal-kimeletes-es-termeszetes.jpg
+image: /assets/images/posts/arctisztitas-olajjal-kimeletes-es-termeszetes-social.jpg
 description: >-
   Azt, hogy a napi arctisztítás mennyire fontos, talán nem is kell hangsúlyozni. A
   koszos bőrre kent bármilyen krém felszívódásával a szennyeződés is bekerül a bőr

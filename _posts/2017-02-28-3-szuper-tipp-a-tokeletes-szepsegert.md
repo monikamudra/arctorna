@@ -1,6 +1,6 @@
 ---
 title: 3 szuper tipp a tökéletes&nbsp;szépségért
-main_image: 3-szuper-tipp-a-tokeletes-szepsegert.jpg
+image: /assets/images/posts/3-szuper-tipp-a-tokeletes-szepsegert-social.jpg
 description: >-
   Arcunk állandóan szem előtt van, ezért igyekszünk azt mindig a legjobb formában
   tartani. Számtalan szépség tanácsról, arcfiatalító kezelésről vagy plasztikai

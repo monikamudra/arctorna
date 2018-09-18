@@ -1,6 +1,6 @@
 ---
 title: Így tüntesd el a szigorú&nbsp;ráncokat!
-main_image: igy-tuntesd-el-a-szigoru-rancokat.jpg
+image: /assets/images/posts/igy-tuntesd-el-a-szigoru-rancokat-social.jpg
 description: >-
   Szemöldökeinket gyakran összeráncoljuk amikor erősen fókuszálunk valamire vagy
   rosszallóan, dühösen nézünk, ami nagyon hamar, az úgynevezett szigorú ráncok

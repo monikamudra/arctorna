@@ -1,6 +1,6 @@
 ---
 title: Készíts saját&nbsp;izzadásgátlót!
-main_image: keszits-sajat-izzadasgatlot.jpg
+image: /assets/images/posts/keszits-sajat-izzadasgatlot-social.jpg
 description: >-
   Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan
   ártalmas anyagokkal találkozhatunk, amelyek hosszútávon  akár számos komoly betegség

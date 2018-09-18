@@ -1,6 +1,6 @@
 ---
 title: 6 tuti tipp a gyönyörű&nbsp;szempillákért
-main_image: 6-tuti-tipp-a-gyonyoru-szempillakert.jpg
+image: /assets/images/posts/6-tuti-tipp-a-gyonyoru-szempillakert-social.jpg
 description: >-
   Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem
   fontos szerepe van a "kiegészítőknek" is, mint például a hajnak, szemöldököknek,

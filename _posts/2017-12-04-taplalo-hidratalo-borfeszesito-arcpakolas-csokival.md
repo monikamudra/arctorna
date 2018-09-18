@@ -1,6 +1,6 @@
 ---
 title: Tápláló, hidratáló, bőrfeszesítő arcpakolás&nbsp;csokival
-main_image: taplalo-hidratalo-borfeszesito-arcpakolas-csokival.jpg
+image: /assets/images/posts/taplalo-hidratalo-borfeszesito-arcpakolas-csokival-social.jpg
 description: >-
   A csokoládé finom, és talán nem is létezik olyan ember, aki valamilyen formájában
   ne szeretné azt. De a csoki nemcsak a hangulatot dobhatja fel, hanem bőrápoló

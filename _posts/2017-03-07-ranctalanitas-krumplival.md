@@ -1,6 +1,6 @@
 ---
 title: Ránctalanítás&nbsp;krumplival
-main_image: ranctalanitas-krumplival.jpg
+image: /assets/images/posts/ranctalanitas-krumplival-social.jpg
 description: >-
   Az egyik legjobb dolog a természetben, hogy a benne megtalálható növényeket
   nemcsak megehetjük, de a bennük lévő értékes vitaminokat és ásványi anyagokat

@@ -1,6 +1,6 @@
 ---
 title: Ajakfeltöltés&nbsp;házilag
-main_image: ajakfeltoltes-hazilag.jpg
+image: /assets/images/posts/ajakfeltoltes-hazilag-social.jpg
 description: >-
   Mindenki szeretne fiatalosan telt ajkakat, ami megfelelő arctorna gyakorlatokkal
   és rendszeres gyakorlással természetesen is elérhető.

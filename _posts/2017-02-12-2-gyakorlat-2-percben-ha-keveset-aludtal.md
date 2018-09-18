@@ -1,6 +1,6 @@
 ---
 title: 2 gyakorlat 2 percben, ha keveset&nbsp;aludtál
-main_image: 2-gyakorlat-2-percben-ha-keveset-aludtal.jpg
+image: /assets/images/posts/2-gyakorlat-2-percben-ha-keveset-aludtal-social.jpg
 description: >-
   Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
   alvásra.

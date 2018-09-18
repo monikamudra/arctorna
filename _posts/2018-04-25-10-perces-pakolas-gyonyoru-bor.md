@@ -1,6 +1,6 @@
 ---
 title: 10 perces pakolás / gyönyörű&nbsp;bőr
-main_image: 10-perces-pakolas-gyonyoru-bor.jpg
+image: /assets/images/posts/10-perces-pakolas-gyonyoru-bor-social.jpg
 description: >-
   Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
   rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is

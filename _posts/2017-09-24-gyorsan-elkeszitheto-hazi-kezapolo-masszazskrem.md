@@ -1,6 +1,6 @@
 ---
 title: Gyorsan elkészíthető házi kézápoló&nbsp;masszázskrém
-main_image: gyorsan-elkeszitheto-hazi-kezapolo-masszazskrem.jpg
+image: /assets/images/posts/gyorsan-elkeszitheto-hazi-kezapolo-masszazskrem-social.jpg
 description: >-
   A kéz ápoltsága szintén nagyon fontos, hiszen a teljes szépség része. Ráadásul, mindig
   szem előtt van és rendkívül kiszolgáltatott a környezeti hatásokkal szemben.

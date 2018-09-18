@@ -1,6 +1,6 @@
 ---
 title: Így készíts kollagén maszkot&nbsp;házilag!
-main_image: igy-keszits-kollagen-maszkot-hazilag.jpg
+image: /assets/images/posts/igy-keszits-kollagen-maszkot-hazilag-social.jpg
 description: >-
   Még hónapokkal ezelőtt olvastam egy házilag készített arcmaszkról, amit már
   régóta szerettem volna kipróbálni, de valami miatt folyton elmaradt.

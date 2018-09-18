@@ -1,6 +1,6 @@
 ---
 title: Három tipp amivel hatékonyan tehetsz a mimikai ráncok&nbsp;ellen
-main_image: hogyan-vedd-eszre-idoben-es-keruld-el-a-mimikai-rancok-kialakulasat.jpg
+image: /assets/images/posts/hogyan-vedd-eszre-idoben-es-keruld-el-a-mimikai-rancok-kialakulasat-social.jpg
 description: >-
   Érzéseink gyakran fejeződnek ki az arcon, melyek minél intenzívebbek,
   annál erőteljesebben kapcsolódik hozzá mimika. Ha ezek a grimaszok hosszú

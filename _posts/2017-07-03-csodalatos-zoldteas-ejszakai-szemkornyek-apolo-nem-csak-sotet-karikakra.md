@@ -1,6 +1,6 @@
 ---
 title: Csodálatos zöldteás éjszakai szemkörnyék ápoló, nem csak sötét&nbsp;karikákra
-main_image: csodalatos-zoldteas-ejszakai-szemkornyek-apolo-nem-csak-sotet-karikakra.jpg
+image: /assets/images/posts/csodalatos-zoldteas-ejszakai-szemkornyek-apolo-nem-csak-sotet-karikakra-social.jpg
 description: >-
   Fontos a jól megválasztott szemkörnyék ápoló rendszeres használata, hiszen a szemkörnyéki
   bőr vékony és érzékeny, ezért hamar ráncosodhat. Éjszakára azonban magad is készíthetsz

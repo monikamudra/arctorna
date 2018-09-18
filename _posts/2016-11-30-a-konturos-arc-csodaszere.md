@@ -1,6 +1,6 @@
 ---
 title: A kontúros arc&nbsp;csodaszere
-main_image: a-konturos-arc-csodaszere.jpg
+image: /assets/images/posts/a-konturos-arc-csodaszere-social.jpg
 description: >-
   A mindennapos bőrápolás mellett nagyon fontos gondoskodnunk az arc izmairól is,
   hiszen az ott lévő izmok gyengülésével a bőr megereszkedik és arcunk elveszíti

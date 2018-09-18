@@ -1,6 +1,6 @@
 ---
 title: 7 szépség tipp amit érdemes megfogadni&nbsp;kánikulában
-main_image:
+image: /assets/images/posts/7-szepseg-tipp-amire-erdemes-odafigyelni-kanikulaban-social.jpg
 description: >-
   Nyáron a nagy melegben fontos odafigyelni néhány alapvető dologra, hogy
   ilyenkor is szépek mardhassunk.

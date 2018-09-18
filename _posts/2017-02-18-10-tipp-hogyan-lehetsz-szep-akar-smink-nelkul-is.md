@@ -1,6 +1,6 @@
 ---
 title: 10 tuti tipp a smink nélküli&nbsp;szépséghez
-main_image: 10-tipp-hogyan-lehetsz-szep-akar-smink-nelkul-is.jpg
+image: /assets/images/posts/10-tipp-hogyan-lehetsz-szep-akar-smink-nelkul-is-social.jpg
 description: >-
   Egy alkalomra készített minőségi smink, csak akkor fog igazán
   szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően

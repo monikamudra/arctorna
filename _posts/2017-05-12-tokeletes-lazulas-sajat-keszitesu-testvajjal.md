@@ -1,6 +1,6 @@
 ---
 title: Tökéletes lazulás saját készítésű&nbsp;testvajjal
-main_image: tokeletes-lazulas-sajat-keszitesu-testvajjal.jpg
+image: /assets/images/posts/tokeletes-lazulas-sajat-keszitesu-testvajjal-social.jpg
 description: >-
   Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem
   vágyom jobban, mint egy kellemes, lazító masszázsra és csendre.
