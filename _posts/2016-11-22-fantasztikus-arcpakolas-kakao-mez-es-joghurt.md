@@ -1,6 +1,6 @@
 ---
 title: "Fantasztikus arcpakolás: <span class='u-NoWrapWide'>kakaó, méz és joghurt</span>"
-image: /assets/images/posts/fantasztikus-arcpakolas-kakao-mez-es-jog-social.jpg
+image: /assets/images/posts/fantasztikus-arcpakolas-kakao-mez-es-joghurt-social.jpg
 description: >-
   Három, a konyhában szinte mindig fellelhető összetevő, és kész is egy remek
   arcpakolás.
@@ -28,5 +28,3 @@ Keverd össze a kakaóport a mézzel és a joghurttal, majd kend fel a masszát
 egyenletesen az előzőleg megtisztított arcra és dekoltázsra. Hagyd hatni 10-15
 percig, majd mosd le langyos vízzel. Ezután használhatod a már jól bevált
 hidratáló krémed. Tényleg nagyon szuper, próbáld ki!
-
-
