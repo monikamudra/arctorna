@@ -41,7 +41,7 @@
   }
 
   ul, ol {
-    padding-left: token("c-Article", "indent");
+    padding-left: 1.5em;
 
     li {
       position: relative;
@@ -49,17 +49,26 @@
 
       &::before {
         position: absolute;
-        left: token("c-Article", "indent") * -1;
+        left: -1.5em;
         color: token("color-for", "text-highlight");
       }
     }
 
-    @include break($from: "medium") {
+    @include break($from: 768px) {
       padding-left: 0;
+
+      li {
+        &::before {
+          left: -2.5em;
+          width: 1.5em;
+          text-align: right;
+        }
+      }
     }
   }
 
   ul {
+
     li {
       &::before {
         content: "•";
@@ -69,11 +78,13 @@
 
   ol {
     counter-reset: article-ol;
+
     li {
       counter-increment: article-ol;
 
       &::before {
         content: counter(article-ol);
+        font-weight: bold;
       }
     }
   }
