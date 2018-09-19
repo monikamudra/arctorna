@@ -1,5 +1,5 @@
 ---
-title: Így olvaszd le a tokát&nbsp;egyszerűen!
+title: Így olvaszd le a tokát egyszerűen
 image: /assets/images/posts/tokagyilkos-gyakorlat-napi-egy-percben-avagy-hogyan-tuntesd-el-a-tokat-social.jpg
 description: >-
   Néha a genetika, néha csak felszedett pár kiló miatt, de legtöbbször a kor

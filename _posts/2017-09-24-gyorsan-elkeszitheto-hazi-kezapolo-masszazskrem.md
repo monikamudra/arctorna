@@ -1,5 +1,5 @@
 ---
-title: Gyorsan elkészíthető házi kézápoló&nbsp;masszázskrém
+title: Gyorsan elkészíthető házi <span class="u-NoWrapWide">kézápoló masszázskrém</span>
 image: /assets/images/posts/gyorsan-elkeszitheto-hazi-kezapolo-masszazskrem-social.jpg
 description: >-
   A kéz ápoltsága szintén nagyon fontos, hiszen a teljes szépség része. Ráadásul, mindig

@@ -42,11 +42,7 @@ h6 {
 }
 
 h1 {
-  @include heading-for-block("exlarge", $unit: "em");
-
-  @include break($to: 599px) {
-    @include heading-for-block("large", $unit: "em");
-  }
+  @include heading-for-block("large", $unit: "em");
 }
 
 h2 {

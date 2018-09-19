@@ -1,5 +1,5 @@
 ---
-title: Így csökkentsd a stresszt&nbsp;hatékonyan!
+title: Így csökkentsd a <span class="u-NoWrapWide">stresszt hatékonyan</span>
 image: /assets/images/posts/igy-csokkentsd-a-stresszt-hatekonyan-social.jpg
 description: >-
   A folyamatos stressz nemcsak a szépségnek árt, de hosszú távon az egészségre

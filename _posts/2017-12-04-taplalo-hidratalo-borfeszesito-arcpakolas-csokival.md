@@ -1,5 +1,5 @@
 ---
-title: Tápláló, hidratáló, bőrfeszesítő arcpakolás&nbsp;csokival
+title: Tápláló, hidratáló, bőrfeszesítő <span class="u-NoWrapWide">arcpakolás csokival</span>
 image: /assets/images/posts/taplalo-hidratalo-borfeszesito-arcpakolas-csokival-social.jpg
 description: >-
   A csokoládé finom, és talán nem is létezik olyan ember, aki valamilyen formájában

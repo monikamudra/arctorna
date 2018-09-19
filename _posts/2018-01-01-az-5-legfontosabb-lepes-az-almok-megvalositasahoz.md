@@ -1,5 +1,5 @@
 ---
-title: Az 5 legfontosabb lépés álmaid&nbsp;megvalósításához
+title: Az 5 legfontosabb lépés <span class="u-NoWrapWide">álmaid megvalósításához</span>
 image: /assets/images/posts/az-5-legfontosabb-lepes-az-almok-megvalositasahoz-social.jpg
 description: >-
   Minden sikeres embernek van egy mélyről jövő belső, titkos álma és egy erős hite, hogy az

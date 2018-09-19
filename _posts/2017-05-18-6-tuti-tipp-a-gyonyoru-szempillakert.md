@@ -1,5 +1,5 @@
 ---
-title: 6 tuti tipp a gyönyörű&nbsp;szempillákért
+title: 6 tuti tipp <span class='u-NoWrapWide'>a gyönyörű szempillákért</span>
 image: /assets/images/posts/6-tuti-tipp-a-gyonyoru-szempillakert-social.jpg
 description: >-
   Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem

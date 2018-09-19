@@ -1,5 +1,5 @@
 ---
-title: Arctisztítás olajjal - kíméletes és&nbsp;természetes
+title: "Arctisztítás olajjal: <span class='u-NoWrapWide'>kíméletes és természetes</span>"
 image: /assets/images/posts/arctisztitas-olajjal-kimeletes-es-termeszetes-social.jpg
 description: >-
   Azt, hogy a napi arctisztítás mennyire fontos, talán nem is kell hangsúlyozni. A

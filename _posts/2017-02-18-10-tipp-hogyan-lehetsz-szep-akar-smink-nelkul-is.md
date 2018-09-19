@@ -1,5 +1,5 @@
 ---
-title: 10 tuti tipp a smink nélküli&nbsp;szépséghez
+title: 10 tuti tipp a <span class='u-NoWrapWide'>smink nélküli szépséghez</span>
 image: /assets/images/posts/10-tipp-hogyan-lehetsz-szep-akar-smink-nelkul-is-social.jpg
 description: >-
   Egy alkalomra készített minőségi smink, csak akkor fog igazán

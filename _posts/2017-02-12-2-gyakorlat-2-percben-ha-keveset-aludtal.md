@@ -1,5 +1,5 @@
 ---
-title: 2 gyakorlat 2 percben, ha keveset&nbsp;aludtál
+title: 2 gyakorlat 2 percben, <span class="u-NoWrapWide">ha keveset aludtál</span>
 image: /assets/images/posts/2-gyakorlat-2-percben-ha-keveset-aludtal-social.jpg
 description: >-
   Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő

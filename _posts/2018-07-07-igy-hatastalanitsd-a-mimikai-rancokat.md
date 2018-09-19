@@ -1,5 +1,5 @@
 ---
-title: Így hatástalanítsd a mimikai&nbsp;ráncokat!
+title: Így hatástalanítsd a <span class="u-NoWrapWide">mimikai ráncokat!</span>
 image: /assets/images/posts/igy-hatastalanitsd-a-mimikai-rancokat-social.jpg
 description: >-
   Az arc izmai nemcsak feltölteni, kisimítani tudják az arcot, hanem a

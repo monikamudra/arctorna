@@ -1,5 +1,5 @@
 ---
-title: 3 szuper tipp a tökéletes&nbsp;szépségért
+title: 3 szuper tipp <span class='u-NoWrapWide'>a tökéletes szépségért</span>
 image: /assets/images/posts/3-szuper-tipp-a-tokeletes-szepsegert-social.jpg
 description: >-
   Arcunk állandóan szem előtt van, ezért igyekszünk azt mindig a legjobb formában

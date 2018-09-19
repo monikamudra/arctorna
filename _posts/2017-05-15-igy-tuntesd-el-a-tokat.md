@@ -1,5 +1,5 @@
 ---
-title: Így tüntesd el a&nbsp;tokát!
+title: Így tüntesd el a&nbsp;tokát
 image: /assets/images/posts/igy-tuntesd-el-a-tokat-social.jpg
 description: >-
   Egyik nagyon gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak

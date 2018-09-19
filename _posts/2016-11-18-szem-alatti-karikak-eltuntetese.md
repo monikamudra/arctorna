@@ -1,5 +1,5 @@
 ---
-title: Szem alatti karikák?&nbsp;Neeee!
+title: Szem alatti karikák? Neeee!
 image: /assets/images/posts/szem-alatti-karikak-eltuntetese-social.jpg
 description: >-
   Gondolom veled is előfordult már néhányszor, hogy nem kívánt karikák jelentek

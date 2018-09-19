@@ -1,5 +1,5 @@
 ---
-title: Hogyan ránctalanítsunk&nbsp;meditációval?
+title: Hogyan ránctalanítsunk meditációval
 image: /assets/images/posts/hogyan-ranctalanitsunk-meditacioval-social.jpg
 description: >-
   A meditáció a test és az elme tudatos ellazítása, figyelmünk belső énünkre

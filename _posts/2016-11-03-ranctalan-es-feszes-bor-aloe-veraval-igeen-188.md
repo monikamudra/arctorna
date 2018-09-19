@@ -1,5 +1,5 @@
 ---
-title: Ránctalan és feszes bőr aloe&nbsp;verával? Igeen!
+title: Ránctalan és feszes bőr aloe&nbsp;verával? Igeeen!
 image: /assets/images/posts/ranctalan-es-feszes-bor-aloe-veraval-igeen-188-social.jpg
 description: >-
   Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is

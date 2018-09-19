@@ -1,5 +1,5 @@
 ---
-title: Tökéletes ajakbalzsam – így&nbsp;készítsd&nbsp;el!
+title: Tökéletes ajakbalzsam – így&nbsp;készítsd&nbsp;el
 image: /assets/images/posts/tokeletes-ajakbalzsam-igy-keszitsd-el-social.jpg
 description: >-
   Már évek óta saját készítésű ajakápolót használok és büszkén mondhatom, hogy

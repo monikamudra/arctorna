@@ -1,5 +1,5 @@
 ---
-title: Ránctalan nyak? Így Feszesítsd a nyakad&nbsp;tornával!
+title: "Ránctalan nyak: <span class='u-NoWrapWide'>így feszesítsd a nyakad</span> tornával"
 image: /assets/images/posts/ranctalan-nyakat-igeeen-gy-feszesitsd-a-nyakad-tornaval-social.jpg
 description: >-
   A nyakbőrizom közvetlenül a bőr alatt lévő vékony izomlemez, melynek szerepe,

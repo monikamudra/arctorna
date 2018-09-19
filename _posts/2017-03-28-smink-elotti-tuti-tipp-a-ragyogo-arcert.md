@@ -1,5 +1,5 @@
 ---
-title: Smink előtti tuti tipp, a ragyogó&nbsp;arcért
+title: Smink előtti tuti tipp <span class='u-NoWrapWide'>a ragyogó arcért</span>
 image: /assets/images/posts/smink-elotti-tuti-tipp-a-ragyogo-arcert-social.jpg
 description: >-
   Gondolom veled is előfordult már, hogy valamilyen, számodra fontos eseményen

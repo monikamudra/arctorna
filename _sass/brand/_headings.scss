@@ -9,7 +9,7 @@
   // color: token("color-for", "heading");
 }
 
-@mixin heading-size($scale-label, $unit: "em") {
+@mixin heading-size($scale-label, $unit: "em", $cap-to: 599px, $capped-size: "tera") {
   @if is-scale-label-valid($scale-label) {
 
     @if ($unit == "rem") {
@@ -20,6 +20,22 @@
     }
     @else {
       font-size: font-size-px($scale-label);
+    }
+
+    // Make large text smaller on small screens
+    @if ($capped-size and (scale-label-position($capped-size) < scale-label-position($scale-label))) {
+      @include break($to: $cap-to) {
+
+        @if ($unit == "rem") {
+          font-size: font-size-rem($capped-size);
+        }
+        @else if ($unit == "em") {
+          font-size: (font-size-rem($capped-size) / 1rem) * 1em;
+        }
+        @else {
+          font-size: font-size-px($capped-size);
+        }
+      }
     }
   } @else {
     @error "Invalid $scale-label: #{$scale-label}";

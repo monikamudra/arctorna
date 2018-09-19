@@ -1,5 +1,5 @@
 ---
-title: Így készíts szuperhatékony öregedésgátló szérumot&nbsp;házilag
+title: Így készíts szuperhatékony öregedésgátló <span class="u-NoWrapWide">szérumot házilag</span>
 image: /assets/images/posts/igy-keszits-szuperhatekony-oregedesgatlo-szerumot-hazilag-social.jpg
 description: >-
   Egy jó szérum mindig nagyon hasznos a bőrnek, mivel koncentráltan

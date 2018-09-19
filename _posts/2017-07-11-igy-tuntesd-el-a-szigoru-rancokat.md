@@ -1,5 +1,5 @@
 ---
-title: Így tüntesd el a szigorú&nbsp;ráncokat!
+title: Így tüntesd el a <span class="u-NoWrapWide">szigorú ráncokat</span>
 image: /assets/images/posts/igy-tuntesd-el-a-szigoru-rancokat-social.jpg
 description: >-
   Szemöldökeinket gyakran összeráncoljuk amikor erősen fókuszálunk valamire vagy

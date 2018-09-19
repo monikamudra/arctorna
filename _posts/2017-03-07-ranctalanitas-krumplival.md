@@ -1,5 +1,5 @@
 ---
-title: Ránctalanítás&nbsp;krumplival
+title: <span class='u-NoWrapWide'>Ránctalanítás krumplival</span>
 image: /assets/images/posts/ranctalanitas-krumplival-social.jpg
 description: >-
   Az egyik legjobb dolog a természetben, hogy a benne megtalálható növényeket

@@ -1,5 +1,5 @@
 ---
-title: Hogyan kerüld el a lekonyuló&nbsp;szájzugokat
+title: Hogyan kerüld el a <span class="u-NoWrapWide">lekonyuló szájzugokat</span>
 image: /assets/images/posts/hogyan-keruld-el-a-lekonyulo-szajzugokat-social.jpg
 description: >-
   A lekonyuló szájzugok nem túl szexi látvány. A "lebiggyedés" lehet genetikai

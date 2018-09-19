@@ -1,5 +1,5 @@
 ---
-title: Fiatalító arcmasszázs, napi 4&nbsp;percben
+title: Fiatalító arcmasszázs, <span class="u-NoWrapWide">napi 4 percben</span>
 image: /assets/images/posts/fiatalito-arcmasszazs-napi-4-percben-social.jpg
 description: >-
   Az arcmasszázs egy remek kiegészítője az arc fiatalon tartásának, ezért érdemes

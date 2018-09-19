@@ -1,5 +1,5 @@
 ---
-title: A kontúros arc&nbsp;csodaszere
+title: A kontúros arc csodaszere
 image: /assets/images/posts/a-konturos-arc-csodaszere-social.jpg
 description: >-
   A mindennapos bőrápolás mellett nagyon fontos gondoskodnunk az arc izmairól is,

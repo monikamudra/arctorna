@@ -1,5 +1,5 @@
 ---
-title: Száműzd a ráncokat saját készítésű&nbsp;szérummal!
+title: Száműzd a ráncokat <span class='u-NoWrapWide'>saját készítésű szérummal</span>
 image: /assets/images/posts/szamuzd-a-rancokat-sajat-keszitesu-szerummal-social.jpg
 description: >-
   A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális

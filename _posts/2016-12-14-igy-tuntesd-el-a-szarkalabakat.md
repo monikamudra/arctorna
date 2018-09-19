@@ -1,5 +1,5 @@
 ---
-title: Igy tüntesd el a&nbsp;szarkalábakat!
+title: Igy tüntesd el a&nbsp;szarkalábakat
 image: /assets/images/posts/igy-tuntesd-el-a-szarkalabakat-social.jpg
 description: >-
   Egy bizonyos kor után maradandóan nyomot hagy arcunkon a sok-sok nevetés és

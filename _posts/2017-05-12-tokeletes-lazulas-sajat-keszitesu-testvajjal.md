@@ -1,5 +1,5 @@
 ---
-title: Tökéletes lazulás saját készítésű&nbsp;testvajjal
+title: Tökéletes lazulás <span class='u-NoWrapWide'>saját készítésű testvajjal</span>
 image: /assets/images/posts/tokeletes-lazulas-sajat-keszitesu-testvajjal-social.jpg
 description: >-
   Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem

@@ -1,5 +1,5 @@
 ---
-title: Így tüntesd el a szem alatti&nbsp;karikákat!
+title: Így tüntesd el a <span class="u-NoWrapWide">szem alatti&nbsp;karikákat</span>
 image: /assets/images/posts/tuntesd-el-a-szem-alatti-karikakat-draga-kezelesek-nelkul-social.jpg
 description: >-
   A szem alatti karikák kialakulásának megelőzésére vagy eltüntetésére a legjobb

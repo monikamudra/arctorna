@@ -1,5 +1,5 @@
 ---
-title: Készíts saját&nbsp;izzadásgátlót!
+title: Készíts <span class="u-NoWrapWide">saját izzadásgátlót</span>
 image: /assets/images/posts/keszits-sajat-izzadasgatlot-social.jpg
 description: >-
   Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan

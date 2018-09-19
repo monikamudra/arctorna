@@ -1,5 +1,5 @@
 ---
-title: Három tipp amivel hatékonyan tehetsz a mimikai ráncok&nbsp;ellen
+title: Három tipp amivel hatékonyan tehetsz a <span class="u-NoWrapWide">mimikai ráncok ellen</span>
 image: /assets/images/posts/hogyan-vedd-eszre-idoben-es-keruld-el-a-mimikai-rancok-kialakulasat-social.jpg
 description: >-
   Érzéseink gyakran fejeződnek ki az arcon, melyek minél intenzívebbek,

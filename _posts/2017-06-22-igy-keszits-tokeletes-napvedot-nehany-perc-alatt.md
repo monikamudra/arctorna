@@ -1,5 +1,5 @@
 ---
-title: Így készíts tökéletes napvédőt néhány perc&nbsp;alatt!
+title: Így készíts tökéletes napvédőt néhány perc&nbsp;alatt
 image: /assets/images/posts/igy-keszits-tokeletes-napvedot-nehany-perc-alatt-social.jpg
 description: >-
   Most, hogy visszavonhatatlanul elstartolt a szünidő, és még több időt töltünk a

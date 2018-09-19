@@ -1,5 +1,5 @@
 ---
-title: A legjobb arcmasszázs rutin napi pár&nbsp;percben
+title: A legjobb arcmasszázs rutin <span class="u-NoWrapWide">napi pár percben</span>
 image: /assets/images/posts/a-legjobb-arcmasszazs-rutin-napi-par-percben-social.jpg
 description: >-
   Míg az arc kontúrjának megtartására a rendszeres arctorna a legjobb természetes
