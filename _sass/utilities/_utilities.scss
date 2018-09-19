@@ -6,6 +6,10 @@
   display: block;
 }
 
+.u-Relative {
+  position: relative;
+}
+
 .u-FlexImage {
   width: 100% !important;
   max-width: 100% !important;
@@ -133,4 +137,9 @@
   clip-path: inset(1px);
   white-space: nowrap;
   position: absolute;
+}
+
+.u-SmallImage {
+  max-height: 150px;
+  max-width: 150px;
 }
