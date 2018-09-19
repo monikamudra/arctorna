@@ -15,7 +15,7 @@ permalink: none
 
 collections:
   posts:
-    permalink: /blog/:title:output_ext
+    permalink: /blog/:title
 
 # Social
 # ------
