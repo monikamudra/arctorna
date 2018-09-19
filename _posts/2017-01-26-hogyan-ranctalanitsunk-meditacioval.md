@@ -4,6 +4,7 @@ image: /assets/images/posts/hogyan-ranctalanitsunk-meditacioval-social.jpg
 description: >-
   A meditáció a test és az elme tudatos ellazítása, figyelmünk belső énünkre
   fordítása. Célja az elme lecsendesítése, és a belső béke megtalálása.
+canonical_url: https://arctornamonival.blog.hu/2017/01/26/hogyan_ranctalanitsunk_meditacioval
 ---
 
 A meditáció a test és az elme tudatos ellazítása, figyelmünk belső énünkre
@@ -33,5 +34,3 @@ néhány perc tudatos befelé figyelés is. Rendszeres gyakorlással
 lecsendesedhetünk, megnyugodhatunk, ami csökkenti a stresszt, növeli a szellemi
 kapacitást, jó hatással van az egészségre és csökkenti a ráncok kialakulását is.
 Gyakoroljatok! :)
-
-

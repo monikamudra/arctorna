@@ -5,6 +5,7 @@ description: >-
   Néha a genetika, néha csak felszedett pár kiló miatt, de legtöbbször a kor
   előrehaladtával jelenik meg a toka, ami valljuk be őszintén sokat ront az arc
   összképén.
+canonical_url: https://arctornamonival.blog.hu/2016/11/15/tokagyilkos_gyakorlat_napi_egy_percben_avagy_hogyan_tuntesd_el_a_tokat
 ---
 
 Néha a genetika, néha csak felszedett pár kiló miatt, de legtöbbször a kor
@@ -23,5 +24,3 @@ grimaszolj (például ne ráncold a szemöldököd) és figyelj arra, hogy csak 
 nyelvvel dolgozz, más testrészeket ne feszíts. Érdemes eleinte tükör előtt
 gyakorolni. Ha rendszeresen végzed ezt a gyakorlatot, hamarosan látszani fog az
 eredmény. Kalandra fel! :)
-
-

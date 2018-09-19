@@ -5,6 +5,7 @@ description: >-
   Nagyon sok, igazán olcsó és hatásos házi praktika van, amikkel jól
   kiegészíthetünk (vagy helyettesíthetünk) szépészeti kezeléseket, vagy egyszerűen
   beilleszthetjük azokat a bőrápolási rutinunkba.
+canonical_url: https://arctornamonival.blog.hu/2017/07/26/igy_tuntesd_el_a_pattanasokat_hazi_keszitesu_so_spray-vel
 ---
 
 Nagyon sok, igazán olcsó és hatásos házi praktika van, amikkel jól
@@ -49,5 +50,3 @@ meleg vízbe, majd legalább 20-30 percet lazulj benne :)
 
 Ha soha nem próbáltad még a sót a bőrödön, mindenképpen próbáld ki ezt az
 egyszerű és olcsó receptet!
-
-

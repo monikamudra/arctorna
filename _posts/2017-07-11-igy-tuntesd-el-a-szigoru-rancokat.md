@@ -5,6 +5,7 @@ description: >-
   Szemöldökeinket gyakran összeráncoljuk amikor erősen fókuszálunk valamire vagy
   rosszallóan, dühösen nézünk, ami nagyon hamar, az úgynevezett szigorú ráncok
   kialakulásához vezet.
+canonical_url: https://arctornamonival.blog.hu/2017/07/11/igy_tuntesd_el_a_szigoru_rancokat
 ---
 
 Szemöldökeinket gyakran összeráncoljuk amikor erősen fókuszálunk valamire vagy
@@ -32,5 +33,3 @@ gyengéden masszírozd át a területet, ahol dolgoztál.
 Fontos arra figyelni, hogy amikor a szemöldökökkel fölfelé tolsz, ne ráncold a
 homlokodat és ne grimaszolj. Csak a szemöldökökkel dolgozz! Eleinte jó, ha tükör
 előtt gyakorolsz, hogy lásd mi történik munka közben az arcodon.
-
-

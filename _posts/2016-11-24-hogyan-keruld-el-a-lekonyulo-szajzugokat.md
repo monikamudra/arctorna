@@ -4,6 +4,7 @@ image: /assets/images/posts/hogyan-keruld-el-a-lekonyulo-szajzugokat-social.jpg
 description: >-
   A lekonyuló szájzugok nem túl szexi látvány. A "lebiggyedés" lehet genetikai
   eredetű, de a fő ok a szájzugemelő izmok fokozatos gyengülése.
+canonical_url: https://arctornamonival.blog.hu/2016/11/24/hogyan_keruld_el_a_lekonyulo_szajzugokat
 ---
 
 A lekonyuló szájzugok nem túl szexi látvány. A “lebiggyedés” lehet genetikai
@@ -22,5 +23,3 @@ az izmok.
 Figyelj arra, hogy gyakorlat közben ne húzd szét a szád, ne grimaszolj és a
 szájzugokkal végig erősen préselve dolgozz. (Ha jól csinálod a gyakorlatot,
 akkor néhány nap múlva már látszani fog az eredmény :))
-
-

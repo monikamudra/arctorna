@@ -5,7 +5,7 @@ description: >-
   Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
   rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is
   kényeztetni magam.
-
+canonical_url: https://arctornamonival.blog.hu/2018/04/25/10_perces_pakolas_gyonyoru_bor
 ---
 
 Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
@@ -57,5 +57,3 @@ ne tárold, minden alkalommal friss pakolást készíts! Heti 1 alkalommal érde
 alkalmazni.
 
 Kellemes szépülést!
-
-

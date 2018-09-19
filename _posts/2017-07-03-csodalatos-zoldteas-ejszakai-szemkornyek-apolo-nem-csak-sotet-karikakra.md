@@ -5,6 +5,7 @@ description: >-
   Fontos a jól megválasztott szemkörnyék ápoló rendszeres használata, hiszen a szemkörnyéki
   bőr vékony és érzékeny, ezért hamar ráncosodhat. Éjszakára azonban magad is készíthetsz
   ápoló krémet, ami kiegészítésként remekül használható.
+canonical_url: https://arctornamonival.blog.hu/2017/07/03/csodalatos_zoldteas_ejszakai_szemkornyek_apolo_nem_csak_sotet_karikakra
 ---
 
 Többször foglalkoztam már a blogon a szem alatti sötét karikákkal
@@ -47,5 +48,3 @@ Neked hogy vált be? Oszd meg velünk a tapasztalataidat! :)
 
 [karika]: http://arctornamonival.blog.hu/2016/11/18/szem_alatti_karikak_eltuntetese
 [cvitamin]: http://arctornamonival.blog.hu/2017/05/22/szamuzd_a_rancokat_sajat_keszitesu_szerummal
-
-

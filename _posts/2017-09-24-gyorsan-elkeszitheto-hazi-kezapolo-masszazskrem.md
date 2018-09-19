@@ -4,6 +4,7 @@ image: /assets/images/posts/gyorsan-elkeszitheto-hazi-kezapolo-masszazskrem-soci
 description: >-
   A kéz ápoltsága szintén nagyon fontos, hiszen a teljes szépség része. Ráadásul, mindig
   szem előtt van és rendkívül kiszolgáltatott a környezeti hatásokkal szemben.
+canonical_url: https://arctornamonival.blog.hu/2017/09/24/gyorsan_elkeszitheto_hazi_kezapolo_masszazskrem
 ---
 
 Én kimondottan a száraz, vízhiányos és érzékeny bőrűek táborába tartozom, ami
@@ -44,5 +45,3 @@ egy kis olaj a kezeden azt kend szét a karokon.
 Tartsd a krémet száraz, hűvös helyen és 3 hónapon belül használd fel!
 
 Készítsd el, próbáld ki!
-
-

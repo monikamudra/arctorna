@@ -5,6 +5,7 @@ description: >-
   A mindennapos bőrápolás mellett nagyon fontos gondoskodnunk az arc izmairól is,
   hiszen az ott lévő izmok gyengülésével a bőr megereszkedik és arcunk elveszíti
   eredeti tónusát, feszességét.
+canonical_url: https://arctornamonival.blog.hu/2016/11/30/a_konturos_arc_csodaszere
 ---
 
 A mindennapos bőrápolás mellett nagyon fontos gondoskodnunk az arc izmairól is,
@@ -26,6 +27,3 @@ maradjon. Tartsd meg ezt a feszített állapotot 10 másodpercig, majd lassan
 engedd vissza. Ismételj kétszer, ezután lazításként lazán tátogj, majd könnyedén
 mozgasd az állkapcsodat jobbra és balra néhányszor. A gyakorlat közben és
 lazításkor vigyázz az állkapocsízületedre, nehogy túl feszítsd.
-
-
-

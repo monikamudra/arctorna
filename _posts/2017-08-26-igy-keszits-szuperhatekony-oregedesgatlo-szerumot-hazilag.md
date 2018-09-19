@@ -6,6 +6,7 @@ description: >-
   tartalmaz olyan antioxidáns összetevőket, amiket a hidratáló krémekben csak
   kis mennyiségben találunk meg. Ezek az antioxidánok rendkívül hasznosak a bőr
   számára, hogy minél hosszabb ideig képes legyen megőrizni fiatalságát.
+canonical_url: https://arctornamonival.blog.hu/2017/08/26/igy_keszits_szuperhatekony_oregedesgatlo_szerumot_hazilag
 ---
 
 Lassan itt a nyár vége, és ilyenkor a több hónapos erős napsugárzás bizony
@@ -100,6 +101,3 @@ alkalmazható, de kerülni kell a sebes, sérült bőrfelületet.
 
 Egy hét használat után a bőröm tömörebb és hidratáltabb lett, nem feszült, nem
 húzódott, tiszta, világos és egységes lett a felszíne.
-
-
-

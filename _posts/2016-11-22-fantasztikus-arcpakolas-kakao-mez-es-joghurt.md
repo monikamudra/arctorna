@@ -4,6 +4,7 @@ image: /assets/images/posts/fantasztikus-arcpakolas-kakao-mez-es-joghurt-social.
 description: >-
   Három, a konyhában szinte mindig fellelhető összetevő, és kész is egy remek
   arcpakolás.
+canonical_url: https://arctornamonival.blog.hu/2016/11/22/fantasztikus_arcpakolas_kakao_mez_es_jog
 ---
 
 Három, a konyhában szinte mindig fellelhető összetevő, és kész is egy remek

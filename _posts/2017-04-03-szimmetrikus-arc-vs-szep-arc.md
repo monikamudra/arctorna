@@ -4,6 +4,7 @@ image: /assets/images/posts/szimmetrikus-arc-vs-szep-arc-social.jpg
 description: >-
   Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
   komolyan törődni vele.
+canonical_url: https://arctornamonival.blog.hu/2017/04/03/szimmetrikus_arc_vs_szep_arc
 ---
 
 Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
@@ -33,5 +34,3 @@ korrigálni, ami pozitívan befolyásolja az arc összképét.
 Készíts magadról egy portrét (de ne grimaszolj és ne mosolyogj), majd vagy
 valamilyen számítógépes programban vágd ketté a képet és tükrözd mindkét felét
 vagy duplán kinyomtatva és ketté vágva tedd egymás mellé a két azonos oldalt!
-
-

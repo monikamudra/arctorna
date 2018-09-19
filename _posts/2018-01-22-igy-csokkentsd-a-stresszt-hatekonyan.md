@@ -5,6 +5,7 @@ description: >-
   A folyamatos stressz nemcsak a szépségnek árt, de hosszú távon az egészségre
   is romboló hatással lehet. Szerencsére vannak jól bevált technikák, melyek segítenek
   a rossz stressz kezelésében.
+canonical_url: https://arctornamonival.blog.hu/2018/01/22/igy_csokkentsd_a_stresszt_hatekonyan
 ---
 
 A mindennapi életben a kéretlen impulzusok, a hatalmas külső-belső elvárások, a
@@ -82,5 +83,3 @@ Naponta egy-két észrevétlen jó cselekedet segíthet abban, hogy még érték
 Végül határozd el, hogy vidám és boldog leszel bármilyen helyzetben, mert a
 boldogság, vagy a nyomorúság nagyobbik része nem a helyzetünkön és nem a
 körülményeinken múlik!
-
-

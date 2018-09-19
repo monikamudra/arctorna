@@ -5,6 +5,7 @@ description: >-
   Az egyik legjobb dolog a természetben, hogy a benne megtalálható növényeket
   nemcsak megehetjük, de a bennük lévő értékes vitaminokat és ásványi anyagokat
   külsőleg is hasznosíthatjuk.
+canonical_url: https://arctornamonival.blog.hu/2017/03/07/ranctalanitas_krumplival
 ---
 
 Hogy a krumpli finom vagy nem, hizlal vagy sem ezt döntse el mindenki maga. Egy
@@ -33,5 +34,3 @@ krumpli karikát és lazulj velük 15-20 percet.
 Ha kevés időd van akkor a krumpli kifacsart levével töröld át a teljes arcod és
 a dekoltázst, hagyd megszáradni és 5-10 perc elteltével öblítsd le. Kellemes
 szépülést! :)
-
-

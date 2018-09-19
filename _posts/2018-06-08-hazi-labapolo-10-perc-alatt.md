@@ -4,7 +4,7 @@ image: /assets/images/posts/hazi-labapolo-10-perc-alatt-social.jpg
 description: >-
   A kemény, száraz vagy fáradt lábak ápolására remek lábápolót készíthetünk
   otthon tartósítószer nélkül, teljesen természetes alapanyagokból.
-
+canonical_url: https://arctornamonival.blog.hu/2018/06/08/hazi_labapolo_10_perc_alatt
 ---
 
 Most, hogy a meleg miatt sokat mászkálok mezítláb, iszonyú hamar kiszárad a
@@ -37,5 +37,3 @@ gőzről és keverd hozzá a maradék összetevőket. (Figyelj arra, hogy ne leg
 forró a gőzről levett olaj mix, amikor hozzá adod az illóolajokat.) Öntsd a kész
 masszát egy tárolóedénybe és tedd egy kis időre hűtőszekrénybe, amíg teljesen
 megszilárdul! Este lefekvéskor jól masszírozd be a lábakat vele!
-
-

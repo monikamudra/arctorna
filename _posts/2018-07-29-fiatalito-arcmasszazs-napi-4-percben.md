@@ -4,6 +4,7 @@ image: /assets/images/posts/fiatalito-arcmasszazs-napi-4-percben-social.jpg
 description: >-
   Az arcmasszázs egy remek kiegészítője az arc fiatalon tartásának, ezért érdemes
   beépíteni egy párperces alap masszázst a napi rutinunkba.
+canonical_url: https://arctornamonival.blog.hu/2018/07/29/fiatalito_arcmasszazs_napi_4_percben
 ---
 
 Az arcmasszázs egy remek kiegészítője az arc fiatalon tartásának, ezért érdemes
@@ -63,5 +64,3 @@ teljes homlokon! Ismételd néhányszor oda és vissza!
 ## 6. lépés
 
 Végezetül nagy köröket rajzolva, puhán masszírozd át a teljes arcod és a nyakad! :)
-
-

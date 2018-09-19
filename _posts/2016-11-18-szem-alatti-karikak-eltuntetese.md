@@ -5,6 +5,7 @@ description: >-
   Gondolom veled is előfordult már néhányszor, hogy nem kívánt karikák jelentek
   meg a szemed alatt, amikor keveset aludtál egy stresszesebb, vagy egy dolgosabb
   időszak után.
+canonical_url: https://arctornamonival.blog.hu/2016/11/18/szem_alatti_karikak_eltuntetese
 ---
 
 Gondolom veled is előfordult már néhányszor, hogy nem kívánt karikák jelentek
@@ -30,5 +31,3 @@ A szem környéki ráncok és a karikák megelőzésére a rendszeres torna mell
 fontos odafigyelni a napi 7-8 óra minőségi alvásra, az egészséges életmódra, a
 napi legalább 2 liter folyadékbevitelre és a szemkörnyék helyes ápolására. Csak
 ezek együttesével érhető el jó eredmény.
-
-

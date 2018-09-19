@@ -4,6 +4,7 @@ image: /assets/images/posts/szamuzd-a-rancokat-sajat-keszitesu-szerummal-social.
 description: >-
   A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
   mennyiségben főleg a csúcsminőségű szépségápolókban van jelen.
+canonical_url: https://arctornamonival.blog.hu/2017/05/22/szamuzd_a_rancokat_sajat_keszitesu_szerummal
 ---
 
 A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
@@ -50,7 +51,3 @@ használod, tovább fokozhatod annak védő hatását. Arra is fontos figyelni, 
 tiszta C-vitamin por hőre, fényre, levegőre könnyen bomlik, ezért odafigyelést
 igényel a tárolása. Ne vegyél átlátszó csomagolásban lévő terméket és felbontás
 után érdemes azt mindig hűtőben tárolni!
-
-
-
-

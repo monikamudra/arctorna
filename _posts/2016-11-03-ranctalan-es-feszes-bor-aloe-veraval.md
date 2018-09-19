@@ -4,6 +4,7 @@ image: /assets/images/posts/ranctalan-es-feszes-bor-aloe-veraval-social.jpg
 description: >-
   Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is
   van a polcodon és rendszeresen használod is azt.
+canonical_url: 'https://arctornamonival.blog.hu/2016/11/03/ranctalan_es_feszes_bor_aloe_veraval_igeen_188'
 ---
 
 Ha ismered az aloe vera jótékony hatásait, akkor minden bizonnyal ott is van a

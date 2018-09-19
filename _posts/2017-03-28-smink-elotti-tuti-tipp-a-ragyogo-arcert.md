@@ -5,6 +5,7 @@ description: >-
   Gondolom veled is előfordult már, hogy valamilyen, számodra fontos eseményen
   szerettél volna nagyon jól kinézni, de a sok teendő rendesen lestrapált és nem
   volt időd alaposan rápihenni az alkalomra.
+canonical_url: https://arctornamonival.blog.hu/2017/03/28/smink_elotti_tuti_tipp_a_ragyogo_arcert
 ---
 
 Gondolom veled is előfordult már, hogy valamilyen, számodra fontos eseményen
@@ -102,5 +103,3 @@ Tegyél be egy kellemes zenét, feküdj le kényelmesen és relaxálj, miközben
 arcodon dolgozik a pakolás. Ha letelt az idő mosd le a bőröd langyos vízzel.
 
 A legvégén jöhet a szokásos napi hidratálás és a smink.
-
-

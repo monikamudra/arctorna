@@ -5,6 +5,7 @@ description: >-
   Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem
   fontos szerepe van a "kiegészítőknek" is, mint például a hajnak, szemöldököknek,
   szempilláknak, vagy a sminknek.
+canonical_url: https://arctornamonival.blog.hu/2017/05/18/6_tuti_tipp_a_gyonyoru_szempillakert
 ---
 
 Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem
@@ -49,5 +50,3 @@ smink eltávolítása nélkül a bőr nem tud regenerálódni az éjszaka folyam
 
 Nem csak a bőrnek vagy a hajnak fontos a minőségi táplálás, a pillák ugyanúgy
 belülről építkeznek. Figyelj a napi 2-2,5 liter folyadék bevitelére is!
-
-

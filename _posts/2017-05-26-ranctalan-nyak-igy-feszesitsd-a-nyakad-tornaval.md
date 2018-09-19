@@ -5,6 +5,7 @@ description: >-
   A nyakbőrizom közvetlenül a bőr alatt lévő vékony izomlemez, melynek szerepe,
   hogy feszesen tartsa a nyak bőrét. Az izmok tónusának csökkénése a nyak bőrének
   ráncosodásához vezet.
+canonical_url: https://arctornamonival.blog.hu/2017/05/26/ranctalan_nyakat_igeeen_gy_feszesitsd_a_nyakad_tornaval
 ---
 
 A nyakbőrizom közvetlenül a bőr alatt lévő vékony izomlemez, melynek szerepe,

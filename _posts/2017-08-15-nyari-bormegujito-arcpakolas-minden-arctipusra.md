@@ -4,6 +4,7 @@ image: /assets/images/posts/nyari-bormegujito-arcpakolas-minden-arctipusra-socia
 description: >-
   Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több
   odafigyelést és gondoskodást igényel, mint az év más időszakában.
+canonical_url: https://arctornamonival.blog.hu/2017/08/15/nyari_bormegujito_arcpakolas_minden_arctipusra
 ---
 
 Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több
@@ -48,5 +49,3 @@ gyulladáscsökkentő, nyugtató hatású, szabályozza a faggyútermelődést, 
 zsíros, pattanásos bőrre is ajánlott.
 
 Csodát tesz a bőrrel, próbáld ki!
-
-

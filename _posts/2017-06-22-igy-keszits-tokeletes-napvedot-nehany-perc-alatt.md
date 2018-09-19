@@ -6,6 +6,7 @@ description: >-
   szabadban mint eddig, tényleg fontos figyelmet fordítani arra, hogy találjunk
   valamilyen megoldást magunk és családunk védelmére a bőrt károsító erős
   napsugarak ellen.
+canonical_url: https://arctornamonival.blog.hu/2017/06/22/igy_keszits_tokeletes_napvedot_nehany_perc_alatt
 ---
 
 Most, hogy visszavonhatatlanul elstartolt a szünidő, és még több időt töltünk a
@@ -44,5 +45,3 @@ helyen vagy a hűtőszekrényben tárold.
 
 Ez a házilag készített fényvédő nem vízálló, tehát fokozott izzadás vagy úszás
 után újra kell használni.
-
-

@@ -5,6 +5,7 @@ description: >-
   A szem alatti karikák kialakulásának megelőzésére vagy eltüntetésére a legjobb
   módszer a rendszeres testmozgás mellett, a napi legalább 7 óra pihentető alvás
   és a megfelelő mennyiségű és minőségű folyadékbevitel.
+canonical_url: https://arctornamonival.blog.hu/2017/01/15/tuntesd_el_a_szem_alatti_karikakat_draga_kezelesek_nelkul
 ---
 
 A szem alatti karikák kialakulásának megelőzésére vagy eltüntetésére a legjobb
@@ -24,5 +25,3 @@ nyújtsd a bőrt az ujjaiddal. Fontos, hogy a feladat végzése közben ne
 grimaszolj. Koncentrálj az izmokra, csak azok dolgozzanak. Ismételd meg a
 gyakorlatot 3-szor. A végén lazításként dörzsöld össze a két tenyered jó erősen,
 majd tedd őket puhán a szemekre.
-
-

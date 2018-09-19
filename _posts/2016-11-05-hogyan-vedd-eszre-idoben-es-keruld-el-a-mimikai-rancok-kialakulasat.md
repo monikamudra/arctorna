@@ -6,6 +6,7 @@ description: >-
   annál erőteljesebben kapcsolódik hozzá mimika. Ha ezek a grimaszok hosszú
   időn át túl sokszor ismétlődnek, akkor egy idő után elkezdenek nyomot hagyni
   az arcon, mégpedig ráncok formájában.
+canonical_url: https://arctornamonival.blog.hu/2016/11/05/hogyan_vedd_eszre_idoben_es_keruld_el_a_mimikai_rancok_kialakulasat
 ---
 
 Érzéseink gyakran fejeződnek ki az arcon, melyek minél intenzívebbek,
@@ -28,5 +29,3 @@ Az izmok folyamatos edzésben tartásával megelőzhető a méyl ráncok kialaku
 de ha vannak már mimikai ráncaid, akkor se keseredj el, mert
 a rendszeres arctorna szuper megoldás erre a problémára. Minél korábban kezded
 az edzést, annál kevesebb munkával éred el a kívánt eredményt.
-
-

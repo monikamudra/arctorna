@@ -4,7 +4,7 @@ image: /assets/images/posts/igy-hatastalanitsd-a-mimikai-rancokat-social.jpg
 description: >-
   Az arc izmai nemcsak feltölteni, kisimítani tudják az arcot, hanem a
   rendszeres mimikához használt izmok ráncosíthatják is a bőrt.
-
+canonical_url: https://arctornamonival.blog.hu/2018/07/07/igy_hatastalanitsd_a_mimikai_rancokat
 ---
 
 Az arc izmai nemcsak feltölteni, kisimítani tudják az arcot, hanem a
@@ -37,5 +37,3 @@ hegye összeérjen. Közepes erősséggel nyomd rá az ujjak begyét a csontra �
 vissza a kiindulópontra. Ismételd 30 másodpercig.
 
 Még jobb, ha egy kevés krémet, vagy olajat is használsz a masszázshoz.
-
-

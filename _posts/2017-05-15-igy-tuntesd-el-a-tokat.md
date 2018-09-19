@@ -4,6 +4,7 @@ image: /assets/images/posts/igy-tuntesd-el-a-tokat-social.jpg
 description: >-
   Egyik nagyon gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak
   az idősebb generáció problémája.
+canonical_url: https://arctornamonival.blog.hu/2017/05/15/igy_tuntesd_el_a_tokat
 ---
 
 Egyik gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak az
@@ -28,4 +29,3 @@ arcod sehol és a vállak se feszüljenek. Fókuszálj a nyakra és a tokára, p
 minél pontosabban végezni a gyakorlatot. Csak a helyesen végzett gyakorlatok
 vezetnek eredményhez! Jó gyakorlást! :)
      
-

@@ -5,6 +5,7 @@ description: >-
   Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan
   ártalmas anyagokkal találkozhatunk, amelyek hosszútávon  akár számos komoly betegség
   kialakulásához is vezethetnek.
+canonical_url: https://arctornamonival.blog.hu/2016/11/08/keszits_sajat_izzadasgatlot
 ---
 
 Sajnos még mindig, a legtöbb forgalomban lévő kozmetikai termékben olyan
@@ -32,5 +33,3 @@ levendulaolajat. Ezután add hozzá a tápiókalisztet és a szódabikarbónát.
 a masszát simára és tedd bele egy tégelybe. Viszonylag gyorsan kell dolgoznod,
 mert, ha a kókusz és a sheavaj megszilárdul akkor nehezebb velük dolgozni. A
 levendulaolaj helyett bármilyen kedvelt illatot használhatsz. Nekem bevált :)
-
-

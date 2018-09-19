@@ -5,6 +5,7 @@ description: >-
   Egy bizonyos kor után maradandóan nyomot hagy arcunkon a sok-sok nevetés és
   mosolygás, amit a szem sarkában megjelenő szarkalábak (nevető ráncok) jól megis
   mutatnak.
+canonical_url: https://arctornamonival.blog.hu/2016/12/14/igy_tuntesd_el_a_szarkalabakat
 ---
 
 Egy bizonyos kor után maradandóan nyomot hagy arcunkon a sok-sok nevetés és
@@ -33,5 +34,3 @@ a szemeket.
 
 Ezt a gyakorlatot csinálhatod bárhol és bármikor, de legjobb ha reggel és este
 végzed arctisztítás és hidratálás után.
-
-

@@ -6,7 +6,7 @@ description: >-
   az megvalósítható. Ők azok, akik apró lépésekben haladnak előre, és lépésről-lépésre.
   építik álmaik apró darabkáit, úgy mint egy puzzle. Íme az öt legfontosabb lépés, hogy
   elindulj álmaid megvalósításában.
-
+canonical_url: https://arctornamonival.blog.hu/2018/01/01/az_5_legfontosabb_lepes_az_almok_megvalositasahoz
 ---
 
 ## 1. Hidd el, hogy az lehetséges
@@ -45,5 +45,3 @@ valamit szenvedélyes és legmélyebb szándékaid szerint teszel, biztosan seg�
 majd közelebb kerülni álmaidhoz!
 
 Merj nagyot álmodni és hidd el, hogy meg tudod csinálni és cselekedj!
-
-

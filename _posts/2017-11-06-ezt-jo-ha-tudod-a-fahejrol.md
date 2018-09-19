@@ -5,6 +5,7 @@ description: >-
   A fahéj szinte mindenki fűszeres fiókjában megtalálható, de talán nem mindenki
   ismeri ennek a népszerű fűszernövénynek az egészségügyi előnyeit és
   felhasználási lehetőségeit.
+canonical_url: https://arctornamonival.blog.hu/2017/11/06/ezt_jo_ha_tudod_a_fahejrol
 ---
 
 A fahéj szinte mindenki fűszeres fiókjában megtalálható, de talán nem mindenki
@@ -134,7 +135,3 @@ Mivel a fahéjolaj helyi vérbőséget okoz, kiválóan alkalmas fájó izmok, b
 
 Fáradt, stresszes időszakokban a fahéj kellemes illatával segít lecsendesedni,
 megnyugtat és ellazít. Csepegtess 2-3 csepp illójolajat párologtatóba!
-
-
-
-

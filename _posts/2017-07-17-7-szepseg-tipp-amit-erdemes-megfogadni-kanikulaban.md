@@ -4,6 +4,7 @@ image: /assets/images/posts/7-szepseg-tipp-amit-erdemes-megfogadni-kanikulaban-s
 description: >-
   Nyáron a nagy melegben fontos odafigyelni néhány alapvető dologra, hogy
   ilyenkor is szépek mardhassunk.
+canonical_url: https://arctornamonival.blog.hu/2017/07/17/7_szepseg_tipp_amire_erdemes_odafigyelni_kanikulaban
 ---
 
 

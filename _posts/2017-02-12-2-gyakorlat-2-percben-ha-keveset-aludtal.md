@@ -4,6 +4,7 @@ image: /assets/images/posts/2-gyakorlat-2-percben-ha-keveset-aludtal-social.jpg
 description: >-
   Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
   alvásra.
+canonical_url: https://arctornamonival.blog.hu/2017/02/12/2_gyakorlat_2_percben_ha_keveset_aludtal
 ---
 
 Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
@@ -35,5 +36,3 @@ miközben lassan 10-ig számolsz. Lazíts és ismételj!
 
 Figyelj arra, hogy a szemöldök közötti rész ne ráncolódjon és ne grimaszolj a
 gyakorlatok közben.
-
-

@@ -4,6 +4,7 @@ image: /assets/images/posts/igy-keszits-kollagen-maszkot-hazilag-social.jpg
 description: >-
   Még hónapokkal ezelőtt olvastam egy házilag készített arcmaszkról, amit már
   régóta szerettem volna kipróbálni, de valami miatt folyton elmaradt.
+canonical_url: https://arctornamonival.blog.hu/2017/06/14/igy_keszits_kollagen_maszkot_hazilag
 ---
 
 Még hónapokkal ezelőtt olvastam egy házilag készített arcmaszkról, amit már
@@ -64,5 +65,3 @@ Este még arctornáztam, hogy teljes legyen a “kezelés” ;)
 
 
 Próbáld ki!
-
-

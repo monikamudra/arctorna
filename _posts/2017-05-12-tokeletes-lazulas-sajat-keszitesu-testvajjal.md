@@ -4,6 +4,7 @@ image: /assets/images/posts/tokeletes-lazulas-sajat-keszitesu-testvajjal-social.
 description: >-
   Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem
   vágyom jobban, mint egy kellemes, lazító masszázsra és csendre.
+canonical_url: https://arctornamonival.blog.hu/2017/05/12/tokeletes_lazulas_sajat_keszitesu_testvajjal
 ---
 
 Nem tudom ki hogy van vele, de én egy hosszú és fárasztó nap után semmire sem
@@ -39,6 +40,3 @@ Mivel ez a masszázs vaj nem tartalmaz tartósítószereket, ezért a legrövide
 használható probléma nélkül, bár az illóolaj illata kissé elhalványul majd, ha
 sokáig tárolod. Én mindig kis mennyiséget készítek egyszerre, majd szükség esetén
 újra készítem.
-
-
-

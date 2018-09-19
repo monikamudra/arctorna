@@ -5,6 +5,7 @@ description: >-
   A csokoládé finom, és talán nem is létezik olyan ember, aki valamilyen formájában
   ne szeretné azt. De a csoki nemcsak a hangulatot dobhatja fel, hanem bőrápoló
   összetevőként is remekül funkcionál.
+canonical_url: https://arctornamonival.blog.hu/2017/12/04/taplalo_hidratalo_borfeszesito_arcpakolas_csokival
 ---
 
 A csokoládé finom, és talán nem is létezik olyan ember, aki valamilyen formájában
@@ -56,7 +57,3 @@ közvetlenül termelőtől.
 2.  kend fel a masszát a megtisztított arcra és a nyakra
 3.  10-20 perc elteltével mosd le langyos vízzel
 4.  és élvezd az eredményt :)
-
-
-
-

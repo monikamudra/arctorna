@@ -4,6 +4,7 @@ image: /assets/images/posts/ajakfeltoltes-hazilag-social.jpg
 description: >-
   Mindenki szeretne fiatalosan telt ajkakat, ami megfelelő arctorna gyakorlatokkal
   és rendszeres gyakorlással természetesen is elérhető.
+canonical_url: https://arctornamonival.blog.hu/2016/12/05/ajakfeltoltes_hazilag
 ---
 
 Ez az egyszerű gyakorlat csodásan izmosítja az ajkakat (főleg a felső ajakra
@@ -25,5 +26,3 @@ hogy más területek ne ráncolódjanak az arcodon gyakorlat közben.
 
 A gyakorlatot nehezítheted, ha az ajkak egyre erösödő feszítése közben a
 szájzugokat felfelé kunkorítod.
-
-
