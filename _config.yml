@@ -27,7 +27,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/supergroup-square.jpg
+      image: /assets/images/supergroup-social.jpg
       author: "Mudra Mónika"
   - scope:
       path: "_posts"
