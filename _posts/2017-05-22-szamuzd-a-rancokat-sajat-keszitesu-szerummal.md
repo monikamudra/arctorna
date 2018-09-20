@@ -2,29 +2,21 @@
 title: Száműzd a ráncokat saját készítésű szérummal!
 main_image: szamuzd-a-rancokat-sajat-keszitesu-szerummal.jpg
 summary: >-
-  A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
-  mennyiségben főleg a csúcsminőségű szépségápolókban van jelen. 
+  A biológiai öregedés, az egészségtelen életmód és a túl sok szabadgyök 
+  hatására csökken a szervezetben az egészséges sejtek száma, ami az arcon 
+  korai ráncosodáshoz vezet. Így ápolod a bőrőd antioxidánsokkal!
 ---
 
 A C-vitamin szérum egy természetes bőrápoló összetevő, amely ideális
-mennyiségben főleg a csúcsminőségű szépségápolókban van jelen. Kutatások
+mennyiségben csak a minőségi és drága szépségápolókban van jelen. Kutatások
 bizonyítják, hogy a C-vitamin segíti a kollagéntermelést, erőteljes antioxidáns
 hatása van, ezért kiváló öregedésgátló, ránctalanító és bőrfeszesítő. Védi a
 bőrt a UV-sugárzás káros hatásaitól, halványítja a pigmentfoltokat és segíti a
 bőr regenerációját is. Száraz vagy öregedő bőr esetén ez a szérum egy szuper jó
 megoldás!
 
-Szerencsére van egy természetes, házilag is elkészíthető és olcsó szérum
-alternatíva, amely az eddigi tapasztalatok alapján éppúgy működik, mint a drága
-változatok. (Kipróbáltam, tényleg fantasztikusan működik!) Azonban van néhány
-dolog amire fokozottan figyelni kell, ha saját szérumot készítesz:
-
-1.  Óvatosan mérj, ne adj hozzá extra C-vitamint, mert az savas és csipni fogja
-    a bőrt, ha a koncentráció túl magas!
-2.  Ha extra érzékeny bőröd van, több vizzel hígítsd!
-3.  Erősen ráncos vagy nagyon száraz bőrre lehet hozzá adni extra C-vitamint,
-    de csak fokozatosan emeld az adagot és próbáld ki a kar belső részén,
-    mielőtt az arcodra teszed!
+Szerencsére van egy természetes és házilag is elkészíthető alternatíva, amely az eddigi tapasztalatok alapján éppúgy működik, mint jónéhány drága változat. Én kipróbáltam, 
+és tényleg jó! 
 
 ## Szérum alkatrészek
 
@@ -43,6 +35,15 @@ hétig tárold a hűtőszekrényben! Ha glicerint is használsz, akkor először
 el a C-vitamin port a kisebb mennyiségű vízben, majd keverd hozzá a glicerint és
 az E-vitamint. Ez a verzió kb. egy-két hétig tárolható, szintén a hűtőben.
 Használat előtt mindig rázd össze!
+
+Van néhány dolog amire fokozottan figyelni kell, ha saját szérumot készítesz:
+
+1.  Óvatosan mérj, ne adj hozzá extra C-vitamint, mert az savas és csipni fogja
+    a bőrt, ha a koncentráció túl magas!
+2.  Ha extra érzékeny bőröd van, több vizzel hígítsd!
+3.  Erősen ráncos vagy nagyon száraz bőrre lehet hozzá adni extra C-vitamint,
+    de csak fokozatosan emeld az adagot és próbáld ki a kar belső részén,
+    mielőtt az arcodra teszed!
 
 A tiszta C-vitamin por és a víz tonerként is működik. Fontos, hogy mindig a
 tökéletesen tiszta arcbőrre vidd fel a szérumot! Ha nyáron fényvédő alá

@@ -2,9 +2,9 @@
 title: Csodálatos zöldteás éjszakai szemkörnyék ápoló, nem csak sötét karikákra
 main_image: csodalatos-zoldteas-ejszakai-szemkornyek-apolo-nem-csak-sotet-karikakra.jpg
 summary: >-
-  Fontos a jól megválasztott szemkörnyék ápoló rendszeres használata, hiszen a szemkörnyéki
-  bőr vékony és érzékeny, ezért hamar ráncosodhat. Éjszakára azonban magad is készíthetsz 
-  ápoló krémet, ami kiegészítésként remekül használható.
+  Fontos egy jó szemkörnyék ápolót rendszeresen használni, hiszen a szemkörnyéki
+  bőr rendkívül vékony és érzékeny, ezért hamar ráncosodhat. Éjszakára azonban magad
+  is készíthetsz szemkörnyék ápolót, ami nagyszerűen kiegészíti a nappali krémet.
 ---
 
 Többször foglalkoztam már a blogon a szem alatti sötét karikákkal
@@ -16,9 +16,9 @@ rejtőzködni? Sokféle szemkörnyék ápoló krém is kapható már, ami kimond
 karikás szemekre fókuszál, viszont a legtöbb termék olyan alacsony mennyiségben
 tartalmazza az értékes hatóanyagokat, hogy tulajdonképpen szinte semmit sem
 teszünk azért, amiért megvettük az árut. De miért is keresgélnénk tovább, amikor
-magunk is elkészíthejük, mégpedig egyszerűen, olcsóbban és garantáltan
-méregmentesen! Íme egy szuper éjszakai szemkörnyék ápoló receptje, ami ápol,
-ránctalanít, feszesít és halványítja a sötét karikákat.
+magunk is elkészíthejük, mégpedig egyszerűen, olcsóbban és méregmentesen! Íme egy
+szuper éjszakai szemkörnyék ápoló receptje, ami ápol, ránctalanít, feszesít és 
+halványítja a sötét karikákat is.
 
 ## Összetevők
 

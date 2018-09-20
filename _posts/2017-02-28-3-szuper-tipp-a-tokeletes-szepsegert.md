@@ -2,11 +2,8 @@
 title: 3 szuper tipp a tökéletes szépségért
 main_image: 3-szuper-tipp-a-tokeletes-szepsegert.jpg
 summary: >-
-  Arcunk állandóan szem előtt van, ezért igyekszünk azt mindig a legjobb formában
-  tartani. Számtalan szépség tanácsról, arcfiatalító kezelésről vagy plasztikai
-  beavatkozásról hallottunk már életünk során, de vajon mennyit tudunk arról, hogy
-  az arc különböző rétegein, együttesen milyen változások okoznak problémát a kor
-  előrehaladtával. 
+  Három hihetetlenül fontos tény, melyek együttesen meghatározzák és befolyásolják
+  az arc fiatalságát, mégis tudatosan keveset hallani róluk.
 ---
 
 Arcunk állandóan szem előtt van, ezért igyekszünk azt mindig a legjobb formában
@@ -21,7 +18,6 @@ figyelembe venni annak érdekében, hogy a legjobb eredményt kapd. Nézzük a h
 legfontosabbat!
 
 ## Csontok
-
 Az évek múlásával nemcsak az izmok, de a csontok is veszítenek térfogatukból. A
 csontvesztés következtében az arcon és a testen különböző változások
 (deformációk) jelennek meg. Így például az arcon a szemgödör fokozatosan
@@ -32,13 +28,11 @@ elég, ha csupán a bőr szépítésére, feszesítésre figyelünk, az arc fiat
 tartásához ennél több kell.
 
 ### Mit tehetünk a csonttérfogat fokozatos csökkenésének lassításáért?
-
 Megállítani sajnos nem lehet, de vitaminokban és ásványi anyagokban (főleg
 kálciumban) gazdag étrenddel és rendszeres testmozgással sokat tehetünk
 csontjainkért.
 
 ## Izmok
-
 Ahogy öregszünk izmaink fokozatosan veszítenek tömegükből, aminek következtében
 nemcsak egyre gyengébbek leszünk, hanem egy idő után bőrünk is nagy lesz ránk,
 ami ráncosodáshoz vezet. Kutatások szerint 20 és 90 éves kor között izmaink
@@ -48,13 +42,11 @@ Az arc izmaival ugyanez történik és mivel az izmok tömege ott sokkal kisebb,
 hamarabb érzékelhető a változás.
 
 ### Mit tehetünk az izmok fitten tartásáért vagy újra erősítéséért?
-
 Rendszeres testedzéssel és arctornával elkerülhető az izmok leépülése. Az izmok
 (arcizmok) tudatos fejlesztése nemcsak a kinézetre hanem az egészségre (és a
 csontokra!) is pozitív hatással van.
 
 ## Bőr
-
 Ahogy idősödünk a bőrben zajló élettani folyamatok lelassulnak és a bőr
 struktúrája fokozatosan elkezd átalakulni. Ennek leginkább észrevehető jelei,
 hogy bőrünk veszít feszességéből, rugalmasságából, egyre szárazabbá válik, majd
@@ -65,7 +57,6 @@ szokások, napozás, környezetszennyezés, stressz, kevés folyadékbevitel vag
 alváshiány.
 
 ### Mit tehetünk, hogy bőrünk sokáig egészséges, feszes és ránctalan maradjon?
-
 A rossz szokások fokozatos elhagyásával, egészséges táplálkozással, megfelelő
 mennyiségű napi folyadékbevitellel, rendszeres mozgással, valamint helyes
 bőrápolással sokat tehetünk a bőr szépségéért.

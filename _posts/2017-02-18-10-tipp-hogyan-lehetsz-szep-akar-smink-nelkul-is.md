@@ -2,16 +2,16 @@
 title: 10 tuti tipp a smink nélküli szépséghez
 main_image: 10-tipp-hogyan-lehetsz-szep-akar-smink-nelkul-is.jpg
 summary: >-
-  Egy alkalomra készített minőségi smink, csak akkor fog igazán 
-  szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően 
-  hidratált, ápolt és egészséges. 
+  Ahhoz, hogy smink nélkül is jól mutassunk nincs szükség másra, mint 
+  néhány dolgot szokásunkká tenni és ennyi :)
+  
 ---
 
-Egy alkalomra készített minőségi smink, csak akkor fog igazán 
-szépen mutatni egy arcon, ha az arc izmai feszesek, az arcbőr megfelelően 
-hidratált, ápolt és egészséges. Egy tudatosan ápolt szép bőrt pedig nem is 
-szükséges sminkkel díszíteni, hiszen önmagában gyönyörű. Itt van néhány nagyszerű tipp, 
-ami tökéletes alap, a smink nélküli szépséghez.
+Egy egészséges feszes arc és a gondosan ápolt bőr – bármilyen életkorban is 
+vagyunk –, nem igényel semmilyen korrekciót vagy díszítést, mert az természetesen, 
+önmagában is gyönyörű. Persze ez nem zár ki egy-egy különleges alkalomra elkészített
+könnyű, minőségi sminket, de ahhoz, hogy az igazán jól mutasson az arcon, szintén 
+fontos szempont az arc és az arc bőrének állapota. Ezekre figyelj és nem lesz többé szükséged sminkre!
  
 1.  A napi 2-3 liter tiszta víz fogyasztása (nem szénsavas) elengedhetetlen a bőr
     és a szervezet megfelelő hidratáltságához - ez a szép bőr alapja.
@@ -45,4 +45,4 @@ ami tökéletes alap, a smink nélküli szépséghez.
 
 10. Arctornázz rendszeresen! A bőr szépsége önmagában nem elég. A feszes, formás
     arcért az izmok mérete, fittsége felelős. Ne várd meg míg az arcizmok meggyengülnek, 
-    megereszkednek, az arc elveszíti tónusát, és lógó petyhüdt, ráncossá válik!
+    megereszkednek, az arc elveszíti tónusát, és lógó petyhüdt, ráncossá válik a bőr!

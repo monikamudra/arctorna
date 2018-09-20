@@ -2,13 +2,14 @@
 title: Így hatástalanítsd a mimikai ráncokat!
 main_image: igy-hatastalanitsd-a-mimikai-rancokat.jpg
 summary: >-
-  Az arc izmai nemcsak feltölteni, kisimítani tudják az arcot, hanem a
-  rendszeres mimikához használt izmok ráncosíthatják is a bőrt.
+  A gyakran használt mimikák idővel sajnos nyomot hagynak az arcon, melyek ráncok
+  formájában válnak láthatóvá. Többféle módszer is segíthet a megelőzésben, de az 
+  arctorna mellett az egyik leghatékonyabb a rendszeres masszázs. 
 
 ---
 
 Az arc izmai nemcsak feltölteni, kisimítani tudják az arcot, hanem a
-rendszeres mimikához használt izmok ráncosíthatják is a bőrt. Főleg akkor
+rendszeres mimikához használt izmok ráncosíthatják is a bőrt. Ez főleg akkor
 következik be ez viszonylag korán, ha nem megfelelő a bőrápolási rutinunk. A
 mimikai ráncok leggyakrabban a homlokon, a két szemöldök közötti területen, a
 szem és az ajak környékén jelennek meg először, ugyanis ezek azok a részei az

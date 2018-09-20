@@ -15,11 +15,11 @@ eltüntetheted a már meglévő karikákat, vagy megelőzheted azok kialakulás�
 gyakorlatot végezheted bárhol, bármikor, naponta többször is.
 
 ## Gyakorlat
-
 Tedd a középső ujjaidat a belső, a mutató ujjakat pedig a külső szemzugokra.
-Tartsd az ujjaid a szemzugokon stabilan. Húzd össze a szemeidet jó erősen,
-tartsd összeszorítva 5 másodpercig, majd lassan lazítsd el őket. Ismételd ezt
-10-szer.
+Tartsd az ujjaid a szemzugokon stabilan. Húzd össze a szemeidet erősen, és
+tartsd összeszorítva 5 másodpercig, majd lassan lazítsd el őket. Ismételd meg
+10-szer. A torna végén dörzsöld össze a két tenyered úgy, hogy azok jól felmelegedjenek,
+majd helyezd a meleg kezedet 10-20másodpercre a szemekre.
 
 Az ujjak azért vannak a szemzugokon, hogy amikor összehúzod a szemedet
 megakadályozd a bőr összegyűrődését. Figyelj arra, hogy az ujjaiddal, jól takard

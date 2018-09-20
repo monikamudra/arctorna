@@ -11,7 +11,6 @@ fókuszál). Gyakorolj minden nap, alakítsd a tornát szokásoddá és varázso
 magadnak szexi ajkakat természetesen!
 
 ## Gyakorlat
-
 Tedd a mutató ujjaidat a szájsarkakhoz és tartsd ott őket határozottan.
 
 Ezután csavard fel a felső ajkad maga alá, amennyire csak tudod (ha nem megy,
@@ -22,7 +21,6 @@ után ismételd meg. Lazíts, fújd ki a levegőt a két ajak között. Figyelj 
 hogy más területek ne ráncolódjanak az arcodon gyakorlat közben.
 
 ## Tipp
-
 A gyakorlatot nehezítheted, ha az ajkak egyre erösödő feszítése közben a
 szájzugokat felfelé kunkorítod.
 

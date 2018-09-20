@@ -2,8 +2,8 @@
 title: Nyári bőrmegújító arcpakolás, minden bőrtípusra
 main_image: nyari-bormegujito-arcpakolas-minden-arctipusra.jpg
 summary: >-
-  Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több
-  odafigyelést és gondoskodást igényel, mint az év más időszakában.
+  Egy szuperjó tápláló és hidratáló arcpakolás 10 perc alatt képes 
+  csodát tenni a bőrrel, érdemes azokat használni.
 ---
 
 Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több

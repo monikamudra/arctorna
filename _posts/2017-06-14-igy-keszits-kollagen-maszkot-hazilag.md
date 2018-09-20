@@ -2,8 +2,8 @@
 title: Így készíts kollagén maszkot házilag!
 main_image: igy-keszits-kollagen-maszkot-hazilag.jpg
 summary: >-
-  Még hónapokkal ezelőtt olvastam egy házilag készített arcmaszkról, amit már
-  régóta szerettem volna kipróbálni, de valami miatt folyton elmaradt.
+  Ez tényleg egy fantasztikus arcpakolás, aminek a hatása felér egy 
+  profi kozmetikai kezeléssel, ráadásul fillérekből!
 ---
 
 Még hónapokkal ezelőtt olvastam egy házilag készített arcmaszkról, amit már

@@ -4,7 +4,7 @@ main_image: igy-csokkentsd-a-stresszt-hatekonyan.jpg
 summary: >-
   A folyamatos stressz nemcsak a szépségnek árt, de hosszú távon az egészségre
   is romboló hatással lehet. Szerencsére vannak jól bevált technikák, melyek segítenek 
-  a rossz stressz kezelésében.
+  a rossz stressz kezelésében. 
 ---
 
 A mindennapi életben a kéretlen impulzusok, a hatalmas külső-belső elvárások, a

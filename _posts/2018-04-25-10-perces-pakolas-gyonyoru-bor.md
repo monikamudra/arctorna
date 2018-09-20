@@ -2,9 +2,9 @@
 title: 10 perces pakolás / gyönyörű bőr
 main_image: 10-perces-pakolas-gyonyoru-bor.jpg
 summary: >-
-  Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
-  rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is
-  kényeztetni magam. 
+  Az otthoni arcpakolások nagyon hasznos kiegészítői lehetnek a helyes bőrápolási
+  rutinnak   azáltal, hogy extra és változatos tápanyagokhoz juthat a bőr, amivel 
+  még szebbé és egészségesebbé tehetjünk arcbőrünket.  Itt megoszt
   
 ---
 

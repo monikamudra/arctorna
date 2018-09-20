@@ -2,8 +2,8 @@
 title: Szimmetrikus arc vs szép arc
 main_image: szimmetrikus-arc-vs-szep-arc.jpg
 summary: >-
-  Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
-  komolyan törődni vele.  
+  Nem létezik olyan ember, akinek tökéletesen szimmetrikus az arca, de kutatások
+  igazolják, hogy minél szimmetrikusabb egy arc, annál szebbnek látjuk. 
 ---
 
 Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes

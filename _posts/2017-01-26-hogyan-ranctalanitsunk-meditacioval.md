@@ -2,8 +2,9 @@
 title: Hogyan ránctalanítsunk meditációval?
 main_image: hogyan-ranctalanitsunk-meditacioval.jpg
 summary: >-
-  A meditáció a test és az elme tudatos ellazítása, figyelmünk belső énünkre
-  fordítása. Célja az elme lecsendesítése, és a belső béke megtalálása. 
+  Meditációval, tudatos lazítással nemcsak az egészségünkért, de 
+  szépségünkért is sokat tehetünk. De vajon hogyan kell jól meditálni?
+  
 ---
 
 A meditáció a test és az elme tudatos ellazítása, figyelmünk belső énünkre
@@ -14,7 +15,6 @@ a külső énre (egóra) fókuszálunk, akkor energiát veszítünk. Az egészs�
 meditáció több más mellett ebben is tud segíteni.
 
 ## Hogyan meditáljunk?
-
 Mivel a napi problémák megoldásán folyamatosan dolgozó elme teljesen leköti a
 tudatot, és a külső zajok is elvonhatják a figyelmet, eleinte nincs könnyű
 dolgunk. Keressünk egy csendes, nyugodt helyet, ahol senki sem zavarhat.
@@ -29,9 +29,7 @@ elme elcsendesedik, megjelenik a csend. Ez a csend vezet a belső nyugalom, a
 béke a szeretet és a boldogság állapotába.
 
 Nem szükséges órákat eltöltenünk egy-egy ilyen meditatív állapotban, elegendő
-néhány perc tudatos befelé figyelés is. Rendszeres gyakorlással
-lecsendesedhetünk, megnyugodhatunk, ami csökkenti a stresszt, növeli a szellemi
-kapacitást, jó hatással van az egészségre és csökkenti a ráncok kialakulását is.
-Gyakoroljatok! :)
+néhány perc tudatos befelé figyelés is. Rendszeres gyakorlással lecsendesedhetünk, megnyugodhatunk, ami csökkenti a stresszt, növeli a szellemi kapacitást, jó hatással
+van az egészségre és csökkenti a ráncok kialakulását is. Gyakoroljatok! :)
 
 
