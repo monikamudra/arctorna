@@ -9,7 +9,7 @@ canonical_url: https://arctornamonival.blog.hu/2017/05/18/6_tuti_tipp_a_gyonyoru
 ---
 
 Az arc szépségét nemcsak a genetika és a bőr minősége határozzák meg, hanem
-fontos szerepe van a "kiegészítőknek" is, mint például a hajnak, szemöldököknek, szempilláknak, sminknek stb.
+fontos szerepe van a "kiegészítőknek" is, mint például a hajnak, szemöldököknek, szempilláknak, sminknek.
 
 Manapság egyre divatosabbak a pótolt, hatalmas szempilla bokrok, pedig némi
 gondoskodással és megfelelő sminkkel magunk is csodás pillákat varázsolhatunk

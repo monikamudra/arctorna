@@ -2,10 +2,9 @@
 title: Három tipp amivel hatékonyan tehetsz a <span class="u-NoWrapWide">mimikai ráncok ellen</span>
 image: /assets/images/posts/hogyan-vedd-eszre-idoben-es-keruld-el-a-mimikai-rancok-kialakulasat-social.jpg
 description: >-
-  Érzéseink gyakran fejeződnek ki az arcon, melyek minél intenzívebbek,
-  annál erőteljesebben kapcsolódik hozzá mimika. Ha ezek a grimaszok hosszú
-  időn át túl sokszor ismétlődnek, akkor egy idő után elkezdenek nyomot hagyni
-  az arcon, mégpedig ráncok formájában.
+  A mimikai ráncok nemcsak öregítik arcunkat, de sokat elárulnak személyiségünkről,
+  korábbi élethelyzeteinkről, vagy éppen rossz szokásaikról. Szerencsére vannak jó
+  megoldások a ráncok megelőzésére, vagy kisimításukra.
 canonical_url: https://arctornamonival.blog.hu/2016/11/05/hogyan_vedd_eszre_idoben_es_keruld_el_a_mimikai_rancok_kialakulasat
 ---
 

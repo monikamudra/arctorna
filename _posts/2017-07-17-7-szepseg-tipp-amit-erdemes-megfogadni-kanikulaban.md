@@ -2,11 +2,10 @@
 title: 7 szépség tipp amit érdemes megfogadni kánikulában
 image: /assets/images/posts/7-szepseg-tipp-amit-erdemes-megfogadni-kanikulaban-social.jpg
 description: >-
-  Nyáron a nagy melegben fontos odafigyelni néhány alapvető dologra, hogy
-  ilyenkor is szépek mardhassunk.
+  Nyáron a nagy melegben nagyon fontos odafigyelni néhány alapvető dologra,
+  nemcsak az egészség, hanem a szépség megőrzése miatt is.
 canonical_url: https://arctornamonival.blog.hu/2017/07/17/7_szepseg_tipp_amire_erdemes_odafigyelni_kanikulaban
 ---
-
 
 ## Hidratálás
 {: style="clear: both"}

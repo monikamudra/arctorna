@@ -2,8 +2,8 @@
 title: Így tüntesd el a&nbsp;tokát
 image: /assets/images/posts/igy-tuntesd-el-a-tokat-social.jpg
 description: >-
-  Egyik nagyon gyakori zavaró probléma az arcon a toka megjelenése, ami sajnos nem csak
-  az idősebb generáció problémája.
+  A toka visszahúzására vagy megelőzésére és a nyak feszesen tartására
+  kiváló természetes megoldások vannak. Ez a gyakorlat tényleg segít!
 canonical_url: https://arctornamonival.blog.hu/2017/05/15/igy_tuntesd_el_a_tokat
 ---
 
@@ -17,9 +17,9 @@ térdedre. Emeld fel egy kicsit az állad és tedd az ökleidet az állad alá a
 tokára úgy, hogy azok összeérjenek.
 
 Told lefelé az álladat miközben az ökleiddel tarts ellen az áll lefelé
-nyomásának (ezért kellenek oda). Tehát: áll lefelé, öklökkel fölfelé (nyak végig
+nyomásának (ezért kellenek oda). Tehát: állal lefelé, öklökkel fölfelé tolunk (nyak végig
 feszes). Számolj lassan 5-ig, majd fokozatosan lazítsd a nyakad. Néhány
-másodperc szünet után ismételd meg a gyakorlatot még kétszer.
+másodperc szünet után ismételd a gyakorlatot kétszer-háromszor.
 
 Ha végeztél jöhet egy kis lazítás: tátogj néhányszor, majd jobbra balra
 mozgásokkal óvatosan lazítsd az állkapcsodat.

@@ -2,8 +2,8 @@
 title: 2 gyakorlat 2 percben, <span class="u-NoWrapWide">ha keveset aludtál</span>
 image: /assets/images/posts/2-gyakorlat-2-percben-ha-keveset-aludtal-social.jpg
 description: >-
-  Mindannyiunkkal megesett már legalább egyszer :), hogy nem jutott elég idő
-  alvásra.
+  A túl kevés alvás bizony meglátszik az arcon, de szerencsére vannak
+  nagyon jó trükkök, amikkel viszonylag gyorsan segíthetünk a helyzeten.
 canonical_url: https://arctornamonival.blog.hu/2017/02/12/2_gyakorlat_2_percben_ha_keveset_aludtal
 ---
 
@@ -32,7 +32,7 @@ Ezután a többi ujjbegyet sorban helyezd el a szemöldökök ívén, de hagyj a
 között egy kis szünetet. A mutató ujjak a szemöldök végein legyenek. Húzd
 mindkét szemöldököd fölfelé erősen. Az ujjakkal tarts lefelé, ne engedd, hogy a
 szemöldök felemelkedjen. Feszítsd fölfelé a szemöldököket egyre erősebben,
-miközben lassan 10-ig számolsz. Lazíts és ismételj!
+miközben lassan 10-ig számolsz. Lazíts, majd ismételd meg a gyakorlatot!
 
 Figyelj arra, hogy a szemöldök közötti rész ne ráncolódjon és ne grimaszolj a
 gyakorlatok közben.

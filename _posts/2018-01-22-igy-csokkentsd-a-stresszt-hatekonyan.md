@@ -3,8 +3,8 @@ title: Így csökkentsd a <span class="u-NoWrapWide">stresszt hatékonyan</span>
 image: /assets/images/posts/igy-csokkentsd-a-stresszt-hatekonyan-social.jpg
 description: >-
   A folyamatos stressz nemcsak a szépségnek árt, de hosszú távon az egészségre
-  is romboló hatással lehet. Szerencsére vannak jól bevált technikák, melyek segítenek
-  a rossz stressz kezelésében.
+  is romboló hatással lehet. Szerencsére vannak jól bevált technikák, melyek
+  segítenek a rossz stressz kezelésében.
 canonical_url: https://arctornamonival.blog.hu/2018/01/22/igy_csokkentsd_a_stresszt_hatekonyan
 ---
 

@@ -2,8 +2,8 @@
 title: Házi lábápoló 10&nbsp;perc&nbsp;alatt
 image: /assets/images/posts/hazi-labapolo-10-perc-alatt-social.jpg
 description: >-
-  A kemény, száraz vagy fáradt lábak ápolására remek lábápolót készíthetünk
-  otthon tartósítószer nélkül, teljesen természetes alapanyagokból.
+  A kemény, száraz vagy fáradt lábak ápolására remek lábápolót készíthető
+  otthon tartósítószer nélkül, teljesen természetes alapanyagokból. Íme a recept!
 canonical_url: https://arctornamonival.blog.hu/2018/06/08/hazi_labapolo_10_perc_alatt
 ---
 

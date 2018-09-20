@@ -2,14 +2,12 @@
 title: Az 5 legfontosabb lépés <span class="u-NoWrapWide">álmaid megvalósításához</span>
 image: /assets/images/posts/az-5-legfontosabb-lepes-az-almok-megvalositasahoz-social.jpg
 description: >-
-  Minden sikeres embernek van egy mélyről jövő belső, titkos álma és egy erős hite, hogy az
-  az megvalósítható. Ők azok, akik apró lépésekben haladnak előre, és lépésről-lépésre.
-  építik álmaik apró darabkáit, úgy mint egy puzzle. Íme az öt legfontosabb lépés, hogy
-  elindulj álmaid megvalósításában.
+  Vajon mi kell ahhoz, hogy álmainkat megvalósítsuk? Mitől olyan sikeres néhány
+  ember? Íme az öt fontos lépés, hogy elindulj álmaid megvalósításában.
 canonical_url: https://arctornamonival.blog.hu/2018/01/01/az_5_legfontosabb_lepes_az_almok_megvalositasahoz
 ---
 
-## 1. Hidd el, hogy az lehetséges
+## 1. Hidd el, hogy lehetséges
 
 Nem kell elhinni, hogy könnyű lesz, hogy gyorsan megvalósul, vagy pontosan úgy
 történik minden, ahogyan azt elképzelted. Csak higgy a lehetőségben, ami
@@ -44,4 +42,4 @@ lehetőségeket, tegyél egy könnyed kitérőt, mert abban a pillanatban, amiko
 valamit szenvedélyes és legmélyebb szándékaid szerint teszel, biztosan segít
 majd közelebb kerülni álmaidhoz!
 
-Merj nagyot álmodni és hidd el, hogy meg tudod csinálni és cselekedj!
+Merj nagyot álmodni, hidd el, hogy meg tudod csinálni és cselekedj!

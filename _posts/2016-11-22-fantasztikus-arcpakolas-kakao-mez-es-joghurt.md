@@ -7,8 +7,9 @@ description: >-
 canonical_url: https://arctornamonival.blog.hu/2016/11/22/fantasztikus_arcpakolas_kakao_mez_es_jog
 ---
 
-Három, a konyhában szinte mindig fellelhető összetevő, és kész is egy remek
-arcpakolás.
+Nagyszerű pakolásokat lehet készíteni a konyhában található finomságokból, amikkel
+SOS csodákat tehetsz a bőröddel! Én legutóbb egy mézes, kakaós pakolást készítettem,
+ami összesen 20 percet vett igénybe, és a végeredmény fantasztikus volt :)
 
 A kakaó a fáradt, igénybevett arcbőr minőségét rendkívül látványosan javítja,
 ápol és hidratál. Antioxidáns tartalma védi a bőrt és lassítja az öregedést. A
@@ -18,7 +19,6 @@ helyreállítani a bőr savköpenyét, nyugtató és tisztító hatású. Bármi
 bőrtípusra használható.
 
 ## A pakolás elkészítése
-
 Használj jó minőségű összetevőket!
 
 *   1 teáskanál kakaópor
@@ -26,6 +26,6 @@ Használj jó minőségű összetevőket!
 *   1 evőkanál natúr joghurt
 
 Keverd össze a kakaóport a mézzel és a joghurttal, majd kend fel a masszát
-egyenletesen az előzőleg megtisztított arcra és dekoltázsra. Hagyd hatni 10-15
-percig, majd mosd le langyos vízzel. Ezután használhatod a már jól bevált
-hidratáló krémed. Tényleg nagyon szuper, próbáld ki!
+egyenletesen az előzőleg alaposan megtisztított arcra és dekoltázsra. Hagyd hatni
+10-15 percig, majd mosd le langyos vízzel. Ezután használhatod a már jól bevált
+hidratáló krémed. Tényleg szuper, próbáld ki!

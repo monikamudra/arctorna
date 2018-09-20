@@ -2,8 +2,8 @@
 title: Nyári bőrmegújító arcpakolás, <span class="u-NoWrapWide">minden bőrtípusra</span>
 image: /assets/images/posts/nyari-bormegujito-arcpakolas-minden-arctipusra-social.jpg
 description: >-
-  Nyáron a sok napsütés, a fokozott izzadás és a strandolás miatt a bőr jóval több
-  odafigyelést és gondoskodást igényel, mint az év más időszakában.
+  Egy szuperjó tápláló és hidratáló arcpakolás 10 perc alatt képes
+  csodát tenni a bőrrel, érdemes azokat használni.
 canonical_url: https://arctornamonival.blog.hu/2017/08/15/nyari_bormegujito_arcpakolas_minden_arctipusra
 ---
 

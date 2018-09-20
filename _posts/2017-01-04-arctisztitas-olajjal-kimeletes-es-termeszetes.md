@@ -2,9 +2,8 @@
 title: "Arctisztítás olajjal: <span class='u-NoWrapWide'>kíméletes és természetes</span>"
 image: /assets/images/posts/arctisztitas-olajjal-kimeletes-es-termeszetes-social.jpg
 description: >-
-  Azt, hogy a napi arctisztítás mennyire fontos, talán nem is kell hangsúlyozni. A
-  koszos bőrre kent bármilyen krém felszívódásával a szennyeződés is bekerül a bőr
-  mélyebb rétegeibe.
+  Ahhoz, hogy a bőrápoló krémek ideálisan kifejthessék hatásukat, fontos
+  a bőrt megfelelően előkészíteni erre.
 canonical_url: https://arctornamonival.blog.hu/2017/01/04/arctisztitas_olajjal_kimeletes_es_termeszetes
 ---
 
@@ -31,5 +30,6 @@ nedves felületre) kenj a teljes arcra, nyakra és dekoltázsra egy kevés olaja
 Fogj egy nedves szivacsot, kendőt, vagy amit arctisztításra szoktál használni és
 törölgesd át alaposan az olajos területeket mindaddig, amíg a kendő tiszta nem
 marad. Reggel és este is fontos az arctisztítás, de az esti soha, soha ne
-maradjon el, hiszen nagyon fontos, hogy a bőrre kent ápoló krémek, hogyan
-segítik az éjszakai regenerálódást.
+maradjon el! Nagyon fontos, hogy a bőrre kent tápláló krémek hogyan segítik az
+éjszakai regenerálódást, hiszen ez a folyamat hosszú távon jelentősen
+befolyásolja a bőr minőségét.

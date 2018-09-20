@@ -2,9 +2,9 @@
 title: "Ránctalan nyak: <span class='u-NoWrapWide'>így feszesítsd a nyakad</span> tornával"
 image: /assets/images/posts/ranctalan-nyak-igy-feszesitsd-a-nyakad-tornaval-social.jpg
 description: >-
-  A nyakbőrizom közvetlenül a bőr alatt lévő vékony izomlemez, melynek szerepe,
-  hogy feszesen tartsa a nyak bőrét. Az izmok tónusának csökkénése a nyak bőrének
-  ráncosodásához vezet.
+  A nyakon lévő izmok gyengesége nagyon hamar a nyak ráncosodáshoz vezet,
+  amit önmagában krémekkel vagy csupán kozmetikai kezelésekkel szinte
+  lehetetlen feszesen tartani. Rendszeres edzéssel viszont igen.
 canonical_url: https://arctornamonival.blog.hu/2017/05/26/ranctalan_nyakat_igeeen_gy_feszesitsd_a_nyakad_tornaval
 ---
 
@@ -27,7 +27,7 @@ meg a gyakorlatot még kétszer. A legvégén nyújtással zárjuk a tornát. A 
 maradjon a talajon, fordítsd el jobbra, tartsd meg néhány másodpercig, majd
 fordítsd el balra is. Könyökölj fel és lassan engedd hátra a fejed. Tartsd
 leengedve pár másodpercig, majd lassan emeld vissza. Jöhet a krémezés, egy pohár
-víz és egy mosoly :)
+víz és egy hatalmas mosoly :)
 
 ## Ezekre figyelj a gyakorlat alatt
 

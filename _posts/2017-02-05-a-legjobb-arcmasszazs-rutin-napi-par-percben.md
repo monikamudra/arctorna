@@ -14,20 +14,17 @@ arcmasszázzsal sokat tehetünk. Tedd napi rutinná a lenti gyakorlatokat, és p
 hét múlva már látni fogod az eredményt!
 
 ## 1. lépés
-
 Arctisztítás után reggel vagy este kend át a teljes arcod és a nyakad egy kevés
 olajjal. Végezheted a masszázst a megszokott arcápoló krémeddel is, de
 mindenképpen használj vegyszermentes kozmetikumot!
 
 ## 2. lépés
-
 Olajozás után nagy köröket rajzolva masszírozd át a teljes arcodat és
 homlokodat. Fontos, hogy a körzés mindig fölfelé és kifelé irányuljon. A nyakon
 a fül alatt nagy köröket rajzolva masszírozz, majd haladj a nyak belseje felé.
 Figyelj az irányra, itt is fölfelé és kifelé haladj!
 
 ## 3. lépés
-
 Tedd az ujjaidat vízszintesen az áll közepéhez és haladj végig az állcsonton,
 egészen a fül mögé, majd le a nyakon. Ismételd meg 5-ször mindkét oldalon.
 Ezután ismét az áll közepétől indulva, kis köröket rajzolva, mozgasd az
@@ -36,7 +33,6 @@ mellett és az orcák alatt legyél alaposabb. Majd jöhet a teljes orca, a hal�
 és a homlok is. A homlokon kezdd a körzést középen és lassan haladj kifelé.
 
 ## 4. lépés
-
 Jöhetnek a szemek. A belső szemzugtól indulunk, megyünk fölfelé a szemöldökön
 végig, majd a külső szemzug mellett fordulunk lefelé, vissza a belső szemzughoz.
 Legyél gyengéd, a bőr ezen a területen vékony és érzékeny. Ezután csípd össze a
@@ -46,7 +42,6 @@ tartsd 10 másodpercig. Végül kőrözz még néhányat a szemek körül, figye
 helyes irányra.
 
 ## 5. lépés
-
 A szemöldökök közötti területet is érdemes rendszeresen átmasszírozni. A középső
 ujjakat helyezd a két szemöldök közé úgy, hogy az egyik fent, a másik lent
 legyen. Az alsó ujjaddal rajzolj egy félkört fölfelé, majd vissza lefelé, a

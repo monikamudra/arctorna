@@ -2,9 +2,9 @@
 title: Tökéletes ajakbalzsam – így&nbsp;készítsd&nbsp;el
 image: /assets/images/posts/tokeletes-ajakbalzsam-igy-keszitsd-el-social.jpg
 description: >-
-  Már évek óta saját készítésű ajakápolót használok és büszkén mondhatom, hogy
-  nagyon elégedett vagyok az eredménnyel.
-canonical_url: Tökéletes ajakbalzsam – így készítsd el!
+  Ajakápolót készíteni szuper egyszerű! Nem tartalmaz tartósítószert, saját
+  ízlésre szabható és környezetbarát is. Itt egy nagyon jó recept :)
+canonical_url: https://arctornamonival.blog.hu/2017/12/11/tokeletes_ajakbalzsam_igy_keszitsd_el
 ---
 
 Már évek óta saját készítésű ajakápolót használok és büszkén mondhatom, hogy
@@ -32,4 +32,4 @@ hevítsd túl az olajokat, mert magas hőmérsékleten elvesznek az értékes
 hatóanyagok.) Keverd hozzá a mandulaolajat, az E-vitamint és az illóolajat, majd
 öntsd az egészet a tégelybe. Tedd félre és hagyd, hogy teljesen megszilárduljon!
 
-Próbáld ki te is!
+Próbáld ki!
