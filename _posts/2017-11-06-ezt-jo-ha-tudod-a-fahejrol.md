@@ -31,7 +31,7 @@ kezelésében, de mindenképpen segít a vércukorszint egyensúlyának fenntart
 Az antioxidánsok védik a szervezetet a szabad gyökök okozta oxidatív
 károsodástól. Egy tanulmányban, melyben 26 fűszer antioxidáns aktivitását
 vizsgálták, a fahéj magasan nyert. Valójában annyira hatásos, hogy a fahéjat
-természetes élelmiszertartósításra is használják.
+természetes élelmiszer tartósításra is használják.
 
 ### Gyulladásgátló
 
@@ -49,7 +49,7 @@ A fahéj javítja a szellemi éberséget, jótékonyan hat az agy működésére
 a memóriát és lecsillapítja az elmét. Néhány új kutatás azt is feltételezi, hogy
 a fahéj blokkolhat egy tau nevű proteint az agyban, ami segíthet az Alzheimer-
 kór megelőzésében. Bár a pontos mechanizmus még nem teljesen tiszta, de az
-eddigi eredmények bíztatóak.
+eddigi eredmények biztatóak.
 
 ### Antimikrobális hatású
 
@@ -85,7 +85,7 @@ Ez a fajta Cinnamomum cassia fából, dél-Kínából származik és kínai fah�
 ismert, ami a leggyakrabban fogyasztott fahéj világszerte. A Cassia általában
 sötét barna, vöröses színű, vastagabb és keményebb textúrájú, mint a ceyloni. A
 kínai fahéj alacsonyabb minőségű és jóval olcsóbb, mint fenti társa, ezért az
-élelmiszerboltok nagyrésze ezt árulja. A fahéjolajok több mint 90%-a is cassiai
+élelmiszerboltok nagy része ezt árulja. A fahéjolajok több mint 90%-a is cassiai
 fahéjból készül.
 
 ## Rossz, ha túl sok fahéjat eszünk?
@@ -126,7 +126,7 @@ néhányszor!
 1:5 arányban keverj össze fahéjolajat és valamilyen bázis olajat (olíva, kókusz,
 mandula stb), és zuhanyzás után gyengéden masszírozd a problémás területekre!
 
-### Izmok és izületek
+### Izmok és ízületek
 
 Mivel a fahéjolaj helyi vérbőséget okoz, kiválóan alkalmas fájó izmok, beteg
 ízületek masszírozására, valamint reumatikus fájdalmak enyhítésére.
@@ -134,4 +134,4 @@ Mivel a fahéjolaj helyi vérbőséget okoz, kiválóan alkalmas fájó izmok, b
 ### Idegnyugtató
 
 Fáradt, stresszes időszakokban a fahéj kellemes illatával segít lecsendesedni,
-megnyugtat és ellazít. Csepegtess 2-3 csepp illójolajat párologtatóba!
+megnyugtat és ellazít. Csepegtess 2-3 csepp illóolajat párologtatóba!

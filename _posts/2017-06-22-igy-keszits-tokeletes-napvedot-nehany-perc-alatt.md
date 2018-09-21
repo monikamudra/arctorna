@@ -15,7 +15,7 @@ valamilyen megoldást magunk és családunk védelmére a bőrt károsító erő
 napsugarak ellen. Sajnos számos napvédő tartalmaz mérgező összetevőket vagy az
 endokrin rendszert károsító vegyi anyagokat, de szerencsére vannak azért jó
 választások is. Érdemes mindig elolvasni a termék összetevőit, mert előfordul,
-hogy egy natúrnak hiredetett termék is tartalmaz toxikus anyagokat. De ha
+hogy egy natúrnak hirdetett termék is tartalmaz toxikus anyagokat. De ha
 teljesen biztosra akarunk menni, készíthetünk magunk is napvédőt, ami nemcsak
 hogy véd a leégéstől, de ápolja a bőrt és tényleg teljesen természetes.
 

@@ -15,8 +15,8 @@ amivel fantasztikus formába hozhatod az arcod mindössze 25 perc alatt.
 
 ## Kezdd egy jó arcmasszázzsal
 Alaposan tisztítsd meg az arcod, nyakad és dekoltázsod, majd a még nedves bőrre
-tegyél egy kevés bőrőd által kedvelt olajat. Ha nincs kedvenced, akkor használj
-jojóbaolajat, de végezheted a masszázst a megszokott arcápoló krémeddel is,
+tegyél egy kevés bőröd által kedvelt olajat. Ha nincs kedvenced, akkor használj
+jojobaolajat, de végezheted a masszázst a megszokott arcápoló krémeddel is,
 ha épp nincs otthon semmilyen olajad.
 
 Olajozás után nagy köröket rajzolva masszírozd át a teljes arcod és homlokod.
@@ -31,7 +31,7 @@ lassan fölfelé az arcon. Az orrcimpák mellett és az orcák alatt legyél
 alaposabb. Majd jöhet a teljes orca, a halánték és a homlok is. A homlokon kezdd
 a körzést középen és lassan haladj kifelé.
 
-A szem körüli rész masszirozásánál a belső szemzugtól indulj, menj fölfelé a
+A szem körüli rész masszírozásánál a belső szemzugtól indulj, menj fölfelé a
 szemöldökön végig, majd a külső szemzug mellett fordulj lefelé, vissza a belső
 szemzughoz. Legyél gyengéd, a bőr ezen a területen vékony és érzékeny. Ezután
 csípd össze a szemöldök elején (a belső szemzug fölött) a bőrt és tartsd meg 10
@@ -42,7 +42,7 @@ rajzolva, puhán masszírozd át a teljes arcod.
 ## Jöhetnek az arctorna gyakorlatok
 
 ### Homlok
-Tedd a kisujjak párnáit a szemöldök kezdő (belső) ponjához úgy, hogy azok érjenek
+Tedd a kisujjak párnáit a szemöldök kezdő (belső) pontjához úgy, hogy azok érjenek
 össze. Ezután a többi ujjbegyet sorban helyezd el a szemöldökök ívén, de hagyj az
 ujjak között egy kis szünetet. A mutató ujjak a szemöldök végén (külső szélén) legyenek. Húzd mindkét szemöldököd fölfelé nagyon erősen. Az ujjakkal tarts lefelé, ne engedd,
 hogy a szemöldök felemelkedjen. Feszítsd fölfelé a szemöldököket egyre
@@ -68,7 +68,7 @@ közvetlenül arctorna után teszel fel arcpakolást vagy arcápolót, akkor az
 alapanyagok sokkal jobban felszívódnak.
 
 ## Majd jöhet az arcpakolás
-Sminkelés előtt a bőr tökétes előkészítéséhez, egy száraz bőrre és egy zsíros
+Sminkelés előtt a bőr tökéletes előkészítéséhez, egy száraz bőrre és egy zsíros
 bőrre való arcpakolást ajánlok. (Válaszd a bőrtípusodnak megfelelőt!)
 
 ### Méz és avokádó — arcpakolás száraz bőrre

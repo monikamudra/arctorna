@@ -27,7 +27,7 @@ ajánlok most egy könnyen elkészíthető, pénztárcabarát és teljesen term�
 
 Olvaszd fel az összetevőket vízgőz fölött, az illóolajok kivételével. Ne hevítsd
 túl az olajokat, mert sérülnek a bennük lévő értékes hatóanyagok! A már
-folyékony olajmixhez óvatosan keverd hozzá a választott illóolajat, és ha
+folyékony olaj mixhez óvatosan keverd hozzá a választott illóolajat, és ha
 használsz vaníliát, akkor azt is. Öntsd bele a kész keveréket egy tégelybe és
 már kész is!
 

@@ -7,7 +7,7 @@ description: >-
 canonical_url: https://arctornamonival.blog.hu/2017/04/03/szimmetrikus_arc_vs_szep_arc
 ---
 
-Arcunk sokmindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
+Arcunk sok mindent elárul rólunk, folyamatosan kirakatban van, ezért érdemes
 komolyan törődni vele. Többnyire csak a külső dolgokra figyelünk, pedig nemcsak
 a bőr egészsége, vagy a ráncok mennyisége határozzák meg az arc kinézetét,
 szépségét, hanem az is meghatározó, hogy mennyire szimmetrikus. Kutatások
@@ -22,10 +22,10 @@ fejlődési stabilitásáról. (Ez felvet egy szerintem nagyon fontos kérdést:
 mennyire vezetik félre az embereket a manapság egyre divatosabb arckorrekciók?)
 
 Fontos tudni, hogy semelyik ember nem rendelkezik teljesen szimmetrikus arccal.
-Az, hogy milyen mértékű az aszimmetria sokmindentől függ. Az arc aszimmetriája
+Az, hogy milyen mértékű az aszimmetria sok mindentől függ. Az arc aszimmetriája
 lehet velünk született, de kialakulhat betegségek, állkapocs vagy fogászati
 problémák, lelki tényezők vagy az arc izmainak gyengesége miatt is. Feltűnő
-aszimmetira esetén ajánlott kideríteni, hogy mi áll annak hátterében és érdemes
+asszimmetria esetén ajánlott kideríteni, hogy mi áll annak hátterében és érdemes
 kezelni az okokat. Kisebb aszimmetriát arctornával is eredményesen lehet
 korrigálni, ami pozitívan befolyásolja az arc összképét.
 

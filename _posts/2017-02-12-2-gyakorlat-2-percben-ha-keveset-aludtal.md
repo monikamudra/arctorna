@@ -27,7 +27,7 @@ néhány másodpercig, majd ismételd meg a gyakorlatot.
 
 ### 2. gyakorlat
 
-Tedd a kisujjak párnáit a szemöldök kezdő ponjához úgy, hogy azok érjenek össze.
+Tedd a kisujjak párnáit a szemöldök kezdő pontjához úgy, hogy azok érjenek össze.
 Ezután a többi ujjbegyet sorban helyezd el a szemöldökök ívén, de hagyj az ujjak
 között egy kis szünetet. A mutató ujjak a szemöldök végein legyenek. Húzd
 mindkét szemöldököd fölfelé erősen. Az ujjakkal tarts lefelé, ne engedd, hogy a

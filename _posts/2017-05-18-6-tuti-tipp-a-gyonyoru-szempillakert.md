@@ -20,14 +20,14 @@ természetesen.
 
 ## Ricinusolaj
 
-A ricinusolaj csodát tesz a szempilákkal! Tele van E vitaminnal, fantasztikusan
+A ricinusolaj csodát tesz a szempillákkal! Tele van E vitaminnal, fantasztikusan
 ápol és hidratál. Ha rendszeresen ápolod vele pilláidat, hamarosan nemcsak
 sűrűsödni kezdenek a szálak, hanem méretük is növekszik majd. Kend be esténként
 a tiszta szempillákat (a töveket is!) és csak reggel mosd le őket!
 
 ## Aloe vera
 
-Kiválóan hidrálja a szempillát (is). Használhatod önmagában vagy ricinusolajjal
+Kiválóan hidratálja a szempillát (is). Használhatod önmagában vagy ricinusolajjal
 keverve.
 
 ## Természetes olajak

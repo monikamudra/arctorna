@@ -4,7 +4,7 @@ image: /assets/images/posts/igy-keszits-szuperhatekony-oregedesgatlo-szerumot-ha
 description: >-
   Egy jó szérum mindig nagyon hasznos a bőrnek, mivel koncentráltan
   tartalmaz olyan antioxidáns összetevőket, amiket a hidratáló krémekben csak
-  kis mennyiségben találunk meg. Ezek az antioxidánok rendkívül hasznosak a bőr
+  kis mennyiségben találunk meg. Ezek az antioxidánsok rendkívül hasznosak a bőr
   számára, hogy minél hosszabb ideig képes legyen megőrizni fiatalságát.
 canonical_url: https://arctornamonival.blog.hu/2017/08/26/igy_keszits_szuperhatekony_oregedesgatlo_szerumot_hazilag
 ---
@@ -15,31 +15,31 @@ extra kényeztetés jár.
 
 Korábban készítettem már C-vitaminos szérumot, ami szuperül működött nekem, de
 mivel szükség van újabb és újabb kísérletekre, most a korábbit picit tovább
-fejleszetettem. Megosztom veletek is a tapasztalataimat, mielőtt azonban
+fejlesztettem. Megosztom veletek is a tapasztalataimat, mielőtt azonban
 belevágok, röviden összefoglalom, hogy miért olyan jó a bőrnek ez a szérum.
 
 ## Milyen problémát orvosolhatunk a szérummal?
 
-A szabadgyökökröl sokat lehet hallani, de talán nem mindenkinek teljesen tiszta,
-hogy mivel is ártanak pontosan. Nézzük mik azok a szabadgyökök!
+A szabad gyökökről sokat lehet hallani, de talán nem mindenkinek teljesen tiszta,
+hogy mivel is ártanak pontosan. Nézzük mik azok a szabad gyökök!
 
-A szabadgyökök olyan atomok vagy molekulák, melyek egy vagy több pár nélküli
+A szabad gyökök olyan atomok vagy molekulák, melyek egy vagy több pár nélküli
 elektronnal rendelkeznek a külső héjban. Ezek az agresszív molekulák igyekeznek
 reakcióba lépni a sejtekkel, hogy megpróbálják elvenni tőlük a hiányzó
 elektront, ezzel károsítva az ép sejteket. A "megtámadott" sejtek végzetesen
 károsulhatnak, melyek hozzájárulnak a sejtek öregedéséhez és betegségek
 kialakulásához.
 
-A szabadgyökök kialakulhatnak stressz vagy betegség hatására, de kívülről is
+A szabad gyökök kialakulhatnak stressz vagy betegség hatására, de kívülről is
 bejuthatnak a szervezetbe. A külső ok lehet avas élelmiszer, UV sugárzás,
 mikrohullám, dohányfüst vagy vegyszerek.
 
-## Mit tehetünk a szabadgyökök ellen?
+## Mit tehetünk a szabad gyökök ellen?
 
 Tudatos odafigyeléssel nagyon sokat tehetünk azért, hogy a sejteket károsító
-szabadgyökök száma ne növekedjen. Ezzel jelentősen csökkenthető különböző
+szabad gyökök száma ne növekedjen. Ezzel jelentősen csökkenthető különböző
 betegségek kialakulásának kockázata, és az idő előtti öregedés. A következők
-segítenek megakadályozni a szabadgyökök elszaporodását:
+segítenek megakadályozni a szabad gyökök elszaporodását:
 
 *   vegyszer és káros anyagoktól mentes élelmiszerek fogyasztása
 *   egészségtelen ételek, italok fogyasztásának elhagyása
@@ -51,16 +51,16 @@ segítenek megakadályozni a szabadgyökök elszaporodását:
 *   minél több természetes antioxidánsokat tartalmazó étel fogyasztása
 
 Az antioxidánsoknak (mint például a C-vitamin, A-vitamin, vagy E-vitamin) fontos
-szerepe van a szabadgyökök káros hatásainak leküzdésében.
+szerepe van a szabad gyökök káros hatásainak leküzdésében.
 
 Az antioxidánsok olyan molekulák, amelyek gátolják más molekulák oxidációját,
-vagyis a szabadgyökök kialakulását. Az antioxidánsok lezárják a láncreakciókat,
+vagyis a szabad gyökök kialakulását. Az antioxidánsok lezárják a láncreakciókat,
 megakadályozva a sejtek károsodását.
 
 ## Vissza a szérumhoz…
 
 Mint értékes antioxidánsok, a C-vitamin és E-vitamin fontos összetevői a
-szérumnak, melyek védelmet nyújtanak a szabadgyökök ellen. A C-vitamin ezen
+szérumnak, melyek védelmet nyújtanak a szabad gyökök ellen. A C-vitamin ezen
 felül csökkenti a pigmentfoltokat, és elősegíti a kollagéntermelést is.
 
 Másik igazán értékes összetevő a hialuronsav. A hialuronsav a szervezetünkben is

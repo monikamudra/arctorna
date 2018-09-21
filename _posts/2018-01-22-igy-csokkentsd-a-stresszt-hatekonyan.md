@@ -9,7 +9,7 @@ canonical_url: https://arctornamonival.blog.hu/2018/01/22/igy_csokkentsd_a_stres
 ---
 
 A mindennapi életben a kéretlen impulzusok, a hatalmas külső-belső elvárások, a
-túlzott megfelelési kényszer, kilóméter hosszú teendő listák (és még hosszan
+túlzott megfelelési kényszer, kilométer hosszú teendő listák (és még hosszan
 sorolhatnám), rengeteg stresszt okoznak. A tartósan fennálló negatív stressz
 pedig előbb-utóbb rossz hatással lehet az egészségre, és bizony hosszútávon a
 szépségnek is árt. Ezért arra gondoltam, hogy segítségként megosztok veletek egy
@@ -28,7 +28,7 @@ vagy elfusson.
 A modern világban a “harc” mód még mindig segíthet a veszélyes helyzetek
 túlélésében, például gyors reagálással. Ilyen lehet, amikor a személygépkocsink
 előtt átfutó személlyel elkerüljük az ütközést. A heves szívdobogás, a szapora
-légzés (adrenalin), valamint a hirtelen nagymennyiségű energia felszabadulása
+légzés (adrenalin), valamint a hirtelen nagy mennyiségű energia felszabadulása
 lehetővé teszi számunkra, hogy figyelmünket összpontosítani tudjuk, hogy gyorsan
 reagálhassunk a veszélyhelyzetre.
 
@@ -38,7 +38,7 @@ izmokhoz áramlik (amelyek a harchoz vagy a meneküléshez szükségesek), és
 ilyenkor az agyműködés minimalizálódik. Ez ahhoz vezethet, hogy képtelennek
 leszünk tisztán gondolkodni, amely akadályt jelenthet mind a munkánkban, mind az
 otthoni életünkben. Ha pedig tartósan stresszhelyzetben maradunk, az emelkedett
-kortizolszint követkeménye lehet a cukor- és vérnyomásszint növekedése,
+kortizol szint következménye lehet a cukor- és vérnyomásszint növekedése,
 alvászavar, valamint a libidó csökkenése.
 
 Azonban a stresszt nem lehet és nem is kell teljesen kiiktatni az éltünkből.
@@ -48,7 +48,7 @@ elkerülni, vagy megtanulhatjuk kezelni azt.
 A hála egy hatékony módszer, amely jelentős mértékben képes oldani a stresszt. A
 hála érzése “kiüti” az elégedetlenséget, ami köztudottan egyik fő oka lehet a
 nemkívánatos stressznek. A hálás hozzáállás javítja a hormonegyensúlyt, fokozza
-az immunfunkciókat, jobb pihenést eredményez, valmint a fizikai és a lelki
+az immunfunkciókat, jobb pihenést eredményez, valamint a fizikai és a lelki
 egészségre is pozitív hatása van.
 
 Hálásnak lenni nagyon egyszerűnek tűnik, de korántsem olyan könnyű. Hálás

@@ -25,7 +25,7 @@ arcpakolás, amit tuti, hogy imádni fogsz!
 A kakaópor valójában ennek a pakolásnak a sztárja. Gazdag antioxidánsokban,
 magnéziumban, szelénben, mangánban, cinkben, rézben, káliumban, foszforban,
 vasban és kalciumban. Ásványi anyag tartalma és egyéb összetevői együttesen
-tesznek a sejkárosodás megelőzése és a bőrhibák helyreállítása érdekében. A
+tesznek a sejtkárosodás megelőzése és a bőrhibák helyreállítása érdekében. A
 kakaóban található koffein fokozza a vérkeringést és feszesíti a bőrt.
 
 ### Banán

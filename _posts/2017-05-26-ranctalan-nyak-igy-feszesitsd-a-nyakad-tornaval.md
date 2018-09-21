@@ -9,7 +9,7 @@ canonical_url: https://arctornamonival.blog.hu/2017/05/26/ranctalan_nyakat_igeee
 ---
 
 A nyakbőrizom közvetlenül a bőr alatt lévő vékony izomlemez, melynek szerepe,
-hogy feszesen tartsa a nyak bőrét. Az izmok tónusának csökkénése a nyak bőrének
+hogy feszesen tartsa a nyak bőrét. Az izmok tónusának csökkenése a nyak bőrének
 ráncosodásához vezet. Ahhoz, hogy a nyak korai ráncosodását megelőzhessük, a
 nyakizmok rendszeres edzése és a helyes bőrápolás elengedhetetlen.
 
@@ -32,7 +32,7 @@ víz és egy hatalmas mosoly :)
 ## Ezekre figyelj a gyakorlat alatt
 
 *   Mielőtt megfogod a nyakad (a gyakorlat elején), mindig emeld meg picit az
-    állad. Ettől kisimul a nyak bőre és nem gyűrödik a bőr a tenyered alatt.
+    állad. Ettől kisimul a nyak bőre és nem gyűrődik a bőr a tenyered alatt.
 *   Feszítések közben figyelj arra, hogy a vállakat ne húzd fel, azok végig
     maradjanak lazák.
 *   És végül: soha ne grimaszolj gyakorlat közben, a munka csak a

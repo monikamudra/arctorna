@@ -40,7 +40,7 @@ Ezekre figyelj és nem lesz többé szükséged sminkre!
 8.  Sportolj rendszeresen, legalább heti két alkalommal! Szintén nagyon fontos,
     nemcsak az egészségnek tesz jót, hanem a bőrnek is.
 
-9.  Aludj legalább napi 7 órát! Tudom, hogy innen a legeszszerűbb időt
+9.  Aludj legalább napi 7 órát! Tudom, hogy innen a legegyszerűbb időt
     nyerni, de hidd el, hosszútávon a kevés alvás nem tesz jót sem a szépségnek,
     sem az egészségnek.
 

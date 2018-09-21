@@ -15,9 +15,9 @@ valójában azt jelenti: higgy magadban!
 
 ## 2. Tegyél apró lépéseket
 
-Apró lépések lehetnek valóban nagyon aprók is. Lehet, hogy semmminek tűnik
+Apró lépések lehetnek valóban nagyon aprók is. Lehet, hogy semminek tűnik
 néhány telefonhívás, könyvjelzővel ellátni egy webhelyet, vagy küldeni egy
-e-mailt, de a kis dolgok idővel összegyűlnek, amik aztán arra ösztönözhetnek,
+emailt, de a kis dolgok idővel összegyűlnek, amik aztán arra ösztönözhetnek,
 hogy még többet tegyél.
 
 ## 3. Vedd magad körül inspiráló emberekkel
@@ -25,7 +25,7 @@ hogy még többet tegyél.
 A megvalósulás útján haladni, a megfelelő emberekhez való igazodást is jelent.
 Hagyd figyelmen kívül azokat az embereket, akik nem támogatnak, nap, mint nap
 apró lépéseket tesznek, hogy elmozdítsanak álmaid felől. A megfelelő emberek
-azok, akik segítenek, támogatnak, bíztatnak és hisznek benned. Ők lesznek azok,
+azok, akik segítenek, támogatnak, biztatnak és hisznek benned. Ők lesznek azok,
 akik átlendítenek majd az akadályokon.
 
 ## 4. Hozz olyan döntéseket, amelyek támogatják az álmod megvalósulását

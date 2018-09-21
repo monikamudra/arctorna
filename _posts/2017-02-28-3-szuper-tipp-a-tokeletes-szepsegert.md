@@ -12,7 +12,7 @@ tartani. Számtalan szépség tanácsról, arcfiatalító kezelésről vagy plas
 beavatkozásról hallottunk már életünk során, de vajon mennyit tudunk arról, hogy
 az arc különböző rétegein, együttesen milyen változások okoznak problémát a kor
 előrehaladtával. A koponyacsont változása, az arc zsírtartalékának csökkenése,
-az izmok gyengülése, a bőr sruktúrájának átalakulása vagy a lelkiállapotunk,
+az izmok gyengülése, a bőr struktúrájának átalakulása vagy a lelkiállapotunk,
 mind-mind együtt befolyásolják az öregedést és határozzák meg az arc kinézetét.
 Bármilyen módját is választod a szépülésnek, érdemes az összes tényezőt
 figyelembe venni annak érdekében, hogy a legjobb eredményt kapd. Nézzük a három
@@ -25,12 +25,12 @@ csontvesztés következtében az arcon és a testen különböző változások
 megnyúlik és kiszélesedik, a homlok hátrahúzódik, az arccsont élei elmosódnak és
 a felső állkapocs előre tolódik. Mivel az arccsontok tartják az arc szöveteit és
 a bőrt is, azok változásai jelentősen befolyásolják az arc kinézetét. Sajnos nem
-elég, ha csupán a bőr szépítésére, feszesítésre figyelünk, az arc fiatalon
+elég, ha csupán a bőr szépítésére, feszesítésére figyelünk, az arc fiatalon
 tartásához ennél több kell.
 
 ### Mit tehetünk a csonttérfogat fokozatos csökkenésének lassításáért?
 Megállítani sajnos nem lehet, de vitaminokban és ásványi anyagokban (főleg
-kálciumban) gazdag étrenddel és rendszeres testmozgással sokat tehetünk
+kalciumban) gazdag étrenddel és rendszeres testmozgással sokat tehetünk
 csontjainkért.
 
 ## Izmok

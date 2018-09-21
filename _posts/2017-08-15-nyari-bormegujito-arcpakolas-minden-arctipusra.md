@@ -30,7 +30,7 @@ bármilyen gyümölcsöt vagy zöldséget hozzá keverhetsz az alaphoz azokból,
 ## Elkészítés és alkalmazás
 
 Hámozd meg az őszibarackot és alaposan törd össze. Keverd a barackpéphez a
-joghurtot és a mézet. Alaposan keved össze a masszát, majd kend fel a
+joghurtot és a mézet. Alaposan keverd össze a masszát, majd kend fel a
 megtisztított arcbőrre. 10-15 percig hagyd hatni, majd langyos vízzel mosd le.
 Végül egy kevés hidratáló krémet paskolj gyengéden a nedves arcbőrbe.
 

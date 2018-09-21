@@ -21,8 +21,8 @@ vált be eddig a legjobban, amit most megosztok veletek is.
 *   vagy 4-5 csepp levendula vagy citrom illóolaj
 *   1 tiszta tégely tárolásra
 
-Ha színes ajakbalzsamot szerenél, akkor tegyél a keverékbe természetes
-szinezéket, mint például gyümölcsport, pirospaprikát, étcsokit vagy bármilyen
+Ha színes ajakbalzsamot szeretnél, akkor tegyél a keverékbe természetes
+színezéket, mint például gyümölcsport, pirospaprikát, étcsokit vagy bármilyen
 természetes ételfestéket.
 
 ## Elkészítés

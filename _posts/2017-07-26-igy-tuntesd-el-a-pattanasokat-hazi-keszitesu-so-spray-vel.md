@@ -24,7 +24,7 @@ rutinban!
 ## Tengeri sópermet összetevők
 
 *   1 csésze desztillált vagy forralt víz
-*   1 evőkanál himalája só (vagy tengeri só)
+*   1 evőkanál Himalája só (vagy tengeri só)
 *   1 csipet Epsom-só vagy magnézium pelyhek
 *   Opcionális: 1-3 csepp illóolaj (szuper a levendula vagy a menta)
 

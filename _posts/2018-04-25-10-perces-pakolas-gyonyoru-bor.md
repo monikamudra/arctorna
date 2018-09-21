@@ -8,22 +8,22 @@ description: >-
 canonical_url: https://arctornamonival.blog.hu/2018/04/25/10_perces_pakolas_gyonyoru_bor
 ---
 
-Mivel az én arcbőröm nemcsak extraszáraz, de szuperérzékeny is, ezért a
+Mivel az én arcbőröm nemcsak extra száraz, de szuper érzékeny is, ezért a
 rendszeres bőrápolási rutin mellett, időnként szoktam házi pakolásokkal is
 kényeztetni magam. Gyakran kutatok számomra érdekes receptek után, amiket aztán
-vagy a leírás alapján készítek el, vagy testreszabok. Szeretek kísérletezni,
+vagy a leírás alapján készítek el, vagy testre szabok. Szeretek kísérletezni,
 sokszor változtatom az összetevőket, próbálok mindig valami különlegeset
 készíteni magamnak. Kaolinból is készítettem már néhányszor arcpakolást, nekem
 mindig bejött a végeredmény. Tegnap ilyen pakolást csináltam és arra gondoltam,
 hogy megosztom veletek a receptet.
 
-A kaolint, azaz másnéven fehér agyagot egyébként már régóta használják a
+A kaolint, azaz más néven fehér agyagot egyébként már régóta használják a
 szobrászatban, papírok fényesítéséhez, vagy a porcelángyártásban, napjainkban
-pedig rendkívül elt1erjedt a kozmetikai piacon. Megtalálható például smink
+pedig rendkívül elterjedt a kozmetikai piacon. Megtalálható például smink
 termékekben, használják szappanokhoz, dezodorokhoz, arcmaszkokhoz vagy különféle
 testpakolásokhoz.
 
-A kaolin a legkiméletesebb a különböző fajta agyagok közül, amely a
+A kaolin a legkíméletesebb a különböző fajta agyagok közül, amely a
 legérzékenyebb bőrfajtákra is tökéletes. Rendkívül hatásos a felszíni
 szennyeződések eltávolítására, kiválóan méregtelenít, gyengéden stimulálja a
 keringést az alkalmazott területeken, eltávolítja a felesleges hámsejteket,
@@ -46,9 +46,9 @@ gazdagíthatod a pakolásodat, ami hasznos lehet a bőrödnek.
 Egy üveg vagy porcelán edényben keverd össze a kaolint és a rózsavizet (ha túl
 sűrű a massza, tegyél még hozzá annyi rózsavizet, hogy kenhető állagú legyen).
 Csepegtesd hozzá az olajat és keverd el ismét. Kend a masszát a megtisztított,
-de még nedves arcbőrre egyenletesen. Használhasz ecsetet, de kézzel, vagy egy
+de még nedves arcbőrre egyenletesen. Használhatsz ecsetet, de kézzel, vagy egy
 kanállal is szépen felvihető. Hagyd fent a pakolást 10 percig (nem kell teljesen
-megszáradnia), majd langyos vizzel alaposan mosd le az arcod. Az eredmény egy
+megszáradnia), majd langyos vízzel alaposan mosd le az arcod. Az eredmény egy
 csodásan puha, tiszta és ragyogó bőr lesz. Ezután használd a megszokott
 hidratáló krémedet!
 

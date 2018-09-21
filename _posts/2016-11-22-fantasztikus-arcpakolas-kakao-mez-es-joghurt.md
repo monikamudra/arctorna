@@ -11,7 +11,7 @@ Nagyszerű pakolásokat lehet készíteni a konyhában található finomságokb�
 SOS csodákat tehetsz a bőröddel! Én legutóbb egy mézes, kakaós pakolást készítettem,
 ami összesen 20 percet vett igénybe, és a végeredmény fantasztikus volt :)
 
-A kakaó a fáradt, igénybevett arcbőr minőségét rendkívül látványosan javítja,
+A kakaó a fáradt, igénybe vett arcbőr minőségét rendkívül látványosan javítja,
 ápol és hidratál. Antioxidáns tartalma védi a bőrt és lassítja az öregedést. A
 méz hidratálja és táplálja a bőrt, rengeteg ásványi anyagot és vitamint
 tartalmaz. A zsíros bőrt fertőtleníti és méregteleníti. A joghurt segít

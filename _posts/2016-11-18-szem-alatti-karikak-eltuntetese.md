@@ -11,7 +11,7 @@ canonical_url: https://arctornamonival.blog.hu/2016/11/18/szem_alatti_karikak_el
 Gondolom veled is előfordult már néhányszor, hogy nem kívánt karikák jelentek
 meg a szemed alatt, amikor keveset aludtál egy stresszesebb, vagy egy dolgosabb
 időszak után. Mindegy, hogy fiú vagy lány, idős vagy fiatal valaki, a karikákat
-senki sem szereti. Most megosztok veled egy egyszerű gyakorlatot, amelyel
+senki sem szereti. Most megosztok veled egy egyszerű gyakorlatot, amellyel
 eltüntetheted a már meglévő karikákat, vagy megelőzheted azok kialakulását. A
 gyakorlatot végezheted bárhol, bármikor, naponta többször is.
 
@@ -20,7 +20,7 @@ Tedd a középső ujjaidat a belső, a mutató ujjakat pedig a külső szemzugok
 Tartsd az ujjaid a szemzugokon stabilan. Húzd össze a szemeidet erősen, és
 tartsd összeszorítva 5 másodpercig, majd lassan lazítsd el őket. Ismételd meg
 10-szer. A torna végén dörzsöld össze a két tenyered úgy, hogy azok jól felmelegedjenek,
-majd helyezd a meleg kezedet 10-20másodpercre a szemekre.
+majd helyezd a meleg kezedet 10-20 másodpercre a szemekre.
 
 Az ujjak azért vannak a szemzugokon, hogy amikor összehúzod a szemedet
 megakadályozd a bőr összegyűrődését. Figyelj arra, hogy az ujjaiddal, jól takard

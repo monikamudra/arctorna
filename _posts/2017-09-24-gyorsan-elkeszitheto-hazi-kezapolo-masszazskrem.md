@@ -32,7 +32,7 @@ nemcsak ápolja és védi a kezeket, de fényvédő hatása is van.
 
 Vízgőz felett olvaszd fel a sheavajat, majd tedd hozzá a kókuszolajat és a
 jojóba olajat is. (Figyelj arra, hogy ne hevítsd túl a sheavajat, és csak akkor
-keverd hozzá a kókuszt és a jójóbát, amikor a sheavaj langyos.) Ezután
+keverd hozzá a kókuszt és a jojobát, amikor a sheavaj langyos.) Ezután
 csepegtesd a keverékbe az E-vitamin olajat, a panthenolt és az illóolajat. A
 végén add hozzá a cink-oxidot és keverd simára az egészet. Öntsd a mixet a
 tiszta és száraz tégelybe, és várd meg, amíg megdermed.

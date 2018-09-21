@@ -14,19 +14,19 @@ nagyon sok vitamint és ásványi anyagot tartalmaz, amit kiválóan hasznosíth
 a mindennapos bőrápolásban. A krumpli nedve ugyanis védi a bőrt a különböző
 fertőzésektől, egyensúlyban tartja a kollagén termelődést, hidratáló, feszesítő,
 ránctalanító, gyulladáscsökkentő hatású, valamint védelmet nyújt a bőrnek a
-káros szabadgyökökkel szemben. Alkalmazd minden nap, megéri a törödés!
+káros szabad gyökökkel szemben. Alkalmazd minden nap, megéri a törődés!
 
 ## Arcpakolás és relax
 
 Alaposan tisztíts meg egy egészséges és érett burgonyát, majd vágd fel vékony
 szeletekre. Keress egy nyugis helyet és tedd fel a krumpli szeleteket a
-megtisztított arcodra és dekoltázsra kb.15-20 percre. A végén langyos vízzel
-öblítsd le a böröd és használj természetes alapanyagokból készült arcápolót.
+megtisztított arcodra és dekoltázsra kb. 15-20 percre. A végén langyos vízzel
+öblítsd le a bőröd és használj természetes alapanyagokból készült arcápolót.
 
 ## Fáradt, karikás szemekre
 
 Csodásan frissíti a fáradt, kipirosodott vagy gyulladt szemeket, halványítja a
-sötét karikákat és a szemkörüli halvány ráncokat. Csak dobj a szemekre egy-egy
+sötét karikákat és a szem körüli halvány ráncokat. Csak dobj a szemekre egy-egy
 krumpli karikát és lazulj velük 15-20 percet.
 
 ## Időhiányban
