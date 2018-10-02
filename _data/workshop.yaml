@@ -4,12 +4,6 @@ deposit: 4000
 price_desc: Részvételi díj
 events:
   -
-    date: 2018-09-30T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1132 Budapest, Visegrádi utca 6.
-  -
     date: 2018-10-14T09:00
     start: "9:00"
     end: "16:00"
