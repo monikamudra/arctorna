@@ -1,7 +1,7 @@
 ---
 title: Így ápolj szemöldököt szuper&nbsp;egyszerűen!
 image: /assets/images/posts/igy-apolj-szemoldokot.jpg
-description: Ahhoz, hogy a szemöldök szálai szépek és egészségesek legyenek, fontos azokat rendszeresen ápolni, éppúgy, mint a bőrt vagy a hajat. Ebben a posztban egy egyszerű tippet találsz a szemöldökök tökéletes ápolására.
+description: "Ahhoz, hogy a szemöldök szálai szépek és egészségesek legyenek, fontos azokat rendszeresen ápolni, éppúgy, mint a bőrt vagy a hajat. Ebben a posztban egy egyszerű tippet találsz a szemöldökök tökéletes ápolására."
 ---
 A szemöldökök formája, mérete és színe nagyban meghatározza az arc kinézetét, így érdemes időt szánni arra, hogy megtaláljuk a leginkább hozzánk passzoló fazont. De nemcsak a szemöldökök formázására érdemes odafigyelni, hanem fontos a szálak rendszeres ápolása is. Én kókuszolajat használok erre a célra, ami kiválóan hidratálja és ápolja az időnként össze-vissza álló, kiszáradt szemöldökeimet.
 
