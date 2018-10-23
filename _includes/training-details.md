@@ -4,11 +4,11 @@ három blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab egym
 alkalommal.
 
 A **kezdő blokkban** megtanuljuk az arctornához használt speciális technikákat,
-és ezek alkalmazásával felkészítjük az arcot a későbbi arcformázáshoz.
+és ezek alkalmazásával felkészítjük az izmokat a későbbi arcformázáshoz.
 
 A **középhaladó blokkban** tovább gyakoroljuk a már ismert technikákat,
-tökéletesítjük a gyakorlatokhoz szükséges takarásokat és haladó technikákat
-tanulunk.
+tökéletesítjük a gyakorlatokhoz szükséges speciális takarásokat, és haladó
+technikákat tanulunk.
 
 A **haladó blokkban** elkezdjük az arc formázását, és a problémás részekre
 koncentrálva végezzük a gyakorlatokat a teljes arcon és a nyakon.
