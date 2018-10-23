@@ -1,5 +1,5 @@
 ---
-title: Így hatástalanítsd a <span class="u-NoWrapWide">mimikai ráncokat!</span>
+title: Így hatástalanítsd a <span class="u-NoWrapWide">mimikai ráncokat</span>
 image: /assets/images/posts/igy-hatastalanitsd-a-mimikai-rancokat-social.jpg
 description: >-
   A gyakran használt mimikák idővel sajnos nyomot hagynak az arcon, melyek ráncok
