@@ -1,37 +1,41 @@
 <ul class="c-List">
   {% for event in include.data %}
-    <li class="c-List__Item">
-      <div class="c-Event">
+    {% capture now %}{{ 'now' | date: '%s' }}{% endcapture %}
+    {% capture eventdate %}{{ event.date | date: '%s' }}{% endcapture %}
+    {% if eventdate > now %}
+      <li class="c-List__Item">
+        <div class="c-Event">
 
-        <time class="c-Event__Date" datetime="{{ event.date | date_to_xmlschema }}">
-          <span class="c-Event__Month">{%- include month.html date = event.date -%}</span>
-          <span class="c-Event__Day">{{- event.date | date: "%e" -}}</span>
-          <span class="c-Event__DayOfWeek">{%-  include weekday.html date = event.date -%}</span>
-          <span class="c-Event__Time">{{ event.start }}{% if event.end %}–{{ event.end }}{% endif %}</span>
-        </time>
+          <time class="c-Event__Date" datetime="{{ event.date | date_to_xmlschema }}">
+            <span class="c-Event__Month">{%- include month.html date = event.date -%}</span>
+            <span class="c-Event__Day">{{- event.date | date: "%e" -}}</span>
+            <span class="c-Event__DayOfWeek">{%-  include weekday.html date = event.date -%}</span>
+            <span class="c-Event__Time">{{ event.start }}{% if event.end %}–{{ event.end }}{% endif %}</span>
+          </time>
 
-        <div class="c-Event__Details">
-          <div class="c-Event__Title">{{ event.title }}</div>
-          <address class="c-Event__Address">{{ event.address }}</address>
-          <div class="c-Event__Price">
-            {% assign price_desc = event.price_desc | default: include.price_desc %}
-            {% if price_desc %}
-              <span class="c-Event__PriceDesc">{{ price_desc }}</span>
+          <div class="c-Event__Details">
+            <div class="c-Event__Title">{{ event.title }}</div>
+            <address class="c-Event__Address">{{ event.address }}</address>
+            <div class="c-Event__Price">
+              {% assign price_desc = event.price_desc | default: include.price_desc %}
+              {% if price_desc %}
+                <span class="c-Event__PriceDesc">{{ price_desc }}</span>
+              {% endif %}
+              <strong class="u-NoWrap">{{ event.price | default: include.price }} Ft</strong>
+            </div>
+            {% if event.description %}
+              <div class="c-Event__Description">
+                {{ event.description | markdownify }}
+              </div>
             {% endif %}
-            <strong class="u-NoWrap">{{ event.price | default: include.price }} Ft</strong>
+            {% if event.link %}
+              <div class="c-Event__Link">
+                <a class="c-Link" href="{{ event.link }}">További infók</a>
+              </div>
+            {% endif %}
           </div>
-          {% if event.description %}
-            <div class="c-Event__Description">
-              {{ event.description | markdownify }}
-            </div>
-          {% endif %}
-          {% if event.link %}
-            <div class="c-Event__Link">
-              <a class="c-Link" href="{{ event.link }}">További infók</a>
-            </div>
-          {% endif %}
         </div>
-      </div>
-    </li>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
