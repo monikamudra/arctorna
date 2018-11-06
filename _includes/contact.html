@@ -3,11 +3,18 @@
     <h2>Kérdésed van?</h2>
     <div class="c-Article">
       <p class="u-MarginBottomZero">
-        Nézd meg a <a href="">Kérdések és válaszok</a> oldalt, ahol
-        összegyűjtöttem a válaszokat pár gyakori
-        kérdésre. További kérdéseidet és észrevételeidet emailben, a
-        <a href="mailto:{{ site.email }}?subject=Üzenet%20Móninak">{{ site.email }}</a>
-        címre várom!
+        {% if page.path != "kerdesek.md"  %}
+          Nézd meg a <a href="">Kérdések és válaszok</a> oldalt, ahol
+          összegyűjtöttem a válaszokat pár gyakori
+          kérdésre. További kérdéseidet és észrevételeidet emailben, a
+          <a href="mailto:{{ site.email }}?subject=Üzenet%20Móninak">{{ site.email }}</a>
+          címre várom!
+        {% else %}
+          Ha további kérdésed van, írj nekem a
+          <a href="mailto:{{ site.email }}?subject=Üzenet%20Móninak">{{ site.email }}</a>
+          címre!
+        {% endif %}
+
       </p>
     </div>
   </div>
