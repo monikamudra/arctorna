@@ -4,7 +4,7 @@
     {% capture eventdate %}{{ event.date | date: '%s' }}{% endcapture %}
     {% if eventdate > now %}
       <li class="c-List__Item">
-        <div class="c-Event">
+        <div class="c-Event{% if event.full %} c-Event--Full{% endif %}">
 
           <time class="c-Event__Date" datetime="{{ event.date | date_to_xmlschema }}">
             <span class="c-Event__Month">{%- include month.html date = event.date -%}</span>
@@ -19,10 +19,13 @@
             <div class="c-Event__Price">
               {% assign price_desc = event.price_desc | default: include.price_desc %}
               {% if price_desc %}
-                <span class="c-Event__PriceDesc">{{ price_desc }}</span>
+              <span class="c-Event__PriceDesc">{{ price_desc }}</span>
               {% endif %}
               <strong class="u-NoWrap">{{ event.price | default: include.price }} Ft</strong>
             </div>
+            {% if event.full %}
+              <div class="c-Event__Full">Megtelt</div>
+            {% endif %}
             {% if event.description %}
               <div class="c-Event__Description">
                 {{ event.description | markdownify }}

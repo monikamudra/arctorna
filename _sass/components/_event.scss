@@ -53,6 +53,16 @@
   font-size: font-size-em(1);
 }
 
+.c-Event__Full {
+  @include all-caps;
+  display: inline-block;
+  padding: .2em .7em .1em;
+  background-color: token("color-for", "text-secondary");
+  font-size: font-size-em(-2);
+  font-weight: bold;
+  color: color("white");
+}
+
 .c-Event__Description {
   margin-top: 1em;
   font-size: font-size-em(-1);
@@ -64,3 +74,7 @@
 }
 
 // .c-Event__PriceDesc {}
+
+.c-Event--Full {
+  opacity: .5;
+}
