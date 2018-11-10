@@ -30,6 +30,7 @@
 
 .c-Screen__Section--Misc {
   background-color: color("peach");
+  @include bg-polka-dots(color("peach"), $transparency: .3, $dotsize1: 25%, $dotsize2: 25%, $bgsize: 100px, $dark: false);
 }
 
 .c-Screen__Section--Inverse {

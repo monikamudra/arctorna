@@ -4,7 +4,7 @@
 
   background-color: $bgcolor;
   background-image: radial-gradient($color $dotsize1, transparent $dotsize1 + 1),
-  radial-gradient($color $dotsize2, transparent $dotsize2 + 1);
+                    radial-gradient($color $dotsize2, transparent $dotsize2 + 1);
   background-size: $bgsize $bgsize;
   background-position: 0 0, ($bgsize / 2) ($bgsize / 2);
 }

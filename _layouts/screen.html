@@ -3,19 +3,46 @@ layout: default
 ---
 
 <main class="c-Screen">
-
-  <section class="c-Screen__Section c-Screen__Section--Header c-Screen__Section--{{ page.header_style | default: 'Misc' }}">
+  <section class="c-Screen__Section c-Screen__Section--{{ page.header_style | default: 'Misc' }} {% unless page.header_image %}{% if page.incipit %}c-Screen__Section--HeaderWithIncipit{% else %}c-Screen__Section--Header{% endif %}{% endunless %}">
+    {% if page.header_image %}
+      <div class="c-ContentBlock--Stretched c-ContentBlock--Centered">
+        <img src="{{ page.header_image }}" srcset="{{ page.header_image }} 1x, {{ page.header_image_2x }} 2x" alt="Vidám arctornás lányok csoportja" style="{{ page.header_image_style }}" />
+      </div>
+    {% endif %}
     <div class="c-ContentBlock c-ContentBlock--Centered">
-      <h1 class="u-MarginBottomZero">{{ page.screen_title | default: page.title }}</h1>
+      <h1 class="{% unless page.intro %}u-MarginBottomZero{% endunless %}">
+        {% if page.incipit %}
+          <small>{{ page.incipit }}</small><br />
+        {% endif %}
+        {{ page.screen_title | default: page.title }}
+      </h1>
+      {% if page.intro and page.description %}
+      <p class="u-TextAlignLeft">
+        {{ page.description }}
+      </p>
+      {% endif %}
+      {% if page.button %}
+        <div class="u-MarginTopLarge">
+          <a class="c-Button" href="{{ page.button.link }}">{{ page.button.label }}</a>
+        </div>
+      {% endif %}
     </div>
   </section>
 
-  <section class="c-Screen__Section c-Screen__Section--Plain">
+  <section class="c-Screen__Section c-Screen__Section--{{ page.article_style | default: 'Plain' }}">
     <div class="c-ContentBlock">
+      {% if page.article_title %}
+        <h2>{{ page.article_title }}</h2>
+      {% endif %}
       <article class="c-Article">
         {{ content }}
       </article>
     </div>
+    {% if page.article_button %}
+      <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopXLarge">
+          <a class="c-Button" href="{{ page.article_button.link }}">{{ page.article_button.label }}</a>
+      </div>
+    {% endif %}
   </section>
 
   {% if page.sections.contact %}
@@ -25,4 +52,5 @@ layout: default
   {% if page.sections.newsletter %}
     {% include newsletter.html %}
   {% endif %}
+
 </main>
