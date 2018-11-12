@@ -26,6 +26,10 @@ melyet kérek szépen előre átutalni. A fennmaradó összeget a workshopon kel
 fizetni. (Az átutaláshoz szükséges adatokat a jelentkezés után, emailben fogom
 elküldeni.)
 
+### Ajándékba szeretném adni a workshopot – van&nbsp;erre&nbsp;lehetőség?
+
+Igen! A  <a href="{{ site.baseurl }}{% link ajandek.md %}" class="c-Link">workshop ajándékutalvány</a> szuper ajándék. :)
+
 ### Van lehetőség magán workshopra?
 
 Igen, személyesen és online is.

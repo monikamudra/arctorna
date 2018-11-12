@@ -40,6 +40,11 @@ de még nem vagy biztos az időpontban.
 
 Az utalvány ára 12000&nbsp;Ft, pont mint a workshop.
 
+### Magamat is meglephetem ajándékutalvánnyal?
+
+Persze. :) És ez egy szuper lehetőség arra, hogy elkötelezd magad a workshop
+mellett, ha az időpont még nem dőlt el.
+
 ### Hogyan tudok vásárolni?
 
 Az ajándékutalványt átutalással tudod megvásárolni. Az ehhez szükséges
