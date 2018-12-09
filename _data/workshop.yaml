@@ -4,19 +4,6 @@ deposit: 4000
 price_desc: Részvételi díj
 events:
   -
-    date: 2018-12-01T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1132 Budapest, Visegrádi utca 6.
-    full: true
-  -
-    date: 2018-12-09T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address:  Pagony&nbsp;Könyvesbolt<br />1114 Budapest, Bartók Béla út 5.
-  -
     date: 2019-1-12T10:00
     start: "10:00"
     end: "14:00"
