@@ -1,6 +1,6 @@
 ---
 date: 2018-12-10 18:00:00
-title: Holisztikus szépség
+title: Holisztikus szépség cikksorozat
 image: /assets/images/posts/holisztikus-szepseg.jpg
 description: >-
   Vajon mi jut eszünkbe akkor, amikor a szépségre gondolunk? Milyen eszközöket választunk saját szépülésünkhöz?
