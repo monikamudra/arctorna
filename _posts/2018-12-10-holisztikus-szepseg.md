@@ -3,9 +3,9 @@ date: 2018-12-10 18:00:00
 title: Holisztikus szépség cikksorozat
 image: /assets/images/posts/holisztikus-szepseg.jpg
 description: >-
-  Vajon mi jut eszünkbe akkor, amikor a szépségre gondolunk? Milyen eszközöket választunk saját szépülésünkhöz?
-  Hogyan kerülnek a különálló elemek harmóniába, és vajon hogyan formálódnak ezek egy teljes egésszé? Mi az igazi
-  szépség titkos receptje?
+  Vajon mi az igazi szépség titkos receptje? 
+  Mi jut eszünkbe akkor, amikor a szépségre gondolunk? Milyen eszközöket választunk saját szépülésünkhöz?
+  Hogyan kerülnek a különálló elemek harmóniába, és vajon hogyan formálódnak ezek egy teljes egésszé? 
 ---
 
 Amikor a "holisztikus" szóval találkozunk, általában az a gyógyítási szemlélet jut először eszünkbe,
