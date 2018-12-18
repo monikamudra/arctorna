@@ -14,22 +14,23 @@ kísérletezni ezért időnként más-más alapanyagot használok. Nekem ez a re
 vált be eddig a legjobban, amit most megosztok veletek is.
 
 *   1 ek sheavaj vagy kókuszolaj
-*   1 ek mandulaolaj
-*   1 ek méhviasz
+*   1 ek vadrózsaolaj
+*   1/2 ek jojóbaolaj
+*   1/2 ek méhviasz
 *   2-3 csepp E-vitamin olaj
 *   2-3 csepp borsmenta illóolaj
 *   vagy 4-5 csepp levendula vagy citrom illóolaj
-*   1 tiszta tégely tárolásra
-
-Ha színes ajakbalzsamot szeretnél, akkor tegyél a keverékbe természetes
-színezéket, mint például gyümölcsport, pirospaprikát, étcsokit vagy bármilyen
-természetes ételfestéket.
+*   1-2 kisebb tiszta tégely tárolásra
 
 ## Elkészítés
 
 Olvaszd meg gőz fölött a méhviaszt és a sheavajat. (Figyelj arra, hogy ne
 hevítsd túl az olajokat, mert magas hőmérsékleten elvesznek az értékes
-hatóanyagok.) Keverd hozzá a mandulaolajat, az E-vitamint és az illóolajat, majd
-öntsd az egészet a tégelybe. Tedd félre és hagyd, hogy teljesen megszilárduljon!
+hatóanyagok.) Keverd hozzá a jojóbaolajat, a vadrózsaolajat, az E-vitamint és a választott illóolajat, majd
+öntsd az egészet tégelybe. Tedd félre és hagyd, hogy megszilárduljon!
 
-Próbáld ki!
+Ha színes ajakbalzsamot szeretnél, akkor tegyél a keverékbe természetes
+színezéket, mint például gyümölcsport, pirospaprikát, étcsokit vagy bármilyen
+természetes ételfestéket.
+
+Érdemes kipróbálni!
