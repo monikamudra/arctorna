@@ -3,6 +3,18 @@ price: 12000
 deposit: 4000
 price_desc: Részvételi díj
 events:
+# -
+#   date: 2019-5-12-T10:00
+#   start: "10:00"
+#   end: "14:00"
+#   title: Arctorna Workshop
+#   address: 1132 Budapest, Visegrádi utca 6.
+#   price: 12000
+#   price_desc: Részvételi díj
+#   full: true
+#   link: "https://link.to/the-event"
+#   description: >-
+#     Arctorna workshop Mónival
   -
     date: 2019-1-20T10:00
     start: "10:00"
