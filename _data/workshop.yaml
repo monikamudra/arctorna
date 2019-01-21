@@ -16,12 +16,6 @@ events:
 #   description: >-
 #     Arctorna workshop Mónival
   -
-    date: 2019-1-20T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1132 Budapest, Visegrádi utca 6.
-  -
     date: 2019-1-27T09:00
     start: "9:00"
     end: "16:00"
