@@ -64,7 +64,9 @@
 
 @include token(
   "radius", (
-    "default": 2px
+    "default": 2px,
+    "medium": 10px,
+    "large": 20px,
   )
 );
 

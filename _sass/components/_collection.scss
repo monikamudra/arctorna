@@ -1,6 +1,6 @@
 @include token(
   "c-Collection", (
-    "space": space-rem(1)
+    "space": space-rem(1.5)
   )
 );
 
@@ -32,7 +32,7 @@
 }
 
 .c-Collection--Contoured {
-  $box-padding: space-rem(1);
+  $box-padding: space-rem(1.5);
   $box-margin: space-rem(.5);
 
   @include break($from: 600px) {
@@ -46,7 +46,7 @@
       margin: $box-margin;
       padding: $box-padding;
       border: token("border", "thick-subtle");
-      border-radius: token("radius", "default");
+      border-radius: token("radius", "large");
     }
     @include break($from: "medium") {
       width: calc(33.33% - #{$box-margin * 2});
@@ -59,6 +59,7 @@
     @include break($from: 600px) {
       border: none;
       background-color: token("color-for", "background-alt");
+      border-radius: token("radius", "medium");
     }
   }
 }
