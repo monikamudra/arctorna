@@ -1,5 +1,53 @@
 registration_link: https://arctornaworkshop.typeform.com/to/N9N1Sb
+address: 1032 Budapest, San Marco utca
 price: 35000
 deposit: 10000
 private_price: 59000
 price_desc: A 10 alkalmas blokk ára
+events:
+  - date: 2019-2-11T09:00
+    start: "9:00"
+    end: "10:00"
+    title: Kezdő Arctorna Tréning – Délelőtti&nbsp;csoport
+    classes:
+      -
+        day: hétfő
+        time: "9:00"
+      -
+        day: kedd
+        time: "17:00"
+        alt: true
+      -
+        day: csütörtök
+        time: "9:00"
+      -
+        day: péntek
+        time: "16:30"
+        alt: true
+    description: >-
+      Az órák hétfőn és csütörtökön délelőtt vannak. Ha ez időnként nem lenne
+      alkalmas, lehetőség van a kedd vagy péntek délutáni órákon való részvételre.
+
+  - date: 2019-2-12T017:00
+    start: "17:00"
+    end: "18:00"
+    title: Kezdő Arctorna Tréning – Délutáni&nbsp;csoport
+    classes:
+      -
+        day: hétfő
+        time: "9:00"
+        alt: true
+      -
+        day: kedd
+        time: "17:00"
+      -
+        day: csütörtök
+        time: "9:00"
+        alt: true
+      -
+        day: péntek
+        time: "16:30"
+    description: >-
+      Az órák kedden és pénteken délután vannak. Ha ez időnként nem lenne
+      alkalmas, lehetőség van a hétfő vagy csütörtök délelőtti órákon
+      való részvételre.

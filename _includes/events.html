@@ -15,7 +15,9 @@
 
           <div class="c-Event__Details">
             <div class="c-Event__Title">{{ event.title }}</div>
-            <address class="c-Event__Address">{{ event.address }}</address>
+
+            <address class="c-Event__Address">{{ event.address | default: include.address }}</address>
+
             <div class="c-Event__Price">
               {% assign price_desc = event.price_desc | default: include.price_desc %}
               {% if price_desc %}
@@ -23,12 +25,26 @@
               {% endif %}
               <strong class="u-NoWrap">{{ event.price | default: include.price }} Ft</strong>
             </div>
+
             {% if event.full %}
               <div class="c-Event__Full">Megtelt</div>
             {% endif %}
-            {% if event.description %}
+
+            {% if event.classes %}
+              <div class="u-MarginTop">
+                {% for class in event.classes %}
+                  <div class="c-Class{% if class.alt %} c-Class--Alt{% endif %}{% if class.alt %} u-Hint{% endif %}" {% if class.alt %}title="Alternatív lehetőség"{% endif %}>
+                    <span class="c-Class__Day">{{ class.day }}</span>
+                    <span class="c-Class__Time">{{ class.time }}</span>
+                  </div>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+            {% assign description = event.description | default: include.description %}
+            {% if description %}
               <div class="c-Event__Description">
-                {{ event.description | markdownify }}
+                {{ description | markdownify }}
               </div>
             {% endif %}
             {% if event.link %}

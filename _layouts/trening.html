@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign data = site.data.info %}
+{% assign data = site.data.training %}
 
 <main class="c-Screen">
   <section class="c-Screen__Section c-Screen__Section--HeaderWithIncipit c-Screen__Section--Training">
@@ -39,21 +39,30 @@ layout: default
         alt="Szép, magabiztos, elégedett és vidám arctornázó lányok csoportja" style="width: 100%; max-width: 450px;">
     </div>
   </section>
-  <section class="c-Screen__Section c-Screen__Section--Plain" id="regisztracio">
+  <section class="c-Screen__Section c-Screen__Section--Alt" id="regisztracio">
     <div class="c-ContentBlock">
-      <h2>Jelentkezés</h2>
+      <h2>Időpontok és jelentkezés</h2>
     </div>
-    <div class="c-ContentBlock">
+    <div class="c-ContentBlock u-MarginTopXLarge">
+      {% include events.html
+        data = data.events
+        price = data.price
+        price_desc = data.price_desc
+        address = data.address
+        description = data.description
+      %}
+    </div>
+    <div class="c-ContentBlock u-MarginTop">
       <div class="c-Article">
         <p>
-          Kezdő tréning csoportok havonta indulnak, a kezdés és az edzések
-          időpontja rugalmas. Ha szeretnél jönni, kérlek regisztrálj, és jelöld
-          be a számodra legalkalmasabb időpontokat.
+          Ha nem találsz alkalmas időpontot, de szeretnél jönni, regisztrálj a
+          "más&nbsp;időpont" opcióval! Igény szerint folyamatosan
+          indítok tréning&nbsp;csoportokat.
         </p>
       </div>
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
-        <a class="c-Button" href="{{ site.data.training.registration_link }}">Regisztrálok</a>
+        <a class="c-Button" href="{{ data.registration_link }}">Regisztrálok</a>
     </div>
   </section>
   <section id="workshop" class="c-Screen__Section c-Screen__Section--Workshop u-PaddingTop">

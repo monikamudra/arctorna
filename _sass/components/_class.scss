@@ -1,0 +1,24 @@
+.c-Class {
+  display: inline-flex;
+  flex-direction: column;
+  font-size: font-size-em(-2);
+  text-align: center;
+}
+
+.c-Class__Day {
+  margin-bottom: .3em;
+  padding-top: .1em;
+  padding-bottom: .1em;
+  padding-left: .5em;
+  padding-right: .5em;
+  background-color: color("grey");
+  color: color("white");
+}
+
+
+// Modifiers
+// ---------
+
+.c-Class--Alt {
+  opacity: .3;
+}
