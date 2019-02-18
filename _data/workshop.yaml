@@ -29,8 +29,20 @@ events:
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
   -
+   date: 2019-3-30T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 2117 Isaszeg, Dósza György utca 2.
+  -
     date: 2019-4-6T10:00
     start: "10:00"
     end: "14:00"
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
+    -
+    date: 2019-4-7T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 2120 Dunakeszi, Fóti út 69.
