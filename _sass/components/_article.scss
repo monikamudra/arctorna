@@ -152,4 +152,8 @@
     color: token("color-for", "text-secondary");
   }
 
+  hr {
+    border: none;
+    border-bottom: token("border", "default");
+  }
 }
