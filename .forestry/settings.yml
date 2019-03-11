@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/workshop.yaml
   label: Workshops
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
