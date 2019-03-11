@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/workshop.yaml
-  label: Workshops
 - type: jekyll-posts
   label: Posts
   create: all
