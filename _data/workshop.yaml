@@ -16,12 +16,6 @@ events:
 #   description: >-
 #     Arctorna workshop Mónival
   -
-    date: 2019-3-30T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 2117 Isaszeg, Dózsa György utca 2.
-  -
     date: 2019-4-6T10:00
     start: "10:00"
     end: "14:00"
