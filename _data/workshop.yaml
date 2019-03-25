@@ -34,3 +34,15 @@ events:
     title: Arctorna Workshop
     address: 8000 Székesfehérvár, Ond utca 2.
   -
+    date: 2019-5-5T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1132 Budapest, Visegrádi utca 6.
+  -
+    date: 2019-6-2T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1132 Budapest, Visegrádi utca 6.
+  -
