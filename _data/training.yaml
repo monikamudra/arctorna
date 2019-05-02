@@ -5,50 +5,16 @@ deposit: 10000
 private_price: 59000
 price_desc: A 10 alkalmas blokk ára
 events:
-  - date: 2019-4-8T12:00
+  - date: 2019-5-20T012:00
     start: "12:00"
     end: "13:00"
-    title: Kezdő Arctorna Tréning – Délelőtti&nbsp;csoport
+    title: Kezdő Arctorna Tréning
     classes:
       -
         day: hétfő
         time: "12:00"
-      -
-        day: kedd
-        time: "15:30"
-        alt: true
       -
         day: csütörtök
         time: "10:00"
-      -
-        day: csütörtök
-        time: "16:30"
-        alt: true
     description: >-
-      Az órák hétfőn és csütörtökön délelőtt vannak. Ha ez időnként nem lenne
-      alkalmas, lehetőség van a kedd vagy csütörtök délutáni órákon
-      való részvételre.
-
-  - date: 2019-4-9T015:30
-    start: "15:30"
-    end: "16:30"
-    title: Kezdő Arctorna Tréning – Délutáni&nbsp;csoport
-    classes:
-      -
-        day: hétfő
-        time: "12:00"
-        alt: true
-      -
-        day: kedd
-        time: "15:30"
-      -
-        day: csütörtök
-        time: "1ö:00"
-        alt: true
-      -
-        day: csütörtök
-        time: "16:30"
-    description: >-
-      Az órák kedden és csütörtökön délután vannak. Ha ez időnként nem lenne
-      alkalmas, lehetőség van a hétfő vagy csütörtök délelőtti órákon
-      való részvételre.
+      Az órák hétfőn és csütörtökön vannak.
