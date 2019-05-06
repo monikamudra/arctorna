@@ -11,7 +11,7 @@ events:
 #   address: 1132 Budapest, Visegrádi utca 6.
 #   price: 12000
 #   price_desc: Részvételi díj
-#   currency: euró
+#   currency: Euro
 #   full: true
 #   link: "https://link.to/the-event"
 #   description: >-
