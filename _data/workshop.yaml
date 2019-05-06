@@ -36,7 +36,7 @@ events:
     address: 1050 Bécs, Wimmergasse 31.
     price: 80
     currency: Euro
--
+  -
     date: 2019-7-13T10:00
     start: "10:00"
     end: "14:00"
