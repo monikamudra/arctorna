@@ -23,7 +23,7 @@
               {% if price_desc %}
               <span class="c-Event__PriceDesc">{{ price_desc }}</span>
               {% endif %}
-              <strong class="u-NoWrap">{{ event.price | default: include.price }} Ft</strong>
+              <strong class="u-NoWrap">{{ event.price | default: include.price }} {{ event.currency | default: "Ft" }}</strong>
             </div>
 
             {% if event.full %}
