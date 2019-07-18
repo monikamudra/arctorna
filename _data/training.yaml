@@ -5,16 +5,16 @@ deposit: 10000
 private_price: 59000
 price_desc: A 10 alkalmas blokk ára
 events:
-  - date: 2019-5-20T012:00
-    start: "12:00"
-    end: "13:00"
+  - date: 2019-9-10T09:30
+    start: "9:30"
+    end: "10:30"
     title: Kezdő Arctorna Tréning
     classes:
       -
-        day: hétfő
-        time: "12:00"
+        day: kedd
+        time: "9:30"
       -
         day: csütörtök
         time: "10:00"
     description: >-
-      Az órák hétfőn és csütörtökön vannak.
+      Az órák kedden és csütörtökön vannak.
