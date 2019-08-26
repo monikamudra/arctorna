@@ -22,7 +22,7 @@ events:
     end: "18:00"
     title: Arctorna Workshop
     address: 8000 Székesfehérvár, Ond utca 2.
-    full: false
+    full: true
   -
     date: 2019-9-14T10:00
     start: "10:00"
