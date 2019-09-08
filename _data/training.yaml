@@ -8,6 +8,7 @@ events:
   - date: 2019-9-10T09:30
     start: "9:30"
     end: "10:30"
+    full: true
     title: Kezdő Arctorna Tréning – délelőtti&nbsp;csoport
     classes:
       -
