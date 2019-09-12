@@ -26,8 +26,7 @@ kötetlenül bármikor edzhetsz velünk tovább.
 
 ### Hány vagyunk a tréningen?
 
-Egy csoportban maximum 5-en vehetnek részt, mert nagyon fontos számomra, hogy
-mindenkire kellő figyelem jusson.
+Egy csoportban maximum hárman vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson.
 
 ### Ki vehet részt a tréningen?
 
