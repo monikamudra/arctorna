@@ -17,13 +17,6 @@ events:
 #   description: >-
 #     Arctorna workshop Mónival
   -
-    date: 2019-9-14T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1132 Budapest, Visegrádi utca 6.
-    full: true
-  -
     date: 2019-9-28T10:00
     start: "10:00"
     end: "14:00"
@@ -43,7 +36,7 @@ events:
     end: "14:00"
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
-    full: false
+    full: true
   -
     date: 2019-10-20T10:00
     start: "10:00"
@@ -59,9 +52,16 @@ events:
     address: 1132 Budapest, Visegrádi utca 6.
     full: false
   -
-    date: 2019-11-16T10:00
+    date: 2019-11-16T14:00
     start: "14:00"
     end: "18:00"
     title: Arctorna Workshop
     address: 8000 Székesfehérvár, Ond utca 2.
+    full: false
+  -
+    date: 2019-11-23T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1132 Budapest, Visegrádi utca 6.
     full: false
