@@ -36,7 +36,7 @@ events:
     end: "14:00"
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
-    full: true
+    full: false
   -
     date: 2019-10-20T10:00
     start: "10:00"
@@ -50,7 +50,7 @@ events:
     end: "14:00"
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
-    full: true
+    full: false
   -
     date: 2019-11-16T14:00
     start: "14:00"
