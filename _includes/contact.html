@@ -3,18 +3,17 @@
     <h2>Kérdésed van?</h2>
     <div class="c-Article">
       <p class="u-MarginBottomZero">
-        {% if page.path != "kerdesek.md"  %}
+        {% if page.path == "kerdesek.md" or include.type == "basic"  %}
+          Ha további kérdésed van, írj nekem a
+          <a href="mailto:{{ site.email }}?subject=Üzenet%20Móninak">{{ site.email }}</a>
+          címre!
+        {% else %}
           Nézd meg a <a href="{{ site.baseurl }}{% link kerdesek.md %}">Kérdések és válaszok</a> oldalt, ahol
           összegyűjtöttem a válaszokat pár gyakori
           kérdésre. További kérdéseidet és észrevételeidet emailben, a
           <a href="mailto:{{ site.email }}?subject=Üzenet%20Móninak">{{ site.email }}</a>
           címre várom!
-        {% else %}
-          Ha további kérdésed van, írj nekem a
-          <a href="mailto:{{ site.email }}?subject=Üzenet%20Móninak">{{ site.email }}</a>
-          címre!
         {% endif %}
-
       </p>
     </div>
   </div>

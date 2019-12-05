@@ -23,7 +23,7 @@ article_button:
   label: "Jövök"
   link: ""
 sections:
-  contact: true
+  contact: "basic"
   newsletter: true
   header: true
 ---
