@@ -16,12 +16,12 @@ header_image_2x: "/assets/images/szepsegtabor@2x.jpg"
 header_image_style: "width: 100%; max-width: 600px; margin-top: 10px; margin-bottom: 0;"
 button:
   label: "Jövök"
-  link: ""
+  link: "https://mmonika.typeform.com/to/lQbxXZ"
 article_title: Részletek
 article_style: "Plain"
 article_button:
   label: "Jövök"
-  link: ""
+  link: "https://mmonika.typeform.com/to/lQbxXZ"
 sections:
   contact: "basic"
   newsletter: true
