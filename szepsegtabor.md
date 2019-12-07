@@ -13,7 +13,7 @@ header_style: "Plain"
 image: "/assets/images/szepsegtabor-social.jpg"
 header_image: "/assets/images/szepsegtabor.jpg"
 header_image_2x: "/assets/images/szepsegtabor@2x.jpg"
-header_image_style: "width: 100%; max-width: 600px; margin-top: 10px; margin-bottom: 0;"
+header_image_style: "width: 100%; max-width: 800px; margin-top: 10px; margin-bottom: 0;"
 button:
   label: "Jövök"
   link: "https://mmonika.typeform.com/to/lQbxXZ"
