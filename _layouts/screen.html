@@ -45,6 +45,14 @@ layout: default
     {% endif %}
   </section>
 
+  {% if page.sections.workshop %}
+    {% include workshop.html text = page.sections.workshop_text %}
+  {% endif %}
+
+  {% if page.sections.training %}
+    {% include training.html text = page.sections.training_text %}
+  {% endif %}
+
   {% if page.sections.contact %}
     {% include contact.html type = page.sections.contact %}
   {% endif %}

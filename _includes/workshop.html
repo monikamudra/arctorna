@@ -1,0 +1,21 @@
+<section id="workshop" class="c-Screen__Section c-Screen__Section--Workshop u-PaddingTop">
+  <div class="c-ContentBlock c-ContentBlock--Centered">
+    <h2>
+      <small>Arctorna</small>
+      <br /> Workshop
+    </h2>
+    <p class="u-TextAlignLeft">
+      {% if include.text %}
+        {{ include.text }}
+      {% else %}
+        Ha még nem ismered az arctornát, gyere el a következő workshopra, ahol
+        négy órában egy szuper hasznos bevezetést kapsz az arc izmainak módszeres
+        edzésébe. A tanultak segítségével képes leszel feszesen tartani a teljes
+        arcod és nyakad.
+      {% endif %}
+    </p>
+    <div class="u-MarginTopLarge">
+      <a href="{{ site.baseurl }}{% link workshop.md %}" class="c-Button">Workshop</a>
+    </div>
+  </div>
+</section>

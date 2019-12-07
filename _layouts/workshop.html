@@ -1,5 +1,12 @@
 ---
 layout: default
+training_text:
+  Ha igazán komolyan gondolod az arctornát, és a lehető leggyorsabban
+  szeretnél fejlődni, csatlakozz a következő arctorna tréning csoporthoz!
+  A tréning során maximális figyelmet és támogatást kapsz, hogy az
+  arcodhoz szabott gyakorlatokkal a leghamarabb elérhesd a kívánt
+  eredményt. A tréning végére egy életre szóló arcfiatalító tudás
+  birtokába jutsz.
 ---
 
 <main class="c-Screen">
@@ -67,28 +74,8 @@ layout: default
       </ul>
     </div>
   </section>
-  <section id="trening" class="c-Screen__Section c-Screen__Section--Training u-PaddingTop">
-    <div class="c-ContentBlock c-ContentBlock--Centered">
-      <h2>
-        <small><span class="u-AllCaps">Komplett</span> Arctorna</small>
-        <br /> Tréning
-        <sup>
-          <small>®</small>
-        </sup>
-      </h2>
-      <p class="u-TextAlignLeft">
-        Ha igazán komolyan gondolod az arctornát, és a lehető leggyorsabban
-        szeretnél fejlődni, csatlakozz a következő arctorna tréning csoporthoz!
-        A tréning során maximális figyelmet és támogatást kapsz, hogy az
-        arcodhoz szabott gyakorlatokkal a leghamarabb elérhesd a kívánt
-        eredményt. A tréning végére egy életre szóló arcfiatalító tudás
-        birtokába jutsz.
-      </p>
-      <div class="u-MarginTopLarge">
-        <a href="{{ site.baseurl }}{% link trening.md %}" class="c-Button">Tréning</a>
-      </div>
-    </div>
-  </section>
+
+  {% include training.html text = layout.training_text %}
 
   {% include contact.html %}
 
