@@ -28,18 +28,21 @@ elküldeni.)
 
 ### Ajándékba szeretném adni a workshopot – van&nbsp;erre&nbsp;lehetőség?
 
-Igen! A  <a href="{{ site.baseurl }}{% link ajandek.md %}" class="c-Link">workshop ajándékutalvány</a> szuper ajándék. :)
+Igen! A  [workshop ajándékutalvány][utalvany] szuper ajándék. :)
 
 ### Van lehetőség magán workshopra?
 
 Igen, személyesen és online is.
-Kérlek írj a <a href="mailto:moni@arctornamonival.hu">moni@arctornamonival.hu</a>
+Kérlek írj a [moni@arctornamonival.hu][email]
 email címre, és megbeszéljük&nbsp;a&nbsp;részleteket!
 
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
 
-Igen, a
-<a href="{{ site.baseurl }}{% link trening.md %}">
-  Komplett Arctorna Tréninggel
-</a> gyorsabban érhetsz el eredményeket. De a workshop kiváló bevezető
+Igen, a [Komplett Arctorna Tréninggel][trening]
+gyorsabban érhetsz el eredményeket. De a workshop kiváló bevezető
 a tréninghez.
+
+
+[utalvany]: {{ site.baseurl }}{% link ajandek.md %}
+[trening]: {{ site.baseurl }}{% link trening.md %}
+[email]: mailto:moni@arctornamonival.hu

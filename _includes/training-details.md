@@ -32,7 +32,7 @@ Egy csoportban maximum hárman vehetnek részt, mert nagyon fontos számomra, ho
 
 A tréninget 65 éves korig bárki elkezdheti, akinek egészséges az arca. Van
 néhány kizáró ok amivel nem lehet arctornázni, erről
-<a href="{{ site.baseurl }}{% link kerdesek.md %}">itt találsz tájékoztatót</a>.
+[itt találsz tájékoztatót][kerdesek].
 
 ### Mennyibe kerül és hogyan kell fizetni?
 
@@ -46,5 +46,9 @@ a jelentkezés után, emailben fogom elküldeni.)
 
 Igen, személyesen és online is. 10 alkalom
 <span class="u-NoWrap">ára {{ site.data.training.private_price }}&nbsp;Ft.</span>
-Kérlek írj a <a href="mailto:moni@arctornamonival.hu">moni@arctornamonival.hu</a>
+Kérlek írj a [moni@arctornamonival.hu][email]
 email címre, és megbeszéljük&nbsp;a&nbsp;részleteket!
+
+
+[kerdesek]: {{ site.baseurl }}{% link kerdesek.md %}
+[email]: mailto:moni@arctornamonival.hu
