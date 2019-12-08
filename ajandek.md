@@ -19,7 +19,7 @@ button:
   label: "Vásárolni szeretnék"
   link: "https://arctornaworkshop.typeform.com/to/iLMywG"
 article_title: Részletek
-article_style: "Alt"
+article_style: "Plain"
 article_button:
   label: "Vásárolni szeretnék"
   link: "https://arctornaworkshop.typeform.com/to/iLMywG"
