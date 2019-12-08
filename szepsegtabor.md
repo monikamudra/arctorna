@@ -30,7 +30,7 @@ sections:
   header: true
 ---
 
-Egy különleges meglepetéssel készültem nektek, elkötelezett arctornásonak. Kitaláltam egy olyan programot, ahol az arctorna mellé segítségül hívok néhány olyan technikát, amelyek szintén hozzájárulnak a ragyogó szépséghez. Ezért meghívtam két szakembert, akikkel közösen összeállítottunk egy egyedülálló, a természetes szépséget támogató programot. Az intenzív hosszú hétvégén egyéni és kiscsoportos foglalkozások is lesznek, és ebben a három napban minden a szépségedet szolgálja. Hogy mi mindent fogunk együtt&nbsp;csinálni?
+Egy különleges meglepetéssel készültem nektek, elkötelezett arctornásoknak. Kitaláltam egy olyan programot, ahol az arctorna mellé segítségül hívok néhány olyan technikát, amelyek szintén hozzájárulnak a ragyogó szépséghez. Ezért meghívtam két szakembert, akikkel közösen összeállítottunk egy egyedülálló, a természetes szépséget támogató programot. Az intenzív hosszú hétvégén egyéni és kiscsoportos foglalkozások is lesznek, és ebben a három napban minden a szépségedet szolgálja. Hogy mi mindent fogunk együtt&nbsp;csinálni?
 
 ## Arctorna turbósítva
 
