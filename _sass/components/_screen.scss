@@ -57,11 +57,23 @@
     content: '';
     display: block;
     width: 200px;
-    height: 35px;
+    height: 25px;
     position: absolute;
-    left: -50px;
-    top: 10px;
+    left: -60px;
+    top: 0px;
     background-color: color("pink");
     transform: rotate(-45deg);
+
+    @include break($from: 500px) {
+      height: 35px;
+      left: -50px;
+      top: 10px;
+    }
+
+    @include break($from: 'medium') {
+      height: 45px;
+      left: -50px;
+      top: 10px;
+    }
   }
 }
