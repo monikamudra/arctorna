@@ -30,7 +30,7 @@
 
 .c-Screen__Section--Misc {
   background-color: color("peach");
-  @include bg-polka-dots(color("peach"), $transparency: .3, $dotsize1: 25%, $dotsize2: 25%, $bgsize: 100px, $dark: false);
+  @include bg-polka-dots(color("peach"), $transparency: .4, $dotsize1: 10%, $dotsize2: 10%, $bgsize: 100px, $dark: false);
 }
 
 .c-Screen__Section--Inverse {
@@ -48,4 +48,9 @@
 
 .c-Screen__Section--Training {
   background-color: token("color", "purple");
+}
+
+.c-Screen__Section--Ajandek {
+  background-color: token("color-for", "background-alt");
+  @include bg-polka-dots(token("color-for", "background-alt"), $transparency: .4, $dotsize1: 10%, $dotsize2: 10%, $bgsize: 100px, $dark: false);
 }
