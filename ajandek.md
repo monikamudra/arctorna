@@ -5,8 +5,8 @@ title: Ajándékutalvány - Arctorna Workshop
 screen_title: Ajándékozz szépséget!
 description: >-
   Lepd meg Arctorna Workshop ajándékutalvánnyal azokat, akik számodra igazán
-  fontosak! Mi lehet értékesebb ajándék, mint egy életre szóló tudás?
-  Egy palack az örök fiatalság vizéből. ;)
+  fontosak! Mi lehet értékesebb ajándék, mint egy életre szóló tudás,
+  és egy palack az örök fiatalság vizéből? ;)
 
 intro: true
 header_style: "Plain"
