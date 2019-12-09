@@ -29,7 +29,6 @@
 }
 
 .c-Screen__Section--Misc {
-  background-color: color("peach");
   @include bg-polka-dots(color("peach"), $transparency: .4, $dotsize1: 10%, $dotsize2: 10%, $bgsize: 100px, $dark: false);
 }
 
@@ -51,6 +50,18 @@
 }
 
 .c-Screen__Section--Ajandek {
-  background-color: token("color-for", "background-alt");
   @include bg-polka-dots(token("color-for", "background-alt"), $transparency: .4, $dotsize1: 10%, $dotsize2: 10%, $bgsize: 100px, $dark: false);
+  position: relative;
+
+  &::after {
+    content: '';
+    display: block;
+    width: 200px;
+    height: 35px;
+    position: absolute;
+    left: -50px;
+    top: 10px;
+    background-color: color("pink");
+    transform: rotate(-45deg);
+  }
 }
