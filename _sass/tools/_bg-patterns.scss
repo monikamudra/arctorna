@@ -3,8 +3,8 @@
   $color: if($dark, rgba(0,0,0, $transparency), rgba(255,255,255, $transparency));
 
   background-color: $bgcolor;
-  background-image: radial-gradient($color $dotsize1, transparent $dotsize1 + 1),
-                    radial-gradient($color $dotsize2, transparent $dotsize2 + 1);
+  background-image: radial-gradient($color $dotsize1, rgba(255,255,255,0.0001) $dotsize1 + 1),
+                    radial-gradient($color $dotsize2, rgba(255,255,255,0.0001) $dotsize2 + 1);
   background-size: $bgsize $bgsize;
   background-position: 0 0, ($bgsize / 2) ($bgsize / 2);
 }
