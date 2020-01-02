@@ -23,6 +23,7 @@ events:
   - date: 2020-1-21T16:00
     start: "16:00"
     end: "17:00"
+    full: true
     title: Kezdő Arctorna Tréning – délutáni&nbsp;csoport
     classes:
       -
