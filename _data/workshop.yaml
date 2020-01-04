@@ -45,6 +45,13 @@ events:
     address: 1132 Budapest, Visegrádi utca 6.
     full: true
   -
+    date: 2020-1-26T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1132 Budapest, Visegrádi utca 6.
+    full: false
+  -
     date: 2020-2-1T10:00
     start: "10:00"
     end: "14:00"
