@@ -70,7 +70,7 @@ Erre a három napra **kizárólag** azok jelentkezését várom, akik jártak m�
 
 ## Jelentkezés
 
-Jelentkezni 35000&nbsp;Ft előleg befizetésével 2020 január 15-ig lehet. A fennmaradó összeget február 22-ig kérjük befizetni.
+Jelentkezni 35000&nbsp;Ft előleg befizetésével **2020 január 31-ig** lehet. A fennmaradó összeget február 22-ig kérjük befizetni.
 
 **A részvétel feltétele a legalább egyszeri [Arctorna workshop][workshop] vagy a teljes arctorna tréning elvégzése.**
 
