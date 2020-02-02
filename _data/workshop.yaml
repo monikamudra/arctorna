@@ -1,5 +1,5 @@
 registration_link: https://arctornaworkshop.typeform.com/to/QomnAM
-price: 12000
+price: 15000
 deposit: 4000
 price_desc: Részvételi díj
 events:
@@ -16,13 +16,7 @@ events:
 #   link: "https://link.to/the-event"
 #   description: >-
 #     Arctorna workshop Mónival
-  -
-    date: 2020-2-1T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1132 Budapest, Visegrádi utca 6.
-    full: true
+ 
   -
     date: 2020-2-15T10:00
     start: "10:00"
@@ -30,6 +24,7 @@ events:
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
     full: false
+    price: 12000
   -
     date: 2020-2-29T10:00
     start: "10:00"
@@ -37,4 +32,12 @@ events:
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
     full: false
+    price: 12000
   -
+    date: 2020-3-22T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1132 Budapest, Visegrádi utca 6.
+    full: false
+    price_desc: Részvételi díj márciustól
