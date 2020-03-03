@@ -26,14 +26,6 @@ events:
     full: true
     price: 12000
   -
-    date: 2020-2-29T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1132 Budapest, Visegrádi utca 6.
-    full: true
-    price: 12000
-  -
     date: 2020-3-22T10:00
     start: "10:00"
     end: "14:00"
