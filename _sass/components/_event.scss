@@ -53,7 +53,7 @@
   font-size: font-size-em(1);
 }
 
-.c-Event__Full {
+.c-Event__Tag {
   @include all-caps;
   display: inline-block;
   padding: .2em .7em .1em;
@@ -75,6 +75,6 @@
 
 // .c-Event__PriceDesc {}
 
-.c-Event--Full {
+.c-Event--Unavailable {
   opacity: .5;
 }
