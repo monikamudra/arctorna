@@ -10,7 +10,9 @@ workshop_text:
 {% assign data = site.data.training %}
 
 <main class="c-Screen">
-  <section class="c-Screen__Section c-Screen__Section--HeaderWithIncipit c-Screen__Section--Training">
+  <section
+    class="c-Screen__Section c-Screen__Section--HeaderWithIncipit c-Screen__Section--Training"
+  >
     <div class="c-ContentBlock c-ContentBlock--Centered">
       <h1>
         <small><span class="u-AllCaps">Komplett</span> Arctorna</small>
@@ -20,8 +22,8 @@ workshop_text:
         A Komplett Arctorna Tréning az általam ismert leggyorsabb és
         leghatékonyabb út a természetesen feszes archoz. A tréning során
         maximális figyelmet és támogatást kapsz, hogy az arcodhoz szabott
-        gyakorlatokkal a leghamarabb elérhesd a kívánt eredményt.
-        A tréning végére egy életre szóló arcfiatalító tudás birtokába jutsz.
+        gyakorlatokkal a leghamarabb elérhesd a kívánt eredményt. A tréning
+        végére egy életre szóló arcfiatalító tudás birtokába jutsz.
       </p>
       <div class="u-MarginTopLarge">
         <a class="c-Button" href="#regisztracio">Jövök a tréningre</a>
@@ -29,18 +31,24 @@ workshop_text:
     </div>
   </section>
 
-
   <section class="c-Screen__Section c-Screen__Section--Plain u-PaddingBottom">
     <div class="c-ContentBlock">
       <h2>A tréning részletei</h2>
       <div class="c-Article">
-        {% capture training_details %}{% include training-details.md %}{% endcapture %}
-        {{ training_details | markdownify }}
+        {% capture training_details %}{% include training-details.md %}{%
+        endcapture %} {{ training_details | markdownify }}
       </div>
     </div>
-    <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopXLarge" style="margin-bottom: .4rem">
-      <img src="assets/images/csajok.jpg" srcset="assets/images/csajok.jpg 1x, assets/images/csajok@2x.jpg 2x"
-        alt="Szép, magabiztos, elégedett és vidám arctornázó lányok csoportja" style="width: 100%; max-width: 450px;">
+    <div
+      class="c-ContentBlock c-ContentBlock--Centered u-MarginTopXLarge"
+      style="margin-bottom: .4rem"
+    >
+      <img
+        src="assets/images/csajok.jpg"
+        srcset="assets/images/csajok.jpg 1x, assets/images/csajok@2x.jpg 2x"
+        alt="Szép, magabiztos, elégedett és vidám arctornázó lányok csoportja"
+        style="width: 100%; max-width: 450px;"
+      />
     </div>
   </section>
   <section class="c-Screen__Section c-Screen__Section--Alt" id="regisztracio">
@@ -48,34 +56,23 @@ workshop_text:
       <h2>Időpontok és jelentkezés</h2>
     </div>
     <div class="c-ContentBlock u-MarginTopXLarge">
-      {% include events.html
-        data = data.events
-        price = data.price
-        price_desc = data.price_desc
-        address = data.address
-        description = data.description
-      %}
+      {% include events.html data = data.events price = data.price price_desc =
+      data.price_desc address = data.address description = data.description %}
     </div>
     <div class="c-ContentBlock u-MarginTop">
       <div class="c-Article">
         <p>
-           Ha nem találsz alkalmas időpontot, de szeretnél jönni, regisztrálj a
-          "más&nbsp;időpont" opcióval! Igény szerint folyamatosan
-          indítok tréning&nbsp;csoportokat.
+          A következő csoportos tréning szeptemberben indul. Előregisztrációkat
+          várok a délelőtti vagy délutáni csoportokba. Egyéni tréningre is itt
+          jelentkezhetsz.
         </p>
       </div>
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
-        <a class="c-Button" href="{{ data.registration_link }}">Regisztrálok</a>
+      <a class="c-Button" href="{{ data.registration_link }}">Regisztrálok</a>
     </div>
   </section>
 
-  {% include workshop.html text = layout.workshop_text %}
-
-  {% include ajandek.html %}
-
-  {% include contact.html %}
-
-  {% include newsletter.html %}
-
+  {% include workshop.html text = layout.workshop_text %} {% include
+  ajandek.html %} {% include contact.html %} {% include newsletter.html %}
 </main>
