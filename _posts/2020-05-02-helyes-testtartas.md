@@ -1,10 +1,10 @@
 ---
-title: Tartás
-image: /assets/images/posts/tartas-social.jpg
+title: Helyes testtartás
+image: /assets/images/posts/helyes-testtartas-social.jpg
 description: >-
   Folytatódik a még korábban indult Holisztikus szépség cikksorozat,
   ami ezúttal a helyes testtartásról ad nemcsak hasznos útmutatást,
-  hanem egyszerű otthoni gyakorlatokat,&nbsp;tippeket&nbsp;is.  
+  hanem egyszerű otthoni gyakorlatokat,&nbsp;tippeket&nbsp;is.
 ---
 
 A helyes testtartásra nemcsak mozgásszervi problémák megelőzése céljából fontos
@@ -16,7 +16,7 @@ fiatalságot hirdet.
 Éppen ezért a Holisztikus szépség cikksorozat negyedik részében egy nagyon
 fontos és sokakat érintő témáról, a tartásról beszélgetek Kollár Anitával, aki a
 klasszikus jóga eredeti ősi tudását adja tovább, a nyugati világban élő
-emberekhez igazítva.  
+emberekhez igazítva.
 
 **Kezdjük a legelején: hogyan alakul ki a rossz&nbsp;testtartás?**
 
@@ -138,7 +138,7 @@ sportcipőben (de még jobb, ha mezítláb, könyörgöm, próbáljátok ki lega
 nyáron!) gyalogolni 20 percet. Közben ügyelj rá, hogy ne a talajt bámuld magad
 előtt, hanem emelt fővel, előre nézve sétálj. Meglátod, ki fog nyílni a világ!
 
-**Az első gyakorlat** legyen a klasszikus jógában macska néven ismert póz, vagy ahogy az óvodában tanultuk, cicahát. Tökéletesen „megolajozza” 
+**Az első gyakorlat** legyen a klasszikus jógában macska néven ismert póz, vagy ahogy az óvodában tanultuk, cicahát. Tökéletesen „megolajozza”
 a gerincet, légzéssel kombinálva átmasszírozza a hasi szerveket – receptre kellene felírni.
 
 Ehhez helyezkedjünk el térdelő támaszban (mindjárt mondom, mit csináljon az, aki
