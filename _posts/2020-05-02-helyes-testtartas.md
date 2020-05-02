@@ -4,7 +4,7 @@ image: /assets/images/posts/helyes-testtartas-social.jpg
 description: >-
   Folytatódik a még korábban indult Holisztikus szépség cikksorozat,
   ami ezúttal a helyes testtartásról ad nemcsak hasznos útmutatást,
-  hanem egyszerű otthoni gyakorlatokat,&nbsp;tippeket&nbsp;is.
+  hanem egyszerű otthoni gyakorlatokat és&nbsp;tippeket&nbsp;is.
 ---
 
 A helyes testtartásra nemcsak mozgásszervi problémák megelőzése céljából fontos
