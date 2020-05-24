@@ -42,7 +42,7 @@ de még nem vagy biztos az időpontban.
 
 ### Mennyibe kerül az ajándékutalvány?
 
-Az utalvány ára 12000&nbsp;Ft, pont mint a workshop.
+Az utalvány ára {{ site.data.workshop.price }}&nbsp;Ft, pont mint a workshop.
 
 ### Magamat is meglephetem ajándékutalvánnyal?
 
