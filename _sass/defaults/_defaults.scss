@@ -21,8 +21,8 @@ html {
   background-color: token("color-for", "background");
   color: token("color-for", "text");
 
-  @include break($from: 'medium') {
-    font-size: font-size-px('kilo');
+  @include break($from: "medium") {
+    font-size: font-size-px("kilo");
   }
 }
 
@@ -139,4 +139,13 @@ mark {
 
 ::--moz-placeholder {
   color: color("grey", 50%);
+}
+
+fieldset {
+  padding: 0;
+  border: 0;
+
+  &:disabled {
+    opacity: 0.4;
+  }
 }
