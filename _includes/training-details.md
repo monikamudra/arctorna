@@ -42,13 +42,6 @@ szépen átutalni {{ site.data.training.deposit }}&nbsp;Ft előleget, ezzel bizt
 A maradék összeget az első órán kell fizetni. (Az átutaláshoz szükséges adatokat
 a jelentkezés után, emailben fogom elküldeni.)
 
-### Van lehetőség magán tréningre?
-
-Igen, személyesen és online is. 10 alkalom
-<span class="u-NoWrap">ára {{ site.data.training.private_price }}&nbsp;Ft.</span>
-Kérlek írj a [moni@arctornamonival.hu][email]
-email címre, és megbeszéljük&nbsp;a&nbsp;részleteket!
-
 
 [kerdesek]: {{ site.baseurl }}{% link kerdesek.md %}
 [email]: mailto:moni@arctornamonival.hu
