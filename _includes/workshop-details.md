@@ -30,12 +30,6 @@ elküldeni.)
 
 Igen! A  [workshop ajándékutalvány][utalvany] szuper ajándék. :)
 
-### Van lehetőség magán workshopra?
-
-Igen, személyesen és online is. A regisztrációnál kiválaszthatod ezt az opciót,
-de írhatsz a [moni@arctornamonival.hu][email]
-email címre is, és megbeszéljük&nbsp;a&nbsp;részleteket!
-
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
 
 Igen, a [Komplett Arctorna Tréninggel][trening]
