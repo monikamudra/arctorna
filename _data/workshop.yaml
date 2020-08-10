@@ -23,7 +23,7 @@ events:
     end: "14:00"
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
-    full: false
+    full: true
   - date: 2020-8-29-T10:00
     start: "10:00"
     end: "14:00"
