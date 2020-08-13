@@ -1,9 +1,9 @@
 ---
-title: Bőrápolás
+title: Helyes bőrápolás
 image: /assets/images/posts/borapolas-social.jpg
 description: >-
   A holisztikus cikksorozat harmadik részében a bőrápolásról beszélgettem
-  Rácz Mariannal, a Phi Kozmetikum társalapítójával, aki különlegesen jó 
+  Rácz Mariannal, a Phi Kozmetikum társalapítójával, aki különlegesen jó
   natúrkozmetikumokat készít, és egy igazi szakértő a témában.
 ---
 
@@ -11,7 +11,7 @@ A holisztikus szépség harmadik állomása, egy elengedhetetlenül fontos rész
 
 **Azt gondolom ez egy olyan fontos téma, ami a tizenéves kortól egészen életünk végéig érint bennünket, tehát érdemes jól csinálni. Mégis úgy látom, hogy az emberek jó nagy része nincs tisztában sem a fontosságával, sem pedig a helyességével. Te mit gondolsz milyen életkorban érdemes elkezdeni bőrápoló termékeket használni?**
 
-Akár már gyerekkorban, attól függően, hogy a bőr mennyire van kitéve különböző környezeti ártalmaknak. A fűtési időszakban szinte minden bőrtípus veszít hidratáltságából kortól függetlenül, a hideg idő, a szél kiszárítja azt, ezért fontos, hogy gondoskodjunk megfelelő hidratálásról és visszazsírozásról. Illetve nagyon fontos, hogy a napsugárzástól is kortól függetlenül védjük a bőrt! 
+Akár már gyerekkorban, attól függően, hogy a bőr mennyire van kitéve különböző környezeti ártalmaknak. A fűtési időszakban szinte minden bőrtípus veszít hidratáltságából kortól függetlenül, a hideg idő, a szél kiszárítja azt, ezért fontos, hogy gondoskodjunk megfelelő hidratálásról és visszazsírozásról. Illetve nagyon fontos, hogy a napsugárzástól is kortól függetlenül védjük a bőrt!
 
 **Hogyan válasszuk ki a nekünk megfelelő termékeket?**
 
