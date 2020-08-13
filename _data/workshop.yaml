@@ -29,4 +29,4 @@ events:
     end: "14:00"
     title: Arctorna Workshop
     address: 1132 Budapest, Visegrádi utca 6.
-    full: false
+    full: true
