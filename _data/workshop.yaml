@@ -36,3 +36,9 @@ events:
     title: Arctorna Workshop
     address: 1072 Budapest, Nagy Diófa utca 15.
     full: false
+  - date: 2020-9-19-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1072 Budapest, Nagy Diófa utca 15.
+    full: false
