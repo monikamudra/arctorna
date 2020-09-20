@@ -8,7 +8,7 @@ events:
   #   start: "10:00"
   #   end: "14:00"
   #   title: Arctorna Workshop
-  #   address: 1132 Budapest, Visegrádi utca 6.
+  #   address: 1072 Budapest, Nagy Diófa utca 15.
   #   price: 15000
   #   price_desc: Részvételi díj
   #   currency: Euro
@@ -18,7 +18,7 @@ events:
   #   link: "https://link.to/the-event"
   #   description: >-
   #     Arctorna workshop Mónival
-  - date: 2020-9-19-T10:00
+  - date: 2020-10-3-T10:00
     start: "10:00"
     end: "14:00"
     title: Arctorna Workshop
