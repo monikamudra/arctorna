@@ -16,7 +16,9 @@
           <div class="c-Event__Details">
             <div class="c-Event__Title">{{ event.title }}</div>
 
-            <address class="c-Event__Address">{{ event.address | default: include.address }}</address>
+            {% if address %}
+              <address class="c-Event__Address">{{ event.address | default: include.address }}</address>
+             {% endif %}
 
             <div class="c-Event__Price">
               {% assign price_desc = event.price_desc | default: include.price_desc %}
