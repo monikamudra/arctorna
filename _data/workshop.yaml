@@ -35,4 +35,4 @@ events:
     description: >-
       Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
       indul online, maximum három fővel.
-    full: false
+    full: true
