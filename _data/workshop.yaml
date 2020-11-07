@@ -18,15 +18,6 @@ events:
   #   link: "https://link.to/the-event"
   #   description: >-
   #     Arctorna workshop Mónival
-  - date: 2020-11-7-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: 3 fős online arctorna Workshop
-    price: 25000
-    description: >-
-      Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
-      indul online, maximum három fővel.
-    full: true
   - date: 2020-11-14-T10:00
     start: "10:00"
     end: "14:00"
