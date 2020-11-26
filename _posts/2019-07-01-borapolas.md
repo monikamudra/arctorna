@@ -1,5 +1,5 @@
 ---
-title: Helyes bőrápolás
+title: Holisztikus szépség - Helyes bőrápolás
 image: /assets/images/posts/borapolas-social.jpg
 description: >-
   A holisztikus cikksorozat harmadik részében a bőrápolásról beszélgettem
