@@ -1,6 +1,6 @@
 ---
 date: 2018-12-10 20:00:00
-title: Belső szépség
+title: Holisztikus szépség - Belső szépség
 image: /assets/images/posts/belso-szepseg-social.jpg
 description: >-
   A holisztikus cikksorozat első részében Bach&nbsp;Edit életvezetési tanácsadóval
