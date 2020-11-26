@@ -1,5 +1,5 @@
 ---
-title: Helyes testtartás
+title: Holisztikus szépség - Helyes testtartás
 image: /assets/images/posts/helyes-testtartas-social.jpg
 description: >-
   Folytatódik a még korábban indult Holisztikus szépség cikksorozat,
