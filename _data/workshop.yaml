@@ -35,7 +35,7 @@ events:
     description: >-
       Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
       indul online, maximum három fővel.
-    full: true
+    full: false
   - date: 2020-12-5-T10:00
     start: "10:00"
     end: "14:00"
