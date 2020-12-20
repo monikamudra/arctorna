@@ -35,8 +35,26 @@ events:
     description: >-
       Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
       indul online, maximum három fővel.
-    full: false
+    full: true
   - date: 2021-1-30-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: 3 fős online arctorna Workshop
+    price: 25000
+    description: >-
+      Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
+      indul online, maximum három fővel.
+    full: false
+  - date: 2021-2-6-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: 3 fős online arctorna Workshop
+    price: 25000
+    description: >-
+      Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
+      indul online, maximum három fővel.
+    full: false
+  - date: 2021-2-20-T10:00
     start: "10:00"
     end: "14:00"
     title: 3 fős online arctorna Workshop
