@@ -55,18 +55,17 @@ workshop_text:
     <div class="c-ContentBlock">
       <h2>Időpontok és jelentkezés</h2>
     </div>
-    <div class="c-ContentBlock u-MarginTopXLarge">
-      {% include events.html data = data.events price = data.price price_desc =
-      data.price_desc address = data.address description = data.description %}
-    </div>
     <div class="c-ContentBlock u-MarginTop">
       <div class="c-Article">
         <p>
-          A szeptemberben induló tréningcsoportok megteltek. A legközelebbi
-          időpont januárban lesz. Előregisztrációkat várok a délelőtti vagy
-          délutáni csoportokba.
+          A tréning január 25-én indul, négy három fős csoporttal, két délelőtti
+          és két délutáni időpontban.
         </p>
       </div>
+    </div>
+    <div class="c-ContentBlock u-MarginTopXLarge">
+      {% include events.html data = data.events price = data.price price_desc =
+      data.price_desc address = data.address description = data.description %}
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
       <a class="c-Button" href="{{ data.registration_link }}">Regisztrálok</a>

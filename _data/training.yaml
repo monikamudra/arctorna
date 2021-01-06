@@ -5,33 +5,63 @@ deposit: 10000
 private_price: 70000
 price_desc: A 10 alkalmas blokk ára
 events:
-  - date: 2020-1-20T09:00
-    start: "9:00"
-    end: "10:00"
-    full: true
-    title: Kezdő Arctorna Tréning – délelőtti&nbsp;csoport
+  - date: 2021-1-25T10:30
+    start: "10:30"
+    end: "11:30"
+    full: false
+    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;1.&nbsp;csoport
     classes:
       -
         day: hétfő
-        time: "9:00"
+        time: "10:30"
       -
-        day: péntek
-        time: "11:30"
+        day: csütörtök
+        time: "8:30"
     description: >-
-      Az órák hétfőn és pénteken délelőtt vannak. Ha ez időnként nem lenne
-      alkalmas, lehetőség van a délutáni órákon való részvételre.
-  - date: 2020-1-21T16:00
-    start: "16:00"
-    end: "17:00"
-    full: true
-    title: Kezdő Arctorna Tréning – délutáni&nbsp;csoport
+      Az órák hétfőn és csütörtökön délelőtt vannak. Ha ez időnként nem lenne
+      alkalmas, lehetőség van másik csoportban való részvételre.
+  - date: 2021-1-26T8:30
+    start: "8:30"
+    end: "9:30"
+    full: false
+    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;2.&nbsp;csoport
     classes:
       -
         day: kedd
-        time: "16:00"
+        time: "8:30"
+      -
+        day: péntek
+        time: "9:00"
+    description: >-
+      Az órák kedden és pénteken délelőtt vannak. Ha ez időnként nem lenne
+      alkalmas, lehetőség van másik csoportban való részvételre.
+  - date: 2021-1-25T17:30
+    start: "17:30"
+    end: "18:30"
+    full: true
+    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;1.&nbsp;csoport
+    classes:
+      -
+        day: hétfő
+        time: "17:30"
       -
         day: csütörtök
-        time: "17:30"
+        time: "16:30"
     description: >-
-      Az órák kedden és csütörtökön délután vannak. Ha ez időnként nem lenne
-      alkalmas, lehetőség van a délelőtti órákon való részvételre.
+      Az órák hétfőn és csütörtökön délután vannak. Ha ez időnként nem lenne
+      alkalmas, lehetőség van másik csoportban való részvételre.
+  - date: 2021-1-26T17:00
+    start: "17:00"
+    end: "18:00"
+    full: false
+    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;2.&nbsp;csoport
+    classes:
+      -
+        day: kedd
+        time: "17:00"
+      -
+        day: péntek
+        time: "16:30"
+    description: >-
+      Az órák kedden és pénteken délután vannak. Ha ez időnként nem lenne
+      alkalmas, lehetőség van másik csoportban való részvételre.

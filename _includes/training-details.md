@@ -26,7 +26,7 @@ kötetlenül bármikor edzhetsz velünk tovább.
 
 ### Hány vagyunk a tréningen?
 
-Egy csoportban maximum hárman vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson.
+Egy csoportban maximum hárman vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget a járvány miatt online (skype) tartom, amely ugyanolyan hatékony, mint a személyes órák.
 
 ### Ki vehet részt a tréningen?
 
@@ -37,10 +37,9 @@ néhány kizáró ok amivel nem lehet arctornázni, erről
 ### Mennyibe kerül és hogyan kell fizetni?
 
 Egy 10 alkalmas blokk <span class="u-NoWrap">ára
-{{ site.data.training.price }}&nbsp;Ft.</span> A jelentkezést követően kérek
-szépen átutalni {{ site.data.training.deposit }}&nbsp;Ft előleget, ezzel biztosítva a helyedet a tréningen.
-A maradék összeget az első órán kell fizetni. (Az átutaláshoz szükséges adatokat
-a jelentkezés után, emailben fogom elküldeni.)
+{{ site.data.training.price }}&nbsp;Ft</span>, amit a jelentkezést követően kérek szépen átutalni, ezzel biztosítva a helyedet a tréningen.
+(Az átutaláshoz szükséges adatokat a jelentkezés után, emailben fogom
+elküldeni.)
 
 
 [kerdesek]: {{ site.baseurl }}{% link kerdesek.md %}
