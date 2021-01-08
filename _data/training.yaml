@@ -22,7 +22,7 @@ events:
   - date: 2021-1-26T8:30
     start: "8:30"
     end: "9:30"
-    full: false
+    full: true
     title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;2.&nbsp;csoport
     classes:
       -
@@ -37,7 +37,7 @@ events:
     start: "17:30"
     end: "18:30"
     full: true
-    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;1.&nbsp;csoport
+    title: Kezdő Arctorna Tréning – online, délutáni&nbsp;1.&nbsp;csoport
     classes:
       -
         day: hétfő
@@ -51,7 +51,7 @@ events:
     start: "17:00"
     end: "18:00"
     full: false
-    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;2.&nbsp;csoport
+    title: Kezdő Arctorna Tréning – online, délutáni&nbsp;2.&nbsp;csoport
     classes:
       -
         day: kedd
