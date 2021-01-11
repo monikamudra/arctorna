@@ -3,7 +3,7 @@ address: 1032 Budapest, San Marco utca
 price: 35000
 deposit: 10000
 private_price: 70000
-price_desc: A 10 alkalmas blokk ára
+price_desc: Az első 10 alkalmas blokk ára
 events:
   - date: 2021-1-25T10:30
     start: "10:30"
