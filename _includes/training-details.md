@@ -24,7 +24,7 @@ koncentrálva végezzük a gyakorlatokat a teljes arcon és a nyakon.
 Igen! Miután végeztél a három blokkal, szeretettel várunk a "klubban" ahol
 kötetlenül bármikor edzhetsz velünk tovább.
 
-### Hány vagyunk a tréningen?
+### Hányan vagyunk a tréningen?
 
 Egy csoportban maximum hárman vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget a járvány miatt online (skype) tartom, amely ugyanolyan hatékony, mint a személyes órák.
 
