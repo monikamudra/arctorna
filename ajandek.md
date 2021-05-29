@@ -34,8 +34,8 @@ sections:
   voucher_purchase: true
 ---
 
-Az ajándékutalvány a teljes [Arctorna Workshopot][workshop] nyújtja,
-de ezen felül bárkinek könnyen átadható, ajándékozható, és a kezdés időpontja rugalmas.
+Az ajándékutalvány a nagycsoportos [Arctorna Workshopra][workshop] érvényes.
+Bárkinek könnyen átadható, ajándékozható, és a részvétel időpontja rugalmas.
 
 Nemcsak ajándéknak szuper, hanem **akkor is ideális ha te jönnél workshopra**,
 de még nem vagy biztos az időpontban.
@@ -43,6 +43,10 @@ de még nem vagy biztos az időpontban.
 ### Mennyibe kerül az ajándékutalvány?
 
 Az utalvány ára {{ site.data.workshop.price }}&nbsp;Ft, pont mint a workshop.
+
+### Meddig érvényes az utalvány?
+
+Az ajándékutalványt a kiállítástól számított 6 hónapon belül lehet felhasználni.
 
 ### Magamat is meglephetem ajándékutalvánnyal?
 
