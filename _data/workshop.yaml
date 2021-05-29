@@ -1,6 +1,6 @@
 registration_link: https://joyo.fit/workshop-registration
-price: 15000
-deposit: 5000
+price: 18000
+price_online: 25000
 price_desc: Részvételi díj
 events:
   # -
@@ -28,7 +28,7 @@ events:
   #     Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
   #     indul online, maximum három fővel.
 
-    
+
   - date: 2021-5-29-T10:00
     start: "10:00"
     end: "14:00"
@@ -38,7 +38,7 @@ events:
       Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
       indul online, maximum négy fővel.
     full: true
-    
+
   - date: 2021-6-12-T10:00
     start: "10:00"
     end: "14:00"
@@ -48,3 +48,11 @@ events:
       Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
       indul online, maximum négy fővel.
     full: true
+
+  - date: 2021-6-26-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Nagycsoportos arctorna, ismét személyesen
+    address: 1072 Budapest, Nagy Diófa utca 15.
+    price: 18000
+    full: false
