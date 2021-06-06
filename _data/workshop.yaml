@@ -47,7 +47,7 @@ events:
     description: >-
       Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
       indul online, maximum négy fővel.
-    full: true
+    full: false
 
   - date: 2021-6-26-T10:00
     start: "10:00"
