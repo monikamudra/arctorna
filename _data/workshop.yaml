@@ -39,6 +39,8 @@ events:
   - date: 2021-7-10-T10:00
     start: "10:00"
     end: "14:00"
-    title: 4 fős, online arctorna workshop
+    title: Kiscsoportos online arctorna workshop
     price: 25000
     full: false
+    description: >-
+      Standard arctorna workshop, maximum 4 fővel, Skype-on
