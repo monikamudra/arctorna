@@ -35,4 +35,10 @@ events:
     address: 1072 Budapest, Nagy Diófa utca 15.
     price: 18000
     full: true
-   
+
+  - date: 2021-7-10-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: 4 fős, online arctorna workshop
+    price: 25000
+    full: false
