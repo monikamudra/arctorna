@@ -34,7 +34,7 @@ events:
     title: Nagycsoportos arctorna, ismét személyesen
     address: 1072 Budapest, Nagy Diófa utca 15.
     price: 18000
-    full: true
+    full: false
 
   - date: 2021-7-10-T10:00
     start: "10:00"
