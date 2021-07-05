@@ -28,11 +28,10 @@ events:
   #     Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
   #     indul online, maximum három fővel.
 
-  - date: 2021-7-10-T10:00
+  - date: 2021-7-31-T10:00
     start: "10:00"
     end: "14:00"
-    title: Kiscsoportos online arctorna workshop
-    price: 25000
+    title: Nagycsoportos arctorna, ismét személyesen
+    address: 1072 Budapest, Nagy Diófa utca 15.
+    price: 18000
     full: false
-    description: >-
-      Standard arctorna workshop, maximum 4 fővel, Skype-on
