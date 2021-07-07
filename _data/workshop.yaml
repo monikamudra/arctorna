@@ -31,15 +31,15 @@ events:
   - date: 2021-7-24-T10:00
     start: "10:00"
     end: "14:00"
-    title: Online arctorna, kis csoportban, maximum 4 résztvevővel
+    title: Online arctorna workshop, maximum 4 résztvevővel
     address: 1072 Budapest, Nagy Diófa utca 15.
-    price: 18000
+    price: 25000
     full: false
 
   - date: 2021-7-31-T10:00
     start: "10:00"
     end: "14:00"
-    title: Nagycsoportos arctorna, ismét személyesen
+    title: Arctorna workshop, ismét személyesen
     address: 1072 Budapest, Nagy Diófa utca 15.
     price: 18000
     full: false
