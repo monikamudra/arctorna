@@ -32,7 +32,6 @@ events:
     start: "10:00"
     end: "14:00"
     title: Online arctorna workshop, maximum 4 résztvevővel
-    address: 1072 Budapest, Nagy Diófa utca 15.
     price: 25000
     full: false
 
