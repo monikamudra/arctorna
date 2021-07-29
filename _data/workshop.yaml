@@ -34,7 +34,7 @@ events:
     title: Arctorna workshop, ismét személyesen
     address: 1072 Budapest, Nagy Diófa utca 15.
     price: 18000
-    full: false
+    full: true
     
   - date: 2021-8-28-T10:00
     start: "10:00"
