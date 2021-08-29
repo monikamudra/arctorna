@@ -36,7 +36,7 @@ events:
     price: 25000
     full: true
     
-  - date: 2021-9-4-T10:00
+  - date: 2021-9-25-T10:00
     start: "10:00"
     end: "14:00"
     title: Online arctorna workshop, maximum 4 résztvevővel
