@@ -36,13 +36,6 @@ events:
     price: 25000
     full: false
     
-  - date: 2021-11-27-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Online arctorna workshop, maximum 4 résztvevővel
-    price: 25000
-    full: false
-    
   - date: 2021-12-4-T10:00
     start: "10:00"
     end: "14:00"
