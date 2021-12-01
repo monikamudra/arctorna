@@ -75,16 +75,15 @@ Az utalvány a 4 órás alap [Arctorna Workshopra][workshop] szól.
 ### Hogyan használhatom fel az utalványt?
 
 Úgyanúgy, mintha simán egy workshopra jelentkeznél. Regisztrálj a számodra
-megfelelő workshopra, és az űrlapon add meg az utalványod kódját.
+megfelelő workshopra, és az űrlapon add meg az utalványod kódját. (Ha valami nem működik, kérlek írj emailt.)
 
 Mint mindig, fontos, hogy időben regisztrálj, mert a helyek gyorsan elfogyhatnak.
 
 ### Regisztráltam, de mégsem tudok elmenni. Felhasználhatom még az utalványomat?
 
-Mivel a workshopon csak 8-9 résztvevő számára van hely, és regisztrációd
-biztosítja ezt a helyet számodra, nagyon számítok a részvételedre. Ha mégsem
-tudnál eljönni, és ezt minimum 7 nappal a kezdés előtt jelzed, az utalványt egy
-következő alkalommal felhasználhatod.
+Mivel a workshopon résztvevők száma limitált, és a regisztrációd biztosítja a helyet számodra, 
+nagyon számítok a részvételedre. Ha mégsem tudnál eljönni, és ezt minimum 7 nappal a kezdés előtt jelzed, 
+az utalványt egy következő alkalommal felhasználhatod.
 
 
 [workshop]: {{ site.baseurl }}{% link workshop.md %}
