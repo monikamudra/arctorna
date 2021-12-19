@@ -26,7 +26,7 @@ kötetlenül bármikor edzhetsz velünk tovább.
 
 ### Hányan vagyunk a tréningen?
 
-Egy csoportban maximum hárman vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget a járvány miatt online (skype) tartom, amely ugyanolyan hatékony, mint a személyes órák.
+Egy csoportban maximum négyen vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget a járvány miatt online (skype) tartom, amely ugyanolyan hatékony, mint a személyes órák.
 
 ### Ki vehet részt a tréningen?
 
