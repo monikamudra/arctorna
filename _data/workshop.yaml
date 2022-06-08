@@ -40,6 +40,8 @@ events:
   - date: 2022-7-9-T10:00
     start: "10:00"
     end: "14:00"
-    title: 4 fős online arctorna Workshop
+    title: Arctorna Workshop
+    description: >-
+      Online workshop kis csoportban, maximum négy fővel.
     price: 25000
     full: false
