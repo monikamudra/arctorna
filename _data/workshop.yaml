@@ -36,3 +36,10 @@ events:
     address: 1114, Budapest Bartók Béla út 9.
     price: 25000
     full: false
+    
+  - date: 2022-7-9-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: 4 fős online arctorna Workshop
+    price: 25000
+    full: false
