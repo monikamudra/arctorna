@@ -29,14 +29,6 @@ events:
   #     indul online, maximum három fővel.
 
     
-  - date: 2022-6-25-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1114 Budapest, Bartók Béla út 9.
-    price: 25000
-    full: false
-    
   - date: 2022-7-9-T10:00
     start: "10:00"
     end: "14:00"
