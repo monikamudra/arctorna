@@ -2,7 +2,7 @@
 title: Masszázs, nyújtás és izomfejlesztés
 image: /assets/images/posts/arctorna-social.jpg
 description: >-
-Mindhárom lépést jól ismerjük már a testen, de nézzük külön-külön milyen hatásuk van az arcon is.
+  Mindhárom lépést jól ismerjük már a testen, de nézzük külön-külön milyen hatásuk van az arcon is.
 ---
 
 **Masszázs**
