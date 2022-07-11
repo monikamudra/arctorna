@@ -37,3 +37,12 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 25000
     full: false
+    
+   - date: 2022-9-3-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Online Arctorna Workshop
+    description: >-
+      Online workshop kis csoportban, maximum négy fővel.
+    price: 25000
+    full: false
