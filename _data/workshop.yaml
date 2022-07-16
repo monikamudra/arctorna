@@ -36,7 +36,7 @@ events:
     description: >-
       Online workshop kis csoportban, maximum négy fővel.
     price: 25000
-    full: false
+    full: true
     
   - date: 2022-9-3-T10:00
     start: "10:00"
