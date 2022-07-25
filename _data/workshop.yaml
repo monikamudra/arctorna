@@ -1,4 +1,4 @@
-registration_link: https://joyo.fit/workshop-registration
+registration_link: https://workshop.joyo.fit/workshop-registration
 price: 25000
 price_online: 25000
 price_desc: Részvételi díj
@@ -28,7 +28,7 @@ events:
   #     Standard arctorna workshop, de a jelenlegi helyzet miatt kis csoportban
   #     indul online, maximum három fővel.
 
-    
+
   - date: 2022-7-23-T10:00
     start: "10:00"
     end: "14:00"
@@ -37,7 +37,7 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 25000
     full: true
-    
+
   - date: 2022-9-3-T10:00
     start: "10:00"
     end: "14:00"
@@ -46,7 +46,7 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 25000
     full: true
-    
+
   - date: 2022-9-10-T10:00
     start: "10:00"
     end: "14:00"
