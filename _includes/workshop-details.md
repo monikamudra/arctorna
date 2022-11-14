@@ -27,10 +27,6 @@ regisztrációtól számított három napon belül. Az átutaláshoz szükséges
 a jelentkezés után, emailben fogom elküldeni. Mivel a helyek hamar elfogynak,
 a három napon túl be nem fizetett regisztrációkat töröljük.
 
-### Ajándékba szeretném adni a workshopot – van&nbsp;erre&nbsp;lehetőség?
-
-Igen! A  [workshop ajándékutalvány][utalvany] szuper ajándék. :)
-
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
 
 Igen, a [Komplett Arctorna Tréninggel][trening]
@@ -38,6 +34,5 @@ gyorsabban érhetsz el eredményeket. De a workshop kiváló bevezető
 a tréninghez.
 
 
-[utalvany]: {{ site.baseurl }}{% link ajandek.md %}
 [trening]: {{ site.baseurl }}{% link trening.md %}
 [email]: mailto:moni@arctornamonival.hu

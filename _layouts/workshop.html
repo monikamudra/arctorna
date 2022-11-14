@@ -61,14 +61,10 @@ training_text:
       site.data.workshop.price price_desc = site.data.workshop.price_desc %}
     </div>
     <!-- <div class="c-ContentBlock u-MarginTop">
-      <strong>Jelenleg nincsenek nyitott időpontok</strong>. Ha szeretnél jönni,
-      lepd meg magad egy <a href="{{ site.baseurl }}{% link ajandek.md %}" class="c-Link">ajándékutalvánnyal</a>,
-      vagy nézz vissza később új időpontokért!
+      <strong>Jelenleg nincsenek nyitott időpontok</strong>. Nézz vissza később új időpontokért!
     </div> -->
     <div class="c-ContentBlock u-MarginTop">
-      <strong>Ha nem találsz alkalmas időpontot</strong>, de szeretnél jönni,
-      lepd meg magad egy <a href="{{ site.baseurl }}{% link ajandek.md %}" class="c-Link">ajándékutalvánnyal</a>,
-      vagy nézz vissza később új időpontokért!
+      <strong>Ha nem találsz alkalmas időpontot</strong>, nézz vissza később!
     </div>
     <div class="c-ContentBlock c-ContentBlock--Centered u-MarginTopLarge">
       <a class="c-Button" href="{{ site.data.workshop.registration_link }}"
@@ -89,6 +85,5 @@ training_text:
     </div>
   </section>
 
-  {% include training.html text = layout.training_text %} {% include
-  ajandek.html %} {% include contact.html %} {% include newsletter.html %}
+  {% include training.html text = layout.training_text %} {% include newsletter.html %}
 </main>

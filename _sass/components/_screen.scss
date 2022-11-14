@@ -56,42 +56,6 @@
   background-color: token("color", "purple");
 }
 
-.c-Screen__Section--Ajandek {
-  @include bg-polka-dots(
-    token("color-for", "background-alt"),
-    $transparency: 0.4,
-    $dotsize1: 10%,
-    $dotsize2: 10%,
-    $bgsize: 100px,
-    $dark: false
-  );
-  position: relative;
-
-  &::after {
-    content: "";
-    display: block;
-    width: 200px;
-    height: 25px;
-    position: absolute;
-    left: -60px;
-    top: 0px;
-    background-color: color("pink");
-    transform: rotate(-45deg);
-
-    @include break($from: 500px) {
-      height: 35px;
-      left: -50px;
-      top: 10px;
-    }
-
-    @include break($from: "medium") {
-      height: 45px;
-      left: -50px;
-      top: 10px;
-    }
-  }
-}
-
 .c-Screen__Section--Joyo {
   padding-top: 6rem;
   padding-bottom: 8rem;
