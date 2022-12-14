@@ -24,8 +24,8 @@
               {% assign price_desc = event.price_desc | default: include.price_desc %}
               {% if price_desc %}
               <span class="c-Event__PriceDesc">{{ price_desc }}</span>
-              {% endif %}
               <strong class="u-NoWrap">{{ event.price | default: include.price }} {{ event.currency | default: "Ft" }}</strong>
+              {% endif %}
             </div>
 
             {% if event.full %}

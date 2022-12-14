@@ -2,61 +2,47 @@ registration_link: https://arctornaworkshop.typeform.com/to/N9N1Sb
 address: 1032 Budapest, San Marco utca
 price: 45000
 private_price: 80000
-price_desc: Az első 10 alkalmas blokk ára
+# price_desc: Az első 10 alkalmas blokk ára
 events:
-  - date: 2021-1-25T10:30
+  - date: 2023-1-23T9:00
+    start: "9:00"
+    end: "10:00"
+    full: false
+    title: Reggeli&nbsp;csoport (online)
+    classes:
+      -
+        day: hétfő
+        time: "9:00"
+      -
+        day: szerda
+        time: "8:30"
+    description: >-
+      Az órák hétfőn és szerdán reggel vannak.
+  - date: 2023-1-23T10:30
     start: "10:30"
     end: "11:30"
-    full: true
-    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;1.&nbsp;csoport
+    full: false
+    title: Délelőtti&nbsp;csoport (online)
     classes:
       -
         day: hétfő
         time: "10:30"
       -
-        day: csütörtök
-        time: "8:30"
+        day: szerda
+        time: "11:30"
     description: >-
-      Az órák hétfőn és csütörtökön délelőtt vannak.
-  - date: 2021-1-26T8:30
-    start: "8:30"
-    end: "9:30"
-    full: true
-    title: Kezdő Arctorna Tréning – online, délelőtti&nbsp;2.&nbsp;csoport
+      Az órák hétfőn és szerdán délelőtt vannak.
+  - date: 2023-1-24T18:00
+    start: "18:00"
+    end: "19:00"
+    full: false
+    title: Délutáni&nbsp;csoport (online)
     classes:
       -
         day: kedd
-        time: "8:30"
-      -
-        day: péntek
-        time: "9:00"
-    description: >-
-      Az órák kedden és pénteken délelőtt vannak.
-  - date: 2021-1-25T17:30
-    start: "17:30"
-    end: "18:30"
-    full: true
-    title: Kezdő Arctorna Tréning – online, délutáni&nbsp;1.&nbsp;csoport
-    classes:
-      -
-        day: hétfő
-        time: "17:30"
+        time: "18:00"
       -
         day: csütörtök
         time: "16:30"
     description: >-
-      Az órák hétfőn és csütörtökön délután vannak.
-  - date: 2021-1-26T17:00
-    start: "17:00"
-    end: "18:00"
-    full: true
-    title: Kezdő Arctorna Tréning – online, délutáni&nbsp;2.&nbsp;csoport
-    classes:
-      -
-        day: kedd
-        time: "17:00"
-      -
-        day: péntek
-        time: "16:30"
-    description: >-
-      Az órák kedden és pénteken délután vannak.
+      Az órák kedden és csütörtökön délután vannak.
