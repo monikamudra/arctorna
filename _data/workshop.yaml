@@ -36,4 +36,4 @@ events:
     description: >-
       Online workshop kis csoportban, maximum négy fővel.
     price: 29000
-    full: false
+    full: true
