@@ -7,7 +7,7 @@ events:
   - date: 2023-1-23T9:00
     start: "9:00"
     end: "10:00"
-    full: false
+    full: true
     title: Reggeli&nbsp;csoport (online)
     classes:
       -
