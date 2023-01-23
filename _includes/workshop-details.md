@@ -7,7 +7,7 @@ workshopot egy kellemes arcmasszázzsal&nbsp;zárjuk.
 
 ### Hányan vagyunk a&nbsp;workshopon?
 
-A csapat maximális létszáma 8-9 fő, mivel nagyobb létszám esetén nem
+A workshop maximális létszáma 4 fő, mivel nagyobb létszám esetén nem
 tudnék mindenkire kellően&nbsp;odafigyelni.
 
 ### Kinek ajánlom a&nbsp;workshopot?
