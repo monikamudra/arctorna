@@ -17,7 +17,7 @@ arcát, 20&nbsp;évestől <span class="u-NoWrap">95&nbsp;éves korig :)</span>
 
 ### Mennyibe kerül, és hogyan kell fizetni?
 
-Az online, kiscsoportos Artcorna díja {{
+Az online kiscsoportos artcorna workshop díja {{
 site.data.workshop.price_online }}&nbsp;Ft. 
 
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
