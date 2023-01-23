@@ -17,15 +17,8 @@ arcát, 20&nbsp;évestől <span class="u-NoWrap">95&nbsp;éves korig :)</span>
 
 ### Mennyibe kerül, és hogyan kell fizetni?
 
-A személyes, nagycsoportos Arctorna Workshop részvételi díja {{
-site.data.workshop.price }}&nbsp;Ft, az online, kiscsoportos Artcorna díja {{
-site.data.workshop.price_online }}&nbsp;Ft. A regisztrációnál láthatod az egyes
-események pontos árát.
-
-A helyfoglaláshoz a teljes összeget kérem szépen előre átutalni a
-regisztrációtól számított három napon belül. Az átutaláshoz szükséges adatokat
-a jelentkezés után, emailben fogom elküldeni. Mivel a helyek hamar elfogynak,
-a három napon túl be nem fizetett regisztrációkat töröljük.
+Az online, kiscsoportos Artcorna díja {{
+site.data.workshop.price_online }}&nbsp;Ft. 
 
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
 
