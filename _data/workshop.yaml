@@ -29,11 +29,11 @@ events:
   #     indul online, maximum három fővel.
 
 
-  - date: 2023-1-21-T10:00
+  - date: 2023-3-18-T10:00
     start: "10:00"
     end: "14:00"
     title: Online Arctorna Workshop
     description: >-
       Online workshop kis csoportban, maximum négy fővel.
     price: 29000
-    full: true
+    full: fals
