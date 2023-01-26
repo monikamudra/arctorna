@@ -21,7 +21,7 @@ events:
   - date: 2023-1-24T18:00
     start: "18:00"
     end: "19:00"
-    full: false
+    full: true
     title: Délutáni&nbsp;csoport (online)
     classes:
       -
