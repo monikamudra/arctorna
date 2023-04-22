@@ -37,3 +37,12 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 29000
     full: true
+    
+  - date: 2023-5-20-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Online Arctorna Workshop
+    description: >-
+      Online workshop kis csoportban, maximum négy fővel.
+    price: 29000
+    full: false
