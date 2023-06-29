@@ -1,6 +1,5 @@
 A Komplett Arctorna Tréning a folyamatos edzés és tanfolyam kombinációja, mely
-három blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab egymásra
-épülő, 60 perces, vidám hangulatú, de kemény edzést tartalmaz, heti két
+három egymást követő blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab 60 perces, vidám hangulatú, de kemény edzést tartalmaz, heti két
 alkalommal.
 
 A **kezdő blokkban** megtanuljuk az arctornához használt speciális technikákat,
@@ -26,7 +25,7 @@ kötetlenül bármikor edzhetsz velünk tovább.
 
 ### Hányan vagyunk a tréningen?
 
-Egy csoportban maximum négyen vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget a járvány miatt online (skype) tartom, amely ugyanolyan hatékony, mint a személyes órák.
+Egy csoportban maximum négyen vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget online tartom (Skype-on), amely ugyanolyan hatékony, mint a személyes órák.
 
 ### Ki vehet részt a tréningen?
 
