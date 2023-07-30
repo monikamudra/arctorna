@@ -1,9 +1,6 @@
-A workshop intenzív négy órából áll, egy rövid szünettel. Egy
-gyors bevezető és az alapok ismertetése után teljes mértékben a gyakorlatra fókuszálunk. A
-workshop leghosszabb részében számos gyakorlatot tanulunk meg, melyek
-lefedik a teljes arcot és a nyakat. Ezután egy mini arctorna órában
-minden arctájon végigmegyünk úgy, ahogy otthon kell majd gyakorolni. A
-workshopot egy kellemes arcmasszázzsal&nbsp;zárjuk.
+A workshop intenzív négy órából áll, egy rövid szünettel. A bevezető után megismerkedünk az arctorna alapjaival, melyek elengedhetetlenek a biztonságos és hatékony edzéshez. A program további részében megtanuljuk és gyakoroljuk a különböző arc területekre tervezett gyakorlatokat és azok helyes végzését. Az utolsó órában tartok egy mini edzést, ahol a tanultak ismétlése mellett látni fogod, hogyan áll össze egy teljes arctorna óra. Végül egy szuper arcmasszázzsal lazítjuk az izmokat és zárjuk a programot.
+
+A workshop után kapsz egy hét napos ingyenes hozzáférést a Joyo arctorna programhoz, ahol online bármikor eléred az összes arctorna leckét (a workshop teljes anyagát), és saját időbeosztásod szerint gyakorolhatsz sok-sok vezetett edzésre.
 
 ### Hányan vagyunk a&nbsp;workshopon?
 
