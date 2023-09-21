@@ -4,7 +4,7 @@ price: 45000
 private_price: 80000
 # price_desc: Az első 10 alkalmas blokk ára
 events:
-  - date: 2023-9-4T9:00
+  - date: 2024-1-22T9:00
     start: "9:00"
     end: "10:00"
     full: false
@@ -14,11 +14,11 @@ events:
         day: hétfő
         time: "9:00"
       -
-        day: szerda
+        day: csütörtök
         time: "8:30"
     description: >-
-      Az órák hétfőn és szerdán reggel vannak.
-  - date: 2023-9-5T18:00
+      Az órák hétfőn és csütörtökön reggel vannak.
+  - date: 2024-1-23T18:00
     start: "18:00"
     end: "19:00"
     full: false
