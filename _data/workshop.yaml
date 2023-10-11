@@ -3,6 +3,7 @@ price: 29000
 price_online: 29000
 price_desc: Részvételi díj
 events:
+  #
   # -
   #   date: 2020-5-12-T10:00
   #   start: "10:00"
