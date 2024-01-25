@@ -14,9 +14,9 @@ koncentrálva végezzük a gyakorlatokat a teljes arcon és a nyakon.
 
 ### Milyen eredményekre számíthatsz?
 
-*   5 hét után érezhetően feszesebbé válik az arc
-*   10 hét után már szemmel is látható a változás
-*   15 hét után kisimultabb, feszesebb lesz az arc, a ráncok halványodnak
+- 5 hét után érezhetően feszesebbé válik az arc
+- 10 hét után már szemmel is látható a változás
+- 15 hét után kisimultabb, feszesebb lesz az arc, a ráncok halványodnak
 
 ### Van lehetőség edzésre a haladó szint elérése után?
 
@@ -35,11 +35,11 @@ néhány kizáró ok amivel nem lehet arctornázni, erről
 
 ### Mennyibe kerül és hogyan kell fizetni?
 
+A tréning árát 3 részletben, blokkonként kell fizetni.
 Egy 10 alkalmas blokk <span class="u-NoWrap">ára
-{{ site.data.training.price }}&nbsp;Ft</span>, amit a jelentkezést követően kérek szépen átutalni, ezzel biztosítva a helyedet a tréningen.
-(Az átutaláshoz szükséges adatokat a jelentkezés után, emailben fogom
-elküldeni.)
-
+{{ site.data.training.price }}&nbsp;Ft</span>. Az első részletet legkésőbb a tréning indulása előtt egy héttel kell befizetni.
+Részvételi szándékod megerősítésére 10000&nbsp;Ft előleget kérek, ennek
+részleteit a jelentkezés után emailben fogom elküldeni.
 
 [kerdesek]: {{ site.baseurl }}{% link kerdesek.md %}
 [email]: mailto:moni@arctornamonival.hu
