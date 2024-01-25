@@ -1,10 +1,10 @@
 registration_link: https://arctornaworkshop.typeform.com/to/N9N1Sb
 address: 1032 Budapest, San Marco utca
-price: 45000
+price: 69000
 private_price: 80000
 # price_desc: Az első 10 alkalmas blokk ára
 events:
-  - date: 2024-1-22T9:00
+  - date: 2024-9-2T9:00
     start: "9:00"
     end: "10:00"
     full: false
@@ -18,7 +18,7 @@ events:
         time: "8:30"
     description: >-
       Az órák hétfőn és csütörtökön reggel vannak.
-  - date: 2024-1-23T18:00
+  - date: 2024-9-3T18:00
     start: "18:00"
     end: "19:00"
     full: false
