@@ -37,7 +37,7 @@ néhány kizáró ok amivel nem lehet arctornázni, erről
 
 A tréning árát 3 részletben, blokkonként kell fizetni.
 Egy 10 alkalmas blokk <span class="u-NoWrap">ára
-{{ site.data.training.price }}&nbsp;Ft</span>. Az első részletet legkésőbb a tréning indulása előtt egy héttel kell befizetni.
+{{ site.data.training.price }}&nbsp;Ft</span>. Az első részletet legkésőbb a tréning indulása előtt egy héttel kérem átutalni.
 Részvételi szándékod megerősítésére 10000&nbsp;Ft előleget kérek, ennek
 részleteit a jelentkezés után emailben fogom elküldeni.
 
