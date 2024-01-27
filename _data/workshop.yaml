@@ -57,7 +57,7 @@ events:
     price: 29000
     full: true
     
-  - date: 2024-3-9-T10:00
+  - date: 2024-3-23-T10:00
     start: "10:00"
     end: "14:00"
     title: Online Arctorna Workshop
