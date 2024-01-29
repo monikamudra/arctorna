@@ -39,14 +39,14 @@ events:
     price: 29000
     full: true
 
-  - date: 2024-1-27-T10:00
+  - date: 2024-2-3-T10:00
     start: "10:00"
     end: "14:00"
     title: Online Arctorna Workshop
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
     price: 29000
-    full: true
+    full: false
     
   - date: 2024-2-17-T10:00
     start: "10:00"
