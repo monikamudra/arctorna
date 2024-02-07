@@ -38,7 +38,7 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 29000
     full: true
-    
+
   - date: 2024-2-17-T10:00
     start: "10:00"
     end: "14:00"
@@ -46,8 +46,8 @@ events:
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
     price: 29000
-    full: false
-    
+    full: true
+
   - date: 2024-2-24-T10:00
     start: "10:00"
     end: "14:00"
@@ -56,7 +56,7 @@ events:
       Online workshop kis csoportban, maximum öt fővel.
     price: 29000
     full: false
-    
+
   - date: 2024-3-23-T10:00
     start: "10:00"
     end: "14:00"
