@@ -46,7 +46,7 @@ events:
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
     price: 29000
-    full: false
+    full: true
     
   - date: 2024-4-13-T10:00
     start: "10:00"
