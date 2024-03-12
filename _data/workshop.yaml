@@ -56,3 +56,12 @@ events:
       Online workshop kis csoportban, maximum öt fővel.
     price: 29000
     full: false
+    
+  - date: 2024-4-27-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop, személyes jelenléttel
+    description: >-
+      Személyes workshop, maximum tíz fővel.
+    price: 29000
+    full: false
