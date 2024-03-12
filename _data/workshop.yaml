@@ -60,8 +60,9 @@ events:
   - date: 2024-4-27-T10:00
     start: "10:00"
     end: "14:00"
-    title: Arctorna Workshop, személyes jelenléttel
+    title: Arctorna Workshop
+    address: 1035 Budapest, Vihar u. 36.
     description: >-
-      Személyes workshop, maximum tíz fővel.
+      Személyes Arctorna workshop, maximum tíz fővel.
     price: 29000
     full: false
