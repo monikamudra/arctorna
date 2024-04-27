@@ -38,17 +38,6 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 29000
     full: true
-
-    
-  - date: 2024-4-27-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Arctorna Workshop
-    address: 1035 Budapest, Vihar u. 36.
-    description: >-
-      Arctorna workshop személyes jelenléttel, maximum tíz fővel.
-    price: 29000
-    full: true
     
   - date: 2024-5-11-T10:00
     start: "10:00"
@@ -59,4 +48,13 @@ events:
     price: 29000
     full: false
     
+  - date: 2024-6-22-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    address: 1035 Budapest, Vihar köz 36.
+    description: >-
+      Arctorna workshop személyes jelenléttel, maximum tíz fővel.
+    price: 29000
+    full: false
  
