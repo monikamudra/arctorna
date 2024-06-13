@@ -47,7 +47,7 @@ events:
     description: >-
       Arctorna workshop személyes jelenléttel, maximum tíz fővel.
     price: 29000
-    full: false
+    full: true
 
   - date: 2024-7-6-T10:00
     start: "10:00"
