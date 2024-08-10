@@ -48,7 +48,7 @@ events:
     price: 29000
     full: false
 
-      - date: 2024-9-21-T10:00
+  - date: 2024-9-21-T10:00
     start: "10:00"
     end: "14:00"
     title: Speciális Arctorna Workshop
