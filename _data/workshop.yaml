@@ -38,15 +38,6 @@ events:
       Online workshop kis csoportban, maximum négy fővel.
     price: 29000
     full: true
-    
-  - date: 2024-11-16-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Online Arctorna Workshop
-    description: >-
-      Online workshop kis csoportban, maximum öt fővel.
-    price: 29000
-    full: false
 
   - date: 2024-9-21-T10:00
     start: "10:00"
@@ -57,3 +48,12 @@ events:
     address: 1031 Budapest, Nánási út 40/a, Vintage Beauty szalon
     price: 19500
     full: true
+    
+  - date: 2024-11-16-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Online Arctorna Workshop
+    description: >-
+      Online workshop kis csoportban, maximum öt fővel.
+    price: 29000
+    full: false
