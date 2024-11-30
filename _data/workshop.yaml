@@ -43,9 +43,9 @@ events:
   - date: 2024-12-14-T10:00
     start: "10:00"
     end: "13:00"
-    title: Speciális Karácsonyi Arctorna Workshop
+    title: Rendhagyó Karácsonyi Arctorna Workshop
     description: >-
-      Villám, ünnepi arcfeszesítő arctorna workshop, személyes jelenléttel.
+      Ünnep előtti arctuning, személyes jelenléttel.
     address: 1031 Budapest, Nánási út 40/a, Vintage Beauty szalon
     price: 19500
     full: false
