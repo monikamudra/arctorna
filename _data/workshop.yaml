@@ -48,7 +48,7 @@ events:
       Ünnep előtti arctuning, személyes jelenléttel.
     address: 1031 Budapest, Nánási út 40/a, Vintage Beauty szalon
     price: 19500
-    full: true
+    full: false
     
   - date: 2025-1-18-T10:00
     start: "10:00"
