@@ -40,16 +40,6 @@ events:
     price: 19500
     full: true
     
-  - date: 2024-12-14-T10:00
-    start: "10:00"
-    end: "13:00"
-    title: Rendhagyó Karácsonyi Arctorna Workshop
-    description: >-
-      Ünnep előtti arctuning, személyes jelenléttel.
-    address: 1031 Budapest, Nánási út 40/a, Vintage Beauty szalon
-    price: 19500
-    full: true
-    
   - date: 2025-1-18-T10:00
     start: "10:00"
     end: "14:00"
