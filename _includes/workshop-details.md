@@ -4,7 +4,7 @@ A workshop után kapsz egy hét napos ingyenes hozzáférést a Joyo arctorna pr
 
 ### Hányan vagyunk a&nbsp;workshopon?
 
-A workshop maximális létszáma 5 fő, mivel nagyobb létszám esetén nem
+Az online workshop maximális létszáma 5 fő, mivel nagyobb létszám esetén nem
 tudnék mindenkire kellően&nbsp;odafigyelni.
 
 ### Kinek ajánlom a&nbsp;workshopot?
