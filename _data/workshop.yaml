@@ -65,7 +65,7 @@ events:
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
     price: 35000
-    full: false
+    full: true
     
   - date: 2025-4-5-T10:00
     start: "10:00"
