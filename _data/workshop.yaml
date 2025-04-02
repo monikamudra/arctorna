@@ -57,7 +57,7 @@ events:
       Arctorna workshop személyes jelenléttel.
     address: 1032 Budapest, Zápor u. 55.
     price: 35000
-    full: false
+    full: true
     
   - date: 2025-4-26-T10:00
     start: "10:00"
