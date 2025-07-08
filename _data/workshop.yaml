@@ -57,3 +57,13 @@ events:
       Online workshop kis csoportban, maximum öt fővel.
     price: 35000
     full: false
+    
+  - date: 2025-9-20-T10:00
+    start: "10:00"
+    end: "13:00"
+    title: Speciális Arctorna Workshop
+    description: >-
+      Arctorna workshop az aszimmetria javítására, személyes jelenléttel.
+    address: Budapest
+    price: 25000
+    full: false
