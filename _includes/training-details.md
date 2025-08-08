@@ -2,11 +2,11 @@ A Komplett Arctorna Tréning a folyamatos edzés és tanfolyam kombinációja, m
 három egymást követő blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab 60 perces, vidám hangulatú, de kemény edzést tartalmaz, heti két
 alkalommal.
 
-A **kezdő blokkban** célunk az alapok pontos megértése és elsajátítása. Megtanuljuk a főbb gyakorlatokat, valamint az izomfejlesztést támogató speciális technikákat. Ez a tudás elengedhetetlen ahhoz, hogy a későbbiekben magabiztosan és hatékonyan formálhasd az arcodat.
+A **kezdő blokkban** célunk az alapok pontos megértése és elsajátítása. Megtanuljuk a főbb gyakorlatokat, valamint az izomfejlesztést támogató speciális technikákat. Ez a tudás elengedhetetlen ahhoz, hogy magabiztosan és hatékonyan formálhasd az arcodat.
 
-A **középhaladó blokkban** az eddig tanultak összehangolására és az arcizmok erősítésére helyezzük a hangsúlyt. Az órák célja, hogy a gyakolatokat egymásra építve, lépésről lépésre egyre összetettebb és technikásabb feladatokat sajátítsunk el, precízen kivitelezve. (Ebben a szakaszban már látható eredmények is megjelennek.)
+A **középhaladó blokkban** az eddig tanultak összehangolására és az arcizmok erősítésére fókuszálunk. Az órákon lépésről lépésre haladva, egyre összetettebb és technikásabb feladatokat végzünk, mindezt precíz kivitelezéssel.
 
-A **haladó blokkban** tovább építkezünk, és az arc problémás területeire fókuszálunk. Újabb, haladó gyakorlatokkal és hatékony technikákkal az arc formálására összpontosítunk. Minden alkalommal más-más résztvevő kérése alapján állítom össze a gyakorlatokat, amiből mindenki tanulhat.
+A **haladó blokkban** tovább építkezünk, és az arc problémás területeire fókuszálunk. Újabb, haladó gyakorlatokkal és hatékony technikákkal az arc formálására és feszesítésére összpontosítunk. 
 
 ### Milyen eredményekre számíthatsz?
 
