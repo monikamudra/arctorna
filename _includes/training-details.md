@@ -2,15 +2,11 @@ A Komplett Arctorna Tréning a folyamatos edzés és tanfolyam kombinációja, m
 három egymást követő blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab 60 perces, vidám hangulatú, de kemény edzést tartalmaz, heti két
 alkalommal.
 
-A **kezdő blokkban** megtanuljuk az arctornához használt speciális technikákat,
-és ezek alkalmazásával felkészítjük az izmokat a későbbi arcformázáshoz.
+A **kezdő blokkban** célunk az alapok pontos megértése és elsajátítása. Megtanuljuk a főbb gyakorlatokat, valamint az izomfejlesztést támogató speciális technikákat. Ez a tudás elengedhetetlen ahhoz, hogy a későbbiekben magabiztosan és hatékonyan formálhasd az arcodat.
 
-A **középhaladó blokkban** tovább gyakoroljuk a már ismert technikákat,
-tökéletesítjük a gyakorlatokhoz szükséges speciális takarásokat, és haladó
-technikákat tanulunk.
+A **középhaladó blokkban** az eddig tanultak összehangolására és az arcizmok erősítésére helyezzük a hangsúlyt. Az órák célja, hogy a gyakolatokat egymásra építve, lépésről lépésre egyre összetettebb és technikásabb feladatokat sajátítsunk el, precízen kivitelezve. (Ebben a szakaszban már látható eredmények is megjelennek.)
 
-A **haladó blokkban** elkezdjük az arc formázását, és a problémás részekre
-koncentrálva végezzük a gyakorlatokat a teljes arcon és a nyakon.
+A **haladó blokkban** tovább építkezünk, és az arc problémás területeire fókuszálunk. Újabb, haladó gyakorlatokkal és hatékony technikákkal az arc formálására összpontosítunk. Minden alkalommal más-más résztvevő kérése alapján állítom össze a gyakorlatokat, amiből mindenki tanulhat.
 
 ### Milyen eredményekre számíthatsz?
 
@@ -25,7 +21,7 @@ kötetlenül bármikor edzhetsz velünk tovább.
 
 ### Hányan vagyunk a tréningen?
 
-Egy csoportban maximum öten vehetnek részt, mert nagyon fontos számomra, hogy mindenkire kellő figyelem jusson. A tréninget online tartom, ami ugyanolyan hatékony, mint a személyes órák.
+Egy csoportban legfeljebb öten vehetnek részt, mert számomra nagyon fontos, hogy mindenkire elegendő figyelem jusson. A tréninget online tartom, ami éppolyan hatékony, mint a személyes órák.
 
 ### Ki vehet részt a tréningen?
 
