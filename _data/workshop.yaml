@@ -49,7 +49,7 @@ events:
     price: 35000
     full: true
     
-  - date: 2025-8-30-T10:00
+  - date: 2025-9-20-T10:00
     start: "10:00"
     end: "14:00"
     title: Online Arctorna Workshop
@@ -58,7 +58,7 @@ events:
     price: 35000
     full: false
     
-  - date: 2025-9-20-T10:00
+  - date: 2025-9-27-T10:00
     start: "10:00"
     end: "13:00"
     title: Speciális Arctorna Workshop
