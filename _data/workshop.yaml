@@ -49,15 +49,6 @@ events:
     price: 35000
     full: true
     
-  - date: 2025-9-20-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Online Arctorna Workshop
-    description: >-
-      Online workshop kis csoportban, maximum öt fővel.
-    price: 35000
-    full: false
-    
   - date: 2025-9-27-T10:00
     start: "10:00"
     end: "13:00"
@@ -66,4 +57,13 @@ events:
       Arctorna workshop az arc aszimmetriájának javítására, személyes jelenléttel.
     address: 1027 Budapest, Csalogány u. 55. 
     price: 25000
+    full: false
+    
+  - date: 2025-10-25-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Online Arctorna Workshop
+    description: >-
+      Online workshop kis csoportban, maximum öt fővel.
+    price: 35000
     full: false
