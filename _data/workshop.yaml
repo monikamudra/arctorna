@@ -49,16 +49,6 @@ events:
     price: 35000
     full: true
     
-  - date: 2025-9-27-T10:00
-    start: "10:00"
-    end: "13:00"
-    title: Speciális Arctorna Workshop
-    description: >-
-      Arctorna workshop az arc aszimmetriájának javítására, személyes jelenléttel.
-    address: 1027 Budapest, Csalogány u. 55. 
-    price: 25000
-    full: false
-    
   - date: 2025-10-25-T10:00
     start: "10:00"
     end: "14:00"
@@ -66,4 +56,16 @@ events:
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
     price: 35000
+    full: false
+
+  - date: 2025-11-8-T10:00
+    start: "10:00"
+    end: "13:00"
+    title: Arctorna és smink workshop
+    description: >-
+       Izomaktiváló arctorna és bőrelőkészítés - 
+       10 perces profi smink rohanós napokra. 
+       Tények, tévhitek és drága melléfogások a leggyakoribb bakikkal.
+    address: 1027 Budapest, Csalogány u. 55. 
+    price: 25000
     full: false
