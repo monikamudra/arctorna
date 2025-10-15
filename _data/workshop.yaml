@@ -58,18 +58,6 @@ events:
       kis csoportban, maximum öt fővel.
     price: 35000
     full: false
-
-  - date: 2025-11-8-T10:00
-    start: "10:00"
-    end: "13:00"
-    title: Arctorna és smink workshop
-    description: >-
-       Néhány perces izomaktiváló arctorna gyakorlatok és bőrelőkészítés - 
-       10 perces profi smink sminkmester vezetésével.
-       Tények, tévhitek és drága melléfogások a leggyakoribb sminkbakikkal.
-    address: 1027 Budapest, Csalogány u. 55. 
-    price: 25000
-    full: false
     
   - date: 2025-11-8-T10:00
     start: "14:00"
