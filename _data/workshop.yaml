@@ -49,16 +49,6 @@ events:
     price: 35000
     full: true
     
-  - date: 2025-10-25-T10:00
-    start: "10:00"
-    end: "14:00"
-    title: Online Arctorna Workshop
-    description: >-
-      Arctorna alapozás a teljes arcon és a nyakon,
-      kis csoportban, maximum öt fővel.
-    price: 35000
-    full: false
-    
   - date: 2025-11-8-T10:00
     start: "14:00"
     end: "17:00"
@@ -70,3 +60,14 @@ events:
     address: 1027 Budapest, Csalogány u. 55. 
     price: 7500
     full: false
+    
+  - date: 2025-12-6-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Online Arctorna Workshop
+    description: >-
+      Arctorna alapozás a teljes arcon és a nyakon,
+      kis csoportban, maximum öt fővel.
+    price: 35000
+    full: false
+    
