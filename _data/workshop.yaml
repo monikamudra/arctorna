@@ -49,18 +49,6 @@ events:
     price: 35000
     full: true
     
-  - date: 2025-11-8-T10:00
-    start: "14:00"
-    end: "17:00"
-    title: Joyo találkozó
-    description: >-
-       Átbeszélünk minden kérdést, amely felmerül a gyakorlás során, 
-       majd tartok egy 45 perces szuper edzést, két új gyakorlattal. 
-       A program kizárólag aktív Joyo előfizetők számára érhető el!
-    address: 1027 Budapest, Csalogány u. 55. 
-    price: 7500
-    full: false
-    
   - date: 2025-12-6-T10:00
     start: "10:00"
     end: "14:00"
@@ -70,4 +58,16 @@ events:
       kis csoportban, maximum öt fővel.
     price: 35000
     full: false
+
+  - date: 2025-12-13-T10:00
+    start: "10:00"
+    end: "13:00"
+    title: Speciális Arctorna Workshop
+    description: >-
+       Minden, amit az arcizmok helyes edzéséről tudni kell,
+       egy szuperhatékony gyakorlatsorral az állvonal, áll, nyak és toka feszesítésére.
+    address: 1027 Budapest, Csalogány u. 55.
+    price: 25000
+    full: false
+    
     
