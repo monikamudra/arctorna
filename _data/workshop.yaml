@@ -54,8 +54,8 @@ events:
     end: "14:00"
     title: Online Arctorna Workshop
     description: >-
-      Arctorna alapozás a teljes arcon és a nyakon,
-      kis csoportban, maximum öt fővel.
+      Minden, amit az arcizmok helyes edzéséről tudni kell,
+      szuperhatékony gyakorlatokkal a teljes arcra és a nyakra.
     price: 35000
     full: false
 
@@ -64,8 +64,8 @@ events:
     end: "13:00"
     title: Speciális Arctorna Workshop
     description: >-
-       Minden, amit az arcizmok helyes edzéséről tudni kell,
-       egy szuperhatékony gyakorlatsorral az állvonal, áll, nyak és toka feszesítésére.
+      Minden, amit az arcizmok helyes edzéséről tudni kell,
+      egy szuperhatékony gyakorlatsorral az állvonal, áll, nyak és toka feszesítésére.
     address: 1027 Budapest, Csalogány u. 55.
     price: 25000
     full: false
