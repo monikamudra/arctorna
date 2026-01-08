@@ -5,7 +5,7 @@ A workshop után kapsz egy hét napos ingyenes hozzáférést a Joyo arctorna pr
 ### Hányan vagyunk a&nbsp;workshopon?
 
 Az online workshop maximális létszáma 5 fő, mivel nagyobb létszám esetén nem
-tudnék mindenkire kellően&nbsp;odafigyelni.
+tudnék mindenkire kellően&nbsp;odafigyelni. Személyes jelenléttel nagyobb csoportban dolgozunk.
 
 ### Kinek ajánlom a&nbsp;workshopot?
 
@@ -14,7 +14,7 @@ arcát, 20&nbsp;évestől <span class="u-NoWrap">95&nbsp;éves korig :)</span>
 
 ### Mennyibe kerül, és hogyan kell fizetni?
 
-Az online kiscsoportos arctorna workshop díja {{
+A csoportos arctorna workshop díja {{
 site.data.workshop.price_online }}&nbsp;Ft. Speciális workshop esetén az ár az eseménynél található. A regisztrációt követően a megadott e-mail címre automatikusan megérkeznek a fizetéssel kapcsolatos információk.
 
 ### Van a workshopnál gyorsabb és hatékonyabb&nbsp;megoldás?
