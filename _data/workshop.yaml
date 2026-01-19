@@ -59,4 +59,12 @@ events:
     price: 35000
     full: false
     
+  - date: 2026-2-28-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Online Arctorna Workshop
+    description: >-
+      Online workshop kis csoportban, maximum öt fővel.
+    price: 35000
+    full: false
     
