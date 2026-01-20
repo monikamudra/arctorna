@@ -57,7 +57,7 @@ events:
       Standard arctorna workshop, személyes jelenléttel
     address: 1027 Budapest, Csalogány u. 55.
     price: 35000
-    full: false
+    full: true
     
   - date: 2026-2-28-T10:00
     start: "10:00"
