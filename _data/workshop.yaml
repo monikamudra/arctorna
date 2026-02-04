@@ -57,4 +57,14 @@ events:
       Online workshop kis csoportban, maximum öt fővel.
     price: 35000
     full: false
+
+  - date: 2026-3-21-T10:00
+    start: "10:00"
+    end: "14:00"
+    title: Arctorna Workshop
+    description: >-
+      Arctorna workshop személyes jelenléttel
+    address: 11027 Budapest, Csalogány utca 55.
+    price: 35000
+    full: false
     
