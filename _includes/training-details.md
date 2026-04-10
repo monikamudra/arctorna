@@ -2,31 +2,31 @@ A Komplett Arctorna Tréning a folyamatos edzés és tanfolyam kombinációja, m
 három egymást követő blokkban a kezdőtől a haladó szintig vezet. Minden blokk 10 darab 60 perces, vidám hangulatú, de kemény edzést tartalmaz, heti két
 alkalommal.
 
-A **kezdő blokkban** célunk az alapok pontos megértése és elsajátítása. Megtanuljuk a főbb gyakorlatokat, valamint az izomfejlesztést támogató speciális technikákat. Ez a tudás elengedhetetlen ahhoz, hogy magabiztosan és hatékonyan formálhasd az arcodat.
+Az **első blokkban** célunk az alapok pontos megértése és elsajátítása. Megtanuljuk a főbb gyakorlatokat, valamint az izomfejlesztést támogató speciális technikákat. Ez a tudás elengedhetetlen ahhoz, hogy később magabiztosan és hatékonyan formálhasd az arcodat.
 
-A **középhaladó blokkban** az eddig tanultak összehangolására és az arcizmok erősítésére fókuszálunk. Az órákon lépésről lépésre haladva, egyre összetettebb és technikásabb feladatokat végzünk, mindezt precíz kivitelezéssel.
+A **második blokkban** az eddig tanultak összehangolására és az arcizmok erősítésére fókuszálunk. Az órákon lépésről lépésre haladva, egyre összetettebb és technikásabb gyakorlatokat végzünk, egyre érezhetőbb és láthatóbb eredménnyel.
 
-A **haladó blokkban** tovább építkezünk, és az arc problémás területeire fókuszálunk. Újabb, haladó gyakorlatokkal és hatékony technikákkal az arc formálására és feszesítésére összpontosítunk. 
+A **harmadik blokkban** tovább építkezve, újabb haladó gyakorlatokkal és technikákkal az arc problémás területeire és az arc formálására összpontosítunk. Itt már mások is észreveszik a változást. 
 
 ### Milyen eredményekre számíthatsz?
 
-- 5 hét után érezhetően feszesebbé válik az arc
+- 5 hét után frissebb és egészségesebb lesz az arcbőröd
 - 10 hét után már szemmel is látható a változás
 - 15 hét után kisimultabb, feszesebb lesz az arc, a ráncok halványodnak
 
-### Van lehetőség edzésre a haladó szint elérése után?
+### Van lehetőség edzésre a tréning után?
 
 Igen! Miután végeztél a három blokkal, szeretettel várunk a "klubban" ahol
 kötetlenül bármikor edzhetsz velünk tovább.
 
 ### Hányan vagyunk a tréningen?
 
-Egy csoportban legfeljebb öten vehetnek részt, mert számomra nagyon fontos, hogy mindenkire elegendő figyelem jusson. A tréninget online tartom, ami éppolyan hatékony, mint a személyes órák.
+A tréninget online, kis csoportokban tartom, hogy mindenkire maximális figyelem jusson. Így ugyanolyan hatékonysággal érkeznek az eredmények, mint a személyes órákon.
 
 ### Ki vehet részt a tréningen?
 
 A tréninget 65 éves korig bárki elkezdheti, akinek egészséges az arca. Van
-néhány kizáró ok amivel nem lehet arctornázni, erről
+néhány kizáró ok, amellyel nem lehet arctornázni, erről
 [itt találsz tájékoztatót][kerdesek].
 
 ### Mennyibe kerül és hogyan kell fizetni?
