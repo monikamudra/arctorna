@@ -31,11 +31,9 @@ néhány kizáró ok amivel nem lehet arctornázni, erről
 
 ### Mennyibe kerül és hogyan kell fizetni?
 
-A tréning árát 3 részletben, blokkonként kell fizetni.
+A tréning díja három részletben, blokkonként fizetendő.
 Egy 10 alkalmas blokk <span class="u-NoWrap">ára
-{{ site.data.training.price }}&nbsp;Ft</span>. Az első részletet legkésőbb a tréning indulása előtt egy héttel kérem átutalni.
-Részvételi szándékod megerősítésére 10000&nbsp;Ft előleget kérek, ennek
-részleteit a jelentkezés után emailben fogom elküldeni.
+{{ site.data.training.price }}&nbsp;Ft</span>. Az első részletet a tréning indulása előtt egy héttel kell befizetni, erről értesítést küldök.
 
 [kerdesek]: {{ site.baseurl }}{% link kerdesek.md %}
 [email]: mailto:moni@arctornamonival.hu
