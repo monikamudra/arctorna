@@ -6,7 +6,7 @@ Az **első blokkban** célunk az alapok pontos megértése és elsajátítása. 
 
 A **második blokkban** a tanultak összehangolására és az arcizmok erősítésére fókuszálunk. Az órákon lépésről lépésre haladva, egyre összetettebb és technikásabb gyakorlatokat végzünk, már érezhető és látható eredménnyel.
 
-A **harmadik blokkban** tovább építkezve, újabb haladó gyakorlatokkal és technikákkal az arc problémás területeire és az arc formálására összpontosítunk. Itt már mások is észreveszik a változást. 
+A **harmadik blokkban** tovább építkezve, újabb gyakorlatokkal és edzéstechnikákkal az arc problémás területeire és formálására összpontosítunk. Itt már mások is észreveszik a változást :) 
 
 ### Milyen eredményekre számíthatsz?
 
