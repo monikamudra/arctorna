@@ -55,7 +55,7 @@ events:
     title: Online Arctorna Workshop
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
-    price: 35000
+    price: 29000
     full: false
 
   - date: 2026-10-10-T10:00
@@ -64,6 +64,6 @@ events:
     title: Online Arctorna Workshop
     description: >-
       Online workshop kis csoportban, maximum öt fővel.
-    price: 35000
+    price: 29000
     full: false
 
