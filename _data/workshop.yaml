@@ -58,6 +58,16 @@ events:
     price: 29000
     full: false
 
+  - date: 2026-10-3-T10:00
+    start: "10:00"
+    end: "13:00"
+    title: Az arc újrahangolása workshop
+    description: >-
+      Tíz perces napi rutin az izmok tónusban tartására, különleges hibrid gyakorlatokkal.
+    address: 1027 Budapest, Csalogány u. 55.
+    price: 15000
+    full: false
+
   - date: 2026-10-17-T10:00
     start: "10:00"
     end: "14:00"
